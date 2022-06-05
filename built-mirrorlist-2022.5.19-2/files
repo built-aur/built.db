@@ -1,0 +1,5 @@
+%FILES%
+etc/
+etc/pacman.d/
+etc/pacman.d/built-mirrorlist
+etc/pacman.d/built-mirrorlist-x86-64-v3

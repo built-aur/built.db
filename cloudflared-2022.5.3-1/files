@@ -1,0 +1,8 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/cloudflared
+usr/share/
+usr/share/licenses/
+usr/share/licenses/cloudflared/
+usr/share/licenses/cloudflared/LICENSE

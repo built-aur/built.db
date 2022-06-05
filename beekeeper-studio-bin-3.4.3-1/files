@@ -1,0 +1,143 @@
+%FILES%
+opt/
+opt/Beekeeper Studio/
+opt/Beekeeper Studio/LICENSE.electron.txt
+opt/Beekeeper Studio/LICENSES.chromium.html
+opt/Beekeeper Studio/beekeeper-studio
+opt/Beekeeper Studio/beekeeper-studio-bin
+opt/Beekeeper Studio/chrome-sandbox
+opt/Beekeeper Studio/chrome_100_percent.pak
+opt/Beekeeper Studio/chrome_200_percent.pak
+opt/Beekeeper Studio/icudtl.dat
+opt/Beekeeper Studio/libEGL.so
+opt/Beekeeper Studio/libGLESv2.so
+opt/Beekeeper Studio/libffmpeg.so
+opt/Beekeeper Studio/libvk_swiftshader.so
+opt/Beekeeper Studio/libvulkan.so.1
+opt/Beekeeper Studio/locales/
+opt/Beekeeper Studio/locales/am.pak
+opt/Beekeeper Studio/locales/ar.pak
+opt/Beekeeper Studio/locales/bg.pak
+opt/Beekeeper Studio/locales/bn.pak
+opt/Beekeeper Studio/locales/ca.pak
+opt/Beekeeper Studio/locales/cs.pak
+opt/Beekeeper Studio/locales/da.pak
+opt/Beekeeper Studio/locales/de.pak
+opt/Beekeeper Studio/locales/el.pak
+opt/Beekeeper Studio/locales/en-GB.pak
+opt/Beekeeper Studio/locales/en-US.pak
+opt/Beekeeper Studio/locales/es-419.pak
+opt/Beekeeper Studio/locales/es.pak
+opt/Beekeeper Studio/locales/et.pak
+opt/Beekeeper Studio/locales/fa.pak
+opt/Beekeeper Studio/locales/fi.pak
+opt/Beekeeper Studio/locales/fil.pak
+opt/Beekeeper Studio/locales/fr.pak
+opt/Beekeeper Studio/locales/gu.pak
+opt/Beekeeper Studio/locales/he.pak
+opt/Beekeeper Studio/locales/hi.pak
+opt/Beekeeper Studio/locales/hr.pak
+opt/Beekeeper Studio/locales/hu.pak
+opt/Beekeeper Studio/locales/id.pak
+opt/Beekeeper Studio/locales/it.pak
+opt/Beekeeper Studio/locales/ja.pak
+opt/Beekeeper Studio/locales/kn.pak
+opt/Beekeeper Studio/locales/ko.pak
+opt/Beekeeper Studio/locales/lt.pak
+opt/Beekeeper Studio/locales/lv.pak
+opt/Beekeeper Studio/locales/ml.pak
+opt/Beekeeper Studio/locales/mr.pak
+opt/Beekeeper Studio/locales/ms.pak
+opt/Beekeeper Studio/locales/nb.pak
+opt/Beekeeper Studio/locales/nl.pak
+opt/Beekeeper Studio/locales/pl.pak
+opt/Beekeeper Studio/locales/pt-BR.pak
+opt/Beekeeper Studio/locales/pt-PT.pak
+opt/Beekeeper Studio/locales/ro.pak
+opt/Beekeeper Studio/locales/ru.pak
+opt/Beekeeper Studio/locales/sk.pak
+opt/Beekeeper Studio/locales/sl.pak
+opt/Beekeeper Studio/locales/sr.pak
+opt/Beekeeper Studio/locales/sv.pak
+opt/Beekeeper Studio/locales/sw.pak
+opt/Beekeeper Studio/locales/ta.pak
+opt/Beekeeper Studio/locales/te.pak
+opt/Beekeeper Studio/locales/th.pak
+opt/Beekeeper Studio/locales/tr.pak
+opt/Beekeeper Studio/locales/uk.pak
+opt/Beekeeper Studio/locales/vi.pak
+opt/Beekeeper Studio/locales/zh-CN.pak
+opt/Beekeeper Studio/locales/zh-TW.pak
+opt/Beekeeper Studio/resources.pak
+opt/Beekeeper Studio/resources/
+opt/Beekeeper Studio/resources/app.asar
+opt/Beekeeper Studio/resources/public/
+opt/Beekeeper Studio/resources/public/icons/
+opt/Beekeeper Studio/resources/public/icons/mac/
+opt/Beekeeper Studio/resources/public/icons/mac/bk-icon.icns
+opt/Beekeeper Studio/resources/public/icons/png/
+opt/Beekeeper Studio/resources/public/icons/png/1024x1024.png
+opt/Beekeeper Studio/resources/public/icons/png/128x128.png
+opt/Beekeeper Studio/resources/public/icons/png/16x16.png
+opt/Beekeeper Studio/resources/public/icons/png/24x24.png
+opt/Beekeeper Studio/resources/public/icons/png/256x256.png
+opt/Beekeeper Studio/resources/public/icons/png/32x32.png
+opt/Beekeeper Studio/resources/public/icons/png/48x48.png
+opt/Beekeeper Studio/resources/public/icons/png/512x512.png
+opt/Beekeeper Studio/resources/public/icons/png/64x64.png
+opt/Beekeeper Studio/resources/public/icons/png/96x96.png
+opt/Beekeeper Studio/resources/public/icons/win/
+opt/Beekeeper Studio/resources/public/icons/win/favicon.ico
+opt/Beekeeper Studio/resources/public/index.html
+opt/Beekeeper Studio/snapshot_blob.bin
+opt/Beekeeper Studio/swiftshader/
+opt/Beekeeper Studio/swiftshader/libEGL.so
+opt/Beekeeper Studio/swiftshader/libGLESv2.so
+opt/Beekeeper Studio/v8_context_snapshot.bin
+opt/Beekeeper Studio/vk_swiftshader_icd.json
+usr/
+usr/bin/
+usr/bin/beekeeper-studio
+usr/share/
+usr/share/applications/
+usr/share/applications/beekeeper-studio.desktop
+usr/share/icons/
+usr/share/icons/hicolor/
+usr/share/icons/hicolor/1024x1024/
+usr/share/icons/hicolor/1024x1024/apps/
+usr/share/icons/hicolor/1024x1024/apps/beekeeper-studio.png
+usr/share/icons/hicolor/128x128/
+usr/share/icons/hicolor/128x128/apps/
+usr/share/icons/hicolor/128x128/apps/beekeeper-studio.png
+usr/share/icons/hicolor/16x16/
+usr/share/icons/hicolor/16x16/apps/
+usr/share/icons/hicolor/16x16/apps/beekeeper-studio.png
+usr/share/icons/hicolor/24x24/
+usr/share/icons/hicolor/24x24/apps/
+usr/share/icons/hicolor/24x24/apps/beekeeper-studio.png
+usr/share/icons/hicolor/256x256/
+usr/share/icons/hicolor/256x256/apps/
+usr/share/icons/hicolor/256x256/apps/beekeeper-studio.png
+usr/share/icons/hicolor/32x32/
+usr/share/icons/hicolor/32x32/apps/
+usr/share/icons/hicolor/32x32/apps/beekeeper-studio.png
+usr/share/icons/hicolor/48x48/
+usr/share/icons/hicolor/48x48/apps/
+usr/share/icons/hicolor/48x48/apps/beekeeper-studio.png
+usr/share/icons/hicolor/512x512/
+usr/share/icons/hicolor/512x512/apps/
+usr/share/icons/hicolor/512x512/apps/beekeeper-studio.png
+usr/share/icons/hicolor/64x64/
+usr/share/icons/hicolor/64x64/apps/
+usr/share/icons/hicolor/64x64/apps/beekeeper-studio.png
+usr/share/icons/hicolor/96x96/
+usr/share/icons/hicolor/96x96/apps/
+usr/share/icons/hicolor/96x96/apps/beekeeper-studio.png
+usr/share/licenses/
+usr/share/licenses/beekeeper-studio/
+usr/share/licenses/beekeeper-studio/LICENSE
+usr/share/licenses/beekeeper-studio/LICENSE.electron.txt
+usr/share/licenses/beekeeper-studio/LICENSES.chromium.html
+usr/share/mime/
+usr/share/mime/packages/
+usr/share/mime/packages/beekeeper-studio.xml

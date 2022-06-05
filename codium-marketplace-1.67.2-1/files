@@ -1,0 +1,8 @@
+%FILES%
+usr/
+usr/share/
+usr/share/codium-marketplace/
+usr/share/codium-marketplace/patch.sh
+usr/share/libalpm/
+usr/share/libalpm/hooks/
+usr/share/libalpm/hooks/codium-marketplace.hook

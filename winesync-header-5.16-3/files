@@ -1,0 +1,5 @@
+%FILES%
+usr/
+usr/include/
+usr/include/linux/
+usr/include/linux/winesync.h

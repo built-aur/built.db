@@ -1,0 +1,14 @@
+%FILES%
+usr/
+usr/src/
+usr/src/winesync-5.16/
+usr/src/winesync-5.16/Makefile
+usr/src/winesync-5.16/dkms.conf
+usr/src/winesync-5.16/include/
+usr/src/winesync-5.16/include/uapi/
+usr/src/winesync-5.16/include/uapi/linux/
+usr/src/winesync-5.16/include/uapi/linux/winesync.h
+usr/src/winesync-5.16/src/
+usr/src/winesync-5.16/src/drivers/
+usr/src/winesync-5.16/src/drivers/misc/
+usr/src/winesync-5.16/src/drivers/misc/winesync.c

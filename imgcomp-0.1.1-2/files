@@ -1,0 +1,8 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/imgcomp
+usr/share/
+usr/share/licenses/
+usr/share/licenses/imgcomp/
+usr/share/licenses/imgcomp/LICENSE

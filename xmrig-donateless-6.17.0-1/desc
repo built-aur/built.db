@@ -1,0 +1,66 @@
+%FILENAME%
+xmrig-donateless-6.17.0-1-x86_64.pkg.tar.xz
+
+%NAME%
+xmrig-donateless
+
+%BASE%
+xmrig
+
+%VERSION%
+6.17.0-1
+
+%DESC%
+RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark - No Donate Version
+
+%CSIZE%
+1678424
+
+%ISIZE%
+6108776
+
+%MD5SUM%
+c6ab860f197f414ff0ba33e80e457245
+
+%SHA256SUM%
+e15703261942b4b0a9916ba73d11be2d38f73850d99fd0dd114ef63ab6db84d1
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmKSCfMACgkQAiE6BJNFfpYR/BAAtIOXwheT/g3zAYIyGDM3abaQYZZv1NDPEty/08NsXsVfB6+Zkdx63rsXqb9aBR5yoGZHkUzsQShM+fI6Hj2IV90YNid5tfiOKrzc/6P18a4qqgs/KHWd71HSMZ2FOv7LhsX6Sa2ecRZ4gE8nVOV5FYHki70oL4uTAWk+4+tA3QsCvlWuhm7hVsbYlCink5ELXOeCIvE3/TLhkhEbC4S1qhvFyMctn5iI1pXxlGTwMrcdZa95PydOmFOOkIOwJcsrMKyciMn7nZBmzCn45keM8k2qcMMTmoVeKzWciFUpANS1fhAGrtr1qWGPN+yN/Hlyka9ZhB1vgeV755Vz/BRUvhNwN6bHzssZygXeC7QPHoDYPiXU3zu6eQeSGjxw7QXYlZCDHrfEBaS96HDb+Rbrhnl03l8LvUeX/thQ6zSbXizw/ci8knDwW2+ZPF/ugQVZoBpxnMEQM6DbwEO4IJrCqO6bSEdNHwHHM+MYu3aH6hH3ZoVyqTefjL0yluPnoZoSYeis7bqFJ8lcnZEcQcdJsa0A5lhbLJw2JGzeCZdWJMwo6V8vdohtcOrtPJ7UeebGWgUqo+RsjfcSldUsNjkj+UkxPVm/tr2OyMrOriB1tHvDbd1dOBhTskEViu3OAnlCddRs63FX3aHrArOn7R+RXxbmRukbiOY0AmqvMLHWEag=
+
+%URL%
+https://github.com/xmrig/xmrig
+
+%LICENSE%
+MIT
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1653737646
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%CONFLICTS%
+xmrig
+
+%PROVIDES%
+xmrig=6.17.0
+
+%DEPENDS%
+libuv
+libmicrohttpd
+openssl
+hwloc
+
+%OPTDEPENDS%
+ocl-icd: AMD GPU mining
+opencl-headers: AMD GPU mining
+cuda: nVidia GPU mining
+
+%MAKEDEPENDS%
+cmake
+sed
+

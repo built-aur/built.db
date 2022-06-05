@@ -1,0 +1,57 @@
+%FILENAME%
+paru-1.10.0-1-x86_64.pkg.tar.xz
+
+%NAME%
+paru
+
+%BASE%
+paru
+
+%VERSION%
+1.10.0-1
+
+%DESC%
+Feature packed AUR helper
+
+%CSIZE%
+2183132
+
+%ISIZE%
+7692351
+
+%MD5SUM%
+d8a1f7a2436416b6866692f8e861ee89
+
+%SHA256SUM%
+e370af71f0bd861f3b3f8ec44aa1d1fc5c753e0b7a5411cb3c41cd7822b47876
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmKIAs8ACgkQAiE6BJNFfpbxCg/+PMC4q/UZwWEEqJkFqRUwZyuW90CadCT2+Th9vKafGdKKygWAKmbB8+Q28cotCNMvzcNYECopn5ZZKjLiCVWz/lX6b18NQaz6qyXeoQdB53WbdZayAdGTJU0u7q/H7+yYcvgCy1mGGbpjLERxfxLxAR1gwhFlLXN3Nd86vwd5VvQk4gcgggs1H+kVND1Wf9KtWewhRepNqI19M41VvD4d8WEVhm4SsM4MErtWbzwXK3Ox55JQtESvzN2YunJprO9a/Pek3nzDj89DIF/9ak6ubn6g1ZDmyFehHXCNX0OimuInVC23zkPZa2vBLNI5PR3EhAtGKBLRQaluzm5xSxrdr9vS+kvxJQiLTClMcPrJ/dn7OLacYqMzrOfF15lDq/xWhQjtt0nrC7U2TCcSaoMtltoT/bj17JZlZiWK9cRTIYEXuZprLs/JKKJJEF0pgLf1uuSYVIee+ay3cS6ZkY0Vg5GbDIC0zYMyiZAZpaJu/ZL2Vq7pLmvIR3l1dQCe5NH6waHq67fq0GFg6ot0iHOpuRmtUi1ORGnpeVL2ORUr+UY+8z6FWFP7Fyu+Zk1lvc6k4zdyLew+IR0LQg3FwFM+IArhsfHzgA/4zkpUIVP5R9JXELtj5oAYjjZHEVhdnNcfNv6ndkG0+ZWGsMbIEZAVeC2902xp3ak0VEG03w2/To4=
+
+%URL%
+https://github.com/morganamilo/paru
+
+%LICENSE%
+GPL3
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1653080076
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%DEPENDS%
+git
+pacman
+
+%OPTDEPENDS%
+asp: downloading repo pkgbuilds
+bat: colored pkgbuild printing
+devtools: build in chroot
+
+%MAKEDEPENDS%
+cargo
+

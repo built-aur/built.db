@@ -1,0 +1,56 @@
+%FILENAME%
+patool-1.12-5-any.pkg.tar.xz
+
+%NAME%
+patool
+
+%BASE%
+patool
+
+%VERSION%
+1.12-5
+
+%DESC%
+portable command line archive file manager
+
+%CSIZE%
+65660
+
+%ISIZE%
+361616
+
+%MD5SUM%
+712e7f3909df3491fc46427b9d8dcbdf
+
+%SHA256SUM%
+05c3a300b7e069c6765807d36a26b293f8edeca2ca1c5ae358879c6061988c11
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmKGn2EACgkQAiE6BJNFfpZk9xAAoaVxvU1j5cLTrNi7kOkKCksdqHMPMWx7g3ROgrlsRtf53GVhmsPZHfXT5NkVG+/pPvAtA23q6yGYzB00R44W4pyYGK+MxtjBnh3s9rjdsXhmsMK42yu8AD3HPR05L3qxQH4qpN67/IcgqeBiIOoOzjcH+5Wt25HpRoNX/uCpfknlG+tgE132d22WSXCz2GmPafL8TLgIX+C0RU2R3CDE0XZQAKGfApin97yQP3xl5suQNeq9aEjrcIrfFfhtrOw5eE0jx9XHWopTPrrm3qtAKW32cOdzNJ/0Lykl/Pe6AB/7FGCDrTB4PSgpMP+dLYIhQK4rYJ4ABWQjNW/x6PLNac8YGR9HJH9srXgbzur0Gg80RlK+nTZRLBSieM5Xm30YOEJKUbEMC8PVpZx3RFKZqzfmEPZ+1+uO7uk8iMCj8RhxyXGBZZelF/8wNRe6DBjVKa82TxlTEYFRq9N/e5srUa0x+S0TijJcxEDyyq0PApdfpU5RGVOFbT0qoAgDwYQcWkRS+aptS0lnM95n7unf8Cy43bcp9yinZPUQEBQBMkbFViV474/EOZFuJ5O93CHQzJR8xjCob2O/ixDKoYgyKmJ+qpfnz8fGBBkNbDhQuanFAzo5qdq7E1WGoP61jd7VJKX0aTlNz+9m8yogTcZyY5miT//m4su/1wKjyTRNI9k=
+
+%URL%
+https://wummel.github.io/patool/
+
+%LICENSE%
+GPL
+
+%ARCH%
+any
+
+%BUILDDATE%
+1652989737
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%DEPENDS%
+python
+
+%OPTDEPENDS%
+tar: extracting TAR files
+unrar: extracting RAR files
+p7zip: extracting ZIP and 7z files
+
+%MAKEDEPENDS%
+python-setuptools
+

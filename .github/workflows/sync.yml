@@ -1,0 +1,34 @@
+name: Sync
+
+on:
+  schedule:
+    - cron:  '* */1 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download and unpack
+        run: |
+          rm -rf *-*
+          wget https://built-aur.medzik.workers.dev/x86_64/built.db.tar.xz -O - | tar xJf -
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "MedzikUserBot"
+          git config --global user.email "rm99iv9s@duck.com"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "$(date)"
+          git pull --rebase
+
+      - name: Push changes
+        uses: ad-m/github-push-action@b007e7b818e33b04afd056e4c4b57ba917145d7a
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: 'main'

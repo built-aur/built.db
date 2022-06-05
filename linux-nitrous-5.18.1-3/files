@@ -5007,15 +5007,6 @@ usr/lib/modules/5.18.1-nitrous+/kernel/drivers/usb/usbip/usbip-core.ko.xz
 usr/lib/modules/5.18.1-nitrous+/kernel/drivers/usb/usbip/usbip-host.ko.xz
 usr/lib/modules/5.18.1-nitrous+/kernel/drivers/usb/usbip/usbip-vudc.ko.xz
 usr/lib/modules/5.18.1-nitrous+/kernel/drivers/usb/usbip/vhci-hcd.ko.xz
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/mdev/
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/mdev/mdev.ko.xz
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/pci/
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/pci/vfio-pci-core.ko.xz
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/pci/vfio-pci.ko.xz
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/vfio.ko.xz
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/vfio_iommu_type1.ko.xz
-usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vfio/vfio_virqfd.ko.xz
 usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vhost/
 usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vhost/vhost.ko.xz
 usr/lib/modules/5.18.1-nitrous+/kernel/drivers/vhost/vhost_iotlb.ko.xz

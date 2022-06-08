@@ -2,7 +2,7 @@ name: Sync
 
 on:
   schedule:
-    - cron:  '0 */1 * * *'
+    - cron:  '*/30 * * * *'
 
   workflow_dispatch:
 
@@ -17,7 +17,7 @@ jobs:
       - name: Download and unpack
         run: |
           rm -rf *-*
-          wget https://built-aur.medzik.workers.dev/x86_64/built.files -O - | tar xJf -
+          wget -qq https://built-aur.medzik.workers.dev/x86_64/built.files -O - | tar xJf -
 
       - name: Commit changes
         run: |

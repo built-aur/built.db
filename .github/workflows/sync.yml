@@ -17,7 +17,7 @@ jobs:
       - name: Download and unpack
         run: |
           rm -rf *-*
-          wget -qq https://built-aur.medzik.workers.dev/x86_64/built.files -O - | tar xJf -
+          wget -qq https://built.medzik.xyz/x86_64/built.files -O - | tar xJf -
 
       - name: Commit changes
         run: |

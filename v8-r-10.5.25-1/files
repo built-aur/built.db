@@ -13,6 +13,7 @@ usr/include/cppgc/ephemeron-pair.h
 usr/include/cppgc/explicit-management.h
 usr/include/cppgc/garbage-collected.h
 usr/include/cppgc/heap-consistency.h
+usr/include/cppgc/heap-handle.h
 usr/include/cppgc/heap-state.h
 usr/include/cppgc/heap-statistics.h
 usr/include/cppgc/heap.h

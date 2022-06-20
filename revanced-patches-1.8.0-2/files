@@ -1,8 +1,8 @@
 %FILES%
 usr/
 usr/share/
-usr/share/java/
-usr/share/java/revanced-patches.jar
 usr/share/licenses/
 usr/share/licenses/revanced-patches/
 usr/share/licenses/revanced-patches/LICENSE
+usr/share/revanced/
+usr/share/revanced/revanced-patches.jar

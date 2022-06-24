@@ -123,6 +123,7 @@ usr/lib/node_modules/gatsby-cli/lib/whoami.js
 usr/lib/node_modules/gatsby-cli/node_modules/
 usr/lib/node_modules/gatsby-cli/node_modules/.bin/
 usr/lib/node_modules/gatsby-cli/node_modules/.bin/browserslist
+usr/lib/node_modules/gatsby-cli/node_modules/.bin/browserslist-lint
 usr/lib/node_modules/gatsby-cli/node_modules/.bin/create-gatsby
 usr/lib/node_modules/gatsby-cli/node_modules/.bin/envinfo
 usr/lib/node_modules/gatsby-cli/node_modules/.bin/is-ci
@@ -1415,7 +1416,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/browserslist/index.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/browserslist/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/browserslist/node.js
 usr/lib/node_modules/gatsby-cli/node_modules/browserslist/package.json
-usr/lib/node_modules/gatsby-cli/node_modules/browserslist/update-db.js
+usr/lib/node_modules/gatsby-cli/node_modules/browserslist/parse.js
 usr/lib/node_modules/gatsby-cli/node_modules/cacheable-lookup/
 usr/lib/node_modules/gatsby-cli/node_modules/cacheable-lookup/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/cacheable-lookup/README.md
@@ -10271,6 +10272,13 @@ usr/lib/node_modules/gatsby-cli/node_modules/universalify/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/universalify/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/universalify/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/universalify/package.json
+usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/
+usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/LICENSE
+usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/README.md
+usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/cli.js
+usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/index.d.ts
+usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/update-notifier/
 usr/lib/node_modules/gatsby-cli/node_modules/update-notifier/check.js
 usr/lib/node_modules/gatsby-cli/node_modules/update-notifier/index.js

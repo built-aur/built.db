@@ -36,7 +36,7 @@ opt/jetbrains-gateway/lib/asm-analysis-7.1.jar
 opt/jetbrains-gateway/lib/asm-commons-7.1.jar
 opt/jetbrains-gateway/lib/asm-tree-7.1.jar
 opt/jetbrains-gateway/lib/asm-util-7.1.jar
-opt/jetbrains-gateway/lib/build-marker-GW-221.5787.23
+opt/jetbrains-gateway/lib/build-marker-GW-221.5921.22
 opt/jetbrains-gateway/lib/byte-buddy-agent.jar
 opt/jetbrains-gateway/lib/cds/
 opt/jetbrains-gateway/lib/cds/classesLogAgent.jar

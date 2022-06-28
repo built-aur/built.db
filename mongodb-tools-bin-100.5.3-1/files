@@ -1,0 +1,11 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/bsondump
+usr/bin/mongodump
+usr/bin/mongoexport
+usr/bin/mongofiles
+usr/bin/mongoimport
+usr/bin/mongorestore
+usr/bin/mongostat
+usr/bin/mongotop

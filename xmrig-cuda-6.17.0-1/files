@@ -1,0 +1,8 @@
+%FILES%
+usr/
+usr/lib/
+usr/lib/libxmrig-cuda.so
+usr/share/
+usr/share/doc/
+usr/share/doc/xmrig-cuda/
+usr/share/doc/xmrig-cuda/README.md

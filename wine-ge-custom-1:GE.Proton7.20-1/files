@@ -119,6 +119,7 @@ usr/include/wine/windows/amsi.h
 usr/include/wine/windows/amsi.idl
 usr/include/wine/windows/amstream.h
 usr/include/wine/windows/amstream.idl
+usr/include/wine/windows/amva.h
 usr/include/wine/windows/amvideo.h
 usr/include/wine/windows/amvideo.idl
 usr/include/wine/windows/apiset.h
@@ -654,6 +655,8 @@ usr/include/wine/windows/mmreg.h
 usr/include/wine/windows/mmstream.h
 usr/include/wine/windows/mmstream.idl
 usr/include/wine/windows/mmsystem.h
+usr/include/wine/windows/mpegtype.h
+usr/include/wine/windows/mpegtype.idl
 usr/include/wine/windows/mprapi.h
 usr/include/wine/windows/mprerror.h
 usr/include/wine/windows/msacm.h
@@ -979,6 +982,8 @@ usr/include/wine/windows/ver.h
 usr/include/wine/windows/verrsrc.h
 usr/include/wine/windows/vfw.h
 usr/include/wine/windows/vfwmsgs.h
+usr/include/wine/windows/videoacc.h
+usr/include/wine/windows/videoacc.idl
 usr/include/wine/windows/virtdisk.h
 usr/include/wine/windows/vmr9.h
 usr/include/wine/windows/vmr9.idl

@@ -1186,6 +1186,8 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/server/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/server/server.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/server/util.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/server/util.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/types.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/types.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/utils/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/utils/non_nullable.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/utils/non_nullable.js

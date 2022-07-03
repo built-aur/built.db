@@ -4076,9 +4076,11 @@ usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_CAN_LINK
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_CAN_LINK_STATIC
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_ASM_GOTO
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_ASM_GOTO_OUTPUT
+usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_ASM_GOTO_TIED_OUTPUT
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_ASM_INLINE
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_AUTO_VAR_INIT_PATTERN
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_AUTO_VAR_INIT_ZERO
+usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_IBT
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_INT128
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_KASAN_GENERIC
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_KASAN_SW_TAGS
@@ -4086,6 +4088,7 @@ usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_NO_PROFILE_FN_ATTR
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_SANCOV_TRACE_PC
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_SANE_STACKPROTECTOR
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_HAS_WORKING_NOSANITIZE_ADDRESS
+usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_IMPLICIT_FALLTHROUGH
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_IS_CLANG
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_OPTIMIZE_FOR_PERFORMANCE_O3
 usr/lib/modules/5.18.9-nitrous+/build/include/config/CC_VERSION_TEXT
@@ -8465,6 +8468,7 @@ usr/lib/modules/5.18.9-nitrous+/build/include/config/RAID6_PQ
 usr/lib/modules/5.18.9-nitrous+/build/include/config/RAID6_PQ_BENCHMARK
 usr/lib/modules/5.18.9-nitrous+/build/include/config/RAID_ATTRS
 usr/lib/modules/5.18.9-nitrous+/build/include/config/RANDOMIZE_BASE
+usr/lib/modules/5.18.9-nitrous+/build/include/config/RANDOMIZE_KSTACK_OFFSET
 usr/lib/modules/5.18.9-nitrous+/build/include/config/RANDOMIZE_MEMORY
 usr/lib/modules/5.18.9-nitrous+/build/include/config/RANDOMIZE_MEMORY_PHYSICAL_PADDING
 usr/lib/modules/5.18.9-nitrous+/build/include/config/RANDOM_TRUST_BOOTLOADER

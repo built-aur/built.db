@@ -243,7 +243,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/transformation/norm
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/transformation/normalize-opts.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/transformation/plugin-pass.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/transformation/util/
-usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/transformation/util/clone-deep-browser.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/transformation/util/clone-deep.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/vendor/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/vendor/import-meta-resolve.js
@@ -269,10 +268,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/src/config/resolve-targ
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/src/config/resolve-targets.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/src/transform-file-browser.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/src/transform-file.ts
-usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/src/transformation/
-usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/src/transformation/util/
-usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/src/transformation/util/clone-deep-browser.ts
-usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/src/transformation/util/clone-deep.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/README.md
@@ -313,6 +308,10 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/node_modules/@jrid
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/dist/types/sourcemap-segment.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/dist/types/types.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/package.json
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/src/
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/src/gen-mapping.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/src/sourcemap-segment.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/src/types.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/generator/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-annotate-as-pure/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-annotate-as-pure/LICENSE
@@ -864,7 +863,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/constants/generate
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/constants/generated/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/constants/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/converters/
-usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/converters/Scope.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/converters/ensureBlock.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/converters/gatherSequenceExpressions.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/converters/toBindingIdentifierName.js
@@ -1016,6 +1014,8 @@ usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/dist/resolv
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/dist/types/
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/dist/types/resolve-uri.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/package.json
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/src/
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/src/resolve-uri.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/README.md
@@ -1027,6 +1027,8 @@ usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/dist/set-arra
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/dist/types/
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/dist/types/set-array.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/package.json
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/src/
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/src/set-array.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/README.md
@@ -1038,6 +1040,8 @@ usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/dist/so
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/dist/types/
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/dist/types/sourcemap-codec.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/package.json
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/src/
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/sourcemap-codec/src/sourcemap-codec.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/README.md
@@ -1057,6 +1061,16 @@ usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/dist/type
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/dist/types/trace-mapping.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/dist/types/types.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/package.json
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/any-map.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/binary-search.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/by-source.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/resolve.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/sort.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/sourcemap-segment.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/strip-filename.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/trace-mapping.ts
+usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/trace-mapping/src/types.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/README.md
@@ -5538,6 +5552,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/ordered-binary/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/ordered-binary/rollup.config.js
 usr/lib/node_modules/gatsby-cli/node_modules/ordered-binary/tests/
 usr/lib/node_modules/gatsby-cli/node_modules/ordered-binary/tests/test.js
+usr/lib/node_modules/gatsby-cli/node_modules/ordered-binary/uuid.js
 usr/lib/node_modules/gatsby-cli/node_modules/os-tmpdir/
 usr/lib/node_modules/gatsby-cli/node_modules/os-tmpdir/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/os-tmpdir/license
@@ -5710,6 +5725,13 @@ usr/lib/node_modules/gatsby-cli/node_modules/parse-path/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/parse-path/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/parse-path/lib/
 usr/lib/node_modules/gatsby-cli/node_modules/parse-path/lib/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/parse-path/node_modules/
+usr/lib/node_modules/gatsby-cli/node_modules/parse-path/node_modules/protocols/
+usr/lib/node_modules/gatsby-cli/node_modules/parse-path/node_modules/protocols/LICENSE
+usr/lib/node_modules/gatsby-cli/node_modules/parse-path/node_modules/protocols/README.md
+usr/lib/node_modules/gatsby-cli/node_modules/parse-path/node_modules/protocols/lib/
+usr/lib/node_modules/gatsby-cli/node_modules/parse-path/node_modules/protocols/lib/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/parse-path/node_modules/protocols/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/parse-path/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/parse-url/
 usr/lib/node_modules/gatsby-cli/node_modules/parse-url/LICENSE
@@ -5717,6 +5739,13 @@ usr/lib/node_modules/gatsby-cli/node_modules/parse-url/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/parse-url/lib/
 usr/lib/node_modules/gatsby-cli/node_modules/parse-url/lib/index.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/parse-url/lib/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/parse-url/node_modules/
+usr/lib/node_modules/gatsby-cli/node_modules/parse-url/node_modules/protocols/
+usr/lib/node_modules/gatsby-cli/node_modules/parse-url/node_modules/protocols/LICENSE
+usr/lib/node_modules/gatsby-cli/node_modules/parse-url/node_modules/protocols/README.md
+usr/lib/node_modules/gatsby-cli/node_modules/parse-url/node_modules/protocols/lib/
+usr/lib/node_modules/gatsby-cli/node_modules/parse-url/node_modules/protocols/lib/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/parse-url/node_modules/protocols/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/parse-url/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/path-exists/
 usr/lib/node_modules/gatsby-cli/node_modules/path-exists/index.d.ts

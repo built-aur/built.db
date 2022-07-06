@@ -15,7 +15,6 @@ usr/lib/node_modules/aws-cdk/bin/cdk
 usr/lib/node_modules/aws-cdk/bin/cdk.d.ts
 usr/lib/node_modules/aws-cdk/bin/cdk.js
 usr/lib/node_modules/aws-cdk/build-info.json
-usr/lib/node_modules/aws-cdk/does-not-exist.json
 usr/lib/node_modules/aws-cdk/generate.sh
 usr/lib/node_modules/aws-cdk/lib/
 usr/lib/node_modules/aws-cdk/lib/api/

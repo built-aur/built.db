@@ -246,6 +246,9 @@ opt/visual-studio-code/resources/app/extensions/git/dist/
 opt/visual-studio-code/resources/app/extensions/git/dist/askpass-empty.sh
 opt/visual-studio-code/resources/app/extensions/git/dist/askpass-main.js
 opt/visual-studio-code/resources/app/extensions/git/dist/askpass.sh
+opt/visual-studio-code/resources/app/extensions/git/dist/git-editor-empty.sh
+opt/visual-studio-code/resources/app/extensions/git/dist/git-editor-main.js
+opt/visual-studio-code/resources/app/extensions/git/dist/git-editor.sh
 opt/visual-studio-code/resources/app/extensions/git/dist/main.js
 opt/visual-studio-code/resources/app/extensions/git/dist/main.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/git/dist/nls.metadata.header.json
@@ -278,6 +281,7 @@ opt/visual-studio-code/resources/app/extensions/github-authentication/
 opt/visual-studio-code/resources/app/extensions/github-authentication/README.md
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/github-authentication/images/
@@ -452,6 +456,7 @@ opt/visual-studio-code/resources/app/extensions/json-language-features/client/
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js
+opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/json-language-features/icons/
@@ -525,6 +530,7 @@ opt/visual-studio-code/resources/app/extensions/markdown-language-features/
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/README.md
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/extension.js
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/extension.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/esbuild-notebook.js
@@ -592,6 +598,7 @@ opt/visual-studio-code/resources/app/extensions/microsoft-authentication/
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/README.md
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/media/
@@ -716,7 +723,6 @@ opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/ui/disabl
 opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/ui/edgeDevToolOpener.nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/ui/linkedBreakpointLocationUI.nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/ui/longPredictionUI.nls.metadata.json
-opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/ui/prettyPrint.nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/ui/processPicker.nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/ui/profiling/
 opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/ui/profiling/breakpointTerminationCondition.nls.metadata.json
@@ -1121,6 +1127,7 @@ opt/visual-studio-code/resources/app/extensions/typescript-language-features/
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/README.md
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js
+opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/media/
@@ -1257,6 +1264,7 @@ opt/visual-studio-code/resources/app/out/vs/base/common/performance.js
 opt/visual-studio-code/resources/app/out/vs/base/common/stripComments.js
 opt/visual-studio-code/resources/app/out/vs/base/common/worker/
 opt/visual-studio-code/resources/app/out/vs/base/common/worker/simpleWorker.js
+opt/visual-studio-code/resources/app/out/vs/base/common/worker/simpleWorker.nls.js
 opt/visual-studio-code/resources/app/out/vs/base/node/
 opt/visual-studio-code/resources/app/out/vs/base/node/cpuUsage.sh
 opt/visual-studio-code/resources/app/out/vs/base/node/languagePacks.js
@@ -1301,6 +1309,10 @@ opt/visual-studio-code/resources/app/out/vs/code/node/cli.js
 opt/visual-studio-code/resources/app/out/vs/code/node/cli.nls.js
 opt/visual-studio-code/resources/app/out/vs/code/node/cliProcessMain.js
 opt/visual-studio-code/resources/app/out/vs/code/node/cliProcessMain.nls.js
+opt/visual-studio-code/resources/app/out/vs/editor/
+opt/visual-studio-code/resources/app/out/vs/editor/common/
+opt/visual-studio-code/resources/app/out/vs/editor/common/services/
+opt/visual-studio-code/resources/app/out/vs/editor/common/services/editorSimpleWorker.nls.js
 opt/visual-studio-code/resources/app/out/vs/loader.js
 opt/visual-studio-code/resources/app/out/vs/platform/
 opt/visual-studio-code/resources/app/out/vs/platform/environment/

@@ -179,6 +179,9 @@ usr/lib/codium/extensions/git/dist/
 usr/lib/codium/extensions/git/dist/askpass-empty.sh
 usr/lib/codium/extensions/git/dist/askpass-main.js
 usr/lib/codium/extensions/git/dist/askpass.sh
+usr/lib/codium/extensions/git/dist/git-editor-empty.sh
+usr/lib/codium/extensions/git/dist/git-editor-main.js
+usr/lib/codium/extensions/git/dist/git-editor.sh
 usr/lib/codium/extensions/git/dist/main.js
 usr/lib/codium/extensions/git/dist/main.js.LICENSE.txt
 usr/lib/codium/extensions/git/dist/nls.metadata.header.json
@@ -211,6 +214,7 @@ usr/lib/codium/extensions/github-authentication/
 usr/lib/codium/extensions/github-authentication/README.md
 usr/lib/codium/extensions/github-authentication/dist/
 usr/lib/codium/extensions/github-authentication/dist/extension.js
+usr/lib/codium/extensions/github-authentication/dist/extension.js.LICENSE.txt
 usr/lib/codium/extensions/github-authentication/images/
 usr/lib/codium/extensions/github-authentication/images/icon.png
 usr/lib/codium/extensions/github-authentication/media/
@@ -383,6 +387,7 @@ usr/lib/codium/extensions/json-language-features/client/
 usr/lib/codium/extensions/json-language-features/client/dist/
 usr/lib/codium/extensions/json-language-features/client/dist/node/
 usr/lib/codium/extensions/json-language-features/client/dist/node/jsonClientMain.js
+usr/lib/codium/extensions/json-language-features/client/dist/node/jsonClientMain.js.LICENSE.txt
 usr/lib/codium/extensions/json-language-features/client/dist/node/nls.metadata.header.json
 usr/lib/codium/extensions/json-language-features/client/dist/node/nls.metadata.json
 usr/lib/codium/extensions/json-language-features/icons/
@@ -456,6 +461,7 @@ usr/lib/codium/extensions/markdown-language-features/
 usr/lib/codium/extensions/markdown-language-features/README.md
 usr/lib/codium/extensions/markdown-language-features/dist/
 usr/lib/codium/extensions/markdown-language-features/dist/extension.js
+usr/lib/codium/extensions/markdown-language-features/dist/extension.js.LICENSE.txt
 usr/lib/codium/extensions/markdown-language-features/dist/nls.metadata.header.json
 usr/lib/codium/extensions/markdown-language-features/dist/nls.metadata.json
 usr/lib/codium/extensions/markdown-language-features/esbuild-notebook.js
@@ -523,6 +529,7 @@ usr/lib/codium/extensions/microsoft-authentication/
 usr/lib/codium/extensions/microsoft-authentication/README.md
 usr/lib/codium/extensions/microsoft-authentication/dist/
 usr/lib/codium/extensions/microsoft-authentication/dist/extension.js
+usr/lib/codium/extensions/microsoft-authentication/dist/extension.js.LICENSE.txt
 usr/lib/codium/extensions/microsoft-authentication/dist/nls.metadata.header.json
 usr/lib/codium/extensions/microsoft-authentication/dist/nls.metadata.json
 usr/lib/codium/extensions/microsoft-authentication/media/
@@ -647,7 +654,6 @@ usr/lib/codium/extensions/ms-vscode.js-debug/src/ui/disableSourceMapUI.nls.metad
 usr/lib/codium/extensions/ms-vscode.js-debug/src/ui/edgeDevToolOpener.nls.metadata.json
 usr/lib/codium/extensions/ms-vscode.js-debug/src/ui/linkedBreakpointLocationUI.nls.metadata.json
 usr/lib/codium/extensions/ms-vscode.js-debug/src/ui/longPredictionUI.nls.metadata.json
-usr/lib/codium/extensions/ms-vscode.js-debug/src/ui/prettyPrint.nls.metadata.json
 usr/lib/codium/extensions/ms-vscode.js-debug/src/ui/processPicker.nls.metadata.json
 usr/lib/codium/extensions/ms-vscode.js-debug/src/ui/profiling/
 usr/lib/codium/extensions/ms-vscode.js-debug/src/ui/profiling/breakpointTerminationCondition.nls.metadata.json
@@ -1052,6 +1058,7 @@ usr/lib/codium/extensions/typescript-language-features/
 usr/lib/codium/extensions/typescript-language-features/README.md
 usr/lib/codium/extensions/typescript-language-features/dist/
 usr/lib/codium/extensions/typescript-language-features/dist/extension.js
+usr/lib/codium/extensions/typescript-language-features/dist/extension.js.LICENSE.txt
 usr/lib/codium/extensions/typescript-language-features/dist/nls.metadata.header.json
 usr/lib/codium/extensions/typescript-language-features/dist/nls.metadata.json
 usr/lib/codium/extensions/typescript-language-features/media/
@@ -1166,6 +1173,7 @@ usr/lib/codium/out/vs/base/common/performance.js
 usr/lib/codium/out/vs/base/common/stripComments.js
 usr/lib/codium/out/vs/base/common/worker/
 usr/lib/codium/out/vs/base/common/worker/simpleWorker.js
+usr/lib/codium/out/vs/base/common/worker/simpleWorker.nls.js
 usr/lib/codium/out/vs/base/node/
 usr/lib/codium/out/vs/base/node/cpuUsage.sh
 usr/lib/codium/out/vs/base/node/languagePacks.js
@@ -1210,6 +1218,10 @@ usr/lib/codium/out/vs/code/node/cli.js
 usr/lib/codium/out/vs/code/node/cli.nls.js
 usr/lib/codium/out/vs/code/node/cliProcessMain.js
 usr/lib/codium/out/vs/code/node/cliProcessMain.nls.js
+usr/lib/codium/out/vs/editor/
+usr/lib/codium/out/vs/editor/common/
+usr/lib/codium/out/vs/editor/common/services/
+usr/lib/codium/out/vs/editor/common/services/editorSimpleWorker.nls.js
 usr/lib/codium/out/vs/loader.js
 usr/lib/codium/out/vs/platform/
 usr/lib/codium/out/vs/platform/environment/

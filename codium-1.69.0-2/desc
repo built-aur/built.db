@@ -1,0 +1,79 @@
+%FILENAME%
+codium-1.69.0-2-x86_64.pkg.tar.xz
+
+%NAME%
+codium
+
+%BASE%
+codium
+
+%VERSION%
+1.69.0-2
+
+%DESC%
+Free/Libre Open Source Software Binaries of VSCode without MS branding/telemetry/licensing
+
+%CSIZE%
+16856700
+
+%ISIZE%
+109902038
+
+%MD5SUM%
+23808ce6d6e80685040c5eaaabff3d88
+
+%SHA256SUM%
+8a48ee33ebb9fe50b83291a25b4ea1f689214098627f28664e38ce1c4842333a
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmLIlkcACgkQAiE6BJNFfpZzZBAAi2YgGPYPIRPhjSGLPLCjeXhMdb0dTkGC29LKbdN+2jDc1qG4yaMfeSg10VkaS4iXgd+cULHYW11VPuTazWQzpeC0evIzYWQr2vl3AAb4DTf7mReXlIPUQR5bolLldhyfarPlzypBEx8S7pc+FHYq8WvdCbp2IDL7rOTb054I86y89x3+su78CbuX+8aOrqjH+mk+Uv+KrmdKDnTDR4b4smwOAaNQJQATZX4W+hr79ezu28eOUhTSTr8Hjy/KIK2t3D1GPTY68bjTiaubtShKqhI/+4giMqb1Z48PfJBxrlx61Tg5QICYTGaOjxPhgL6xSmi+wmcJNn0WDVID7Vq5opz2W9JbLabCm+F0kr9K+g4bigUn2HnYuTY4jrvMrxoTMI2lYz6AhOZTpVLPJIZtbXCyWvb7Lfv0WG4q4hXMqiY1fNzFNhmR7+kbMBO6n3HnPkDLRT9CKxbbmAWNhCVL2qAy9DPX1XrjuoW2zp3pStI3Rwo38Zd6I0GFic9XT8UIazzcxbGS1VPMmKYCuDgqmHeVa0iNGDAMWEPoHfjETNbJgBv8KDfxKyWxJ3vPipTS6nVDETScsvQVk6cB49PUgwaxp6GurOSC5zsqMVyuERoINhF6d34ZkUqIexFAQL92F5LzVtJw8nj2waUm8s1I+SvIiRF5/3i6pDmwFiFnKbg=
+
+%URL%
+https://github.com/VSCodium/vscodium
+
+%LICENSE%
+MIT
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1657311499
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%CONFLICTS%
+vscodium
+
+%PROVIDES%
+vscodium
+
+%DEPENDS%
+electron18
+libsecret
+libx11
+libxkbfile
+ripgrep
+
+%OPTDEPENDS%
+gvfs: For move to trash functionality
+libdbusmenu-glib: For KDE global menu
+x11-ssh-askpass: SSH authentication
+org.freedesktop.secrets: Keyring password store support
+codium-features: Unblock some features in VSCodium
+codium-marketplace: Enable VS-Code marketplace in VSCodium
+
+%MAKEDEPENDS%
+nodejs-lts-gallium
+npm
+yarn
+gulp
+jq
+libxdmcp
+git
+git-lfs
+patch
+python
+pkg-config
+

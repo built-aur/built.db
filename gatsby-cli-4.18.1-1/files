@@ -798,6 +798,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/traverse/lib/path/inference/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/traverse/lib/path/inference/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/traverse/lib/path/inference/inferer-reference.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/traverse/lib/path/inference/inferers.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/traverse/lib/path/inference/util.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/traverse/lib/path/introspection.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/traverse/lib/path/lib/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/traverse/lib/path/lib/hoister.js
@@ -1014,8 +1015,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/dist/resolv
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/dist/types/
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/dist/types/resolve-uri.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/package.json
-usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/src/
-usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/resolve-uri/src/resolve-uri.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/@jridgewell/set-array/README.md
@@ -1079,7 +1078,9 @@ usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.abi102.gl
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.abi102.musl.node
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.abi108.glibc.node
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.abi108.musl.node
+usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.abi83.glibc.node
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.abi83.musl.node
+usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.abi93.glibc.node
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.abi93.musl.node
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.napi.glibc.node
 usr/lib/node_modules/gatsby-cli/node_modules/@lmdb/lmdb-linux-x64/node.napi.musl.node
@@ -2924,10 +2925,10 @@ usr/lib/node_modules/gatsby-cli/node_modules/dot-prop/license
 usr/lib/node_modules/gatsby-cli/node_modules/dot-prop/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/dot-prop/readme.md
 usr/lib/node_modules/gatsby-cli/node_modules/duplexer3/
-usr/lib/node_modules/gatsby-cli/node_modules/duplexer3/LICENSE.md
-usr/lib/node_modules/gatsby-cli/node_modules/duplexer3/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/duplexer3/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/duplexer3/license
 usr/lib/node_modules/gatsby-cli/node_modules/duplexer3/package.json
+usr/lib/node_modules/gatsby-cli/node_modules/duplexer3/readme.md
 usr/lib/node_modules/gatsby-cli/node_modules/electron-to-chromium/
 usr/lib/node_modules/gatsby-cli/node_modules/electron-to-chromium/CHANGELOG.md
 usr/lib/node_modules/gatsby-cli/node_modules/electron-to-chromium/LICENSE

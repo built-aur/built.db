@@ -176,6 +176,7 @@ usr/lib/node_modules/firebase-tools/lib/deploy/functions/ensure.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/ensureCloudBuildEnabled.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/functionsDeployHelper.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/index.js
+usr/lib/node_modules/firebase-tools/lib/deploy/functions/params.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/prepare.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/prepareFunctionsUpload.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/pricing.js
@@ -329,6 +330,7 @@ usr/lib/node_modules/firebase-tools/lib/extensions/emulator/
 usr/lib/node_modules/firebase-tools/lib/extensions/emulator/optionsHelper.js
 usr/lib/node_modules/firebase-tools/lib/extensions/emulator/specHelper.js
 usr/lib/node_modules/firebase-tools/lib/extensions/emulator/triggerHelper.js
+usr/lib/node_modules/firebase-tools/lib/extensions/etags.js
 usr/lib/node_modules/firebase-tools/lib/extensions/export.js
 usr/lib/node_modules/firebase-tools/lib/extensions/extensionsApi.js
 usr/lib/node_modules/firebase-tools/lib/extensions/extensionsHelper.js
@@ -8339,6 +8341,7 @@ usr/lib/node_modules/firebase-tools/node_modules/jsonc-parser/
 usr/lib/node_modules/firebase-tools/node_modules/jsonc-parser/CHANGELOG.md
 usr/lib/node_modules/firebase-tools/node_modules/jsonc-parser/LICENSE.md
 usr/lib/node_modules/firebase-tools/node_modules/jsonc-parser/README.md
+usr/lib/node_modules/firebase-tools/node_modules/jsonc-parser/SECURITY.md
 usr/lib/node_modules/firebase-tools/node_modules/jsonc-parser/lib/
 usr/lib/node_modules/firebase-tools/node_modules/jsonc-parser/lib/esm/
 usr/lib/node_modules/firebase-tools/node_modules/jsonc-parser/lib/esm/impl/
@@ -12383,6 +12386,8 @@ usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/schedule
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/scheduler/queue.js.map
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/scheduler/timeoutProvider.js
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/scheduler/timeoutProvider.js.map
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/scheduler/timerHandle.js
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/scheduler/timerHandle.js.map
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/symbol/
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/symbol/iterator.js
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/cjs/internal/symbol/iterator.js.map
@@ -12897,6 +12902,8 @@ usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/schedule
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/scheduler/queue.js.map
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/scheduler/timeoutProvider.js
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/scheduler/timeoutProvider.js.map
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/scheduler/timerHandle.js
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/scheduler/timerHandle.js.map
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/symbol/
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/symbol/iterator.js
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm/internal/symbol/iterator.js.map
@@ -13413,6 +13420,8 @@ usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/schedul
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/scheduler/queue.js.map
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/scheduler/timeoutProvider.js
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/scheduler/timeoutProvider.js.map
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/scheduler/timerHandle.js
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/scheduler/timerHandle.js.map
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/symbol/
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/symbol/iterator.js
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/esm5/internal/symbol/iterator.js.map
@@ -13927,6 +13936,8 @@ usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/schedu
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/scheduler/queue.d.ts.map
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/scheduler/timeoutProvider.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/scheduler/timeoutProvider.d.ts.map
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/scheduler/timerHandle.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/scheduler/timerHandle.d.ts.map
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/symbol/
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/symbol/iterator.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/dist/types/internal/symbol/iterator.d.ts.map
@@ -14246,6 +14257,7 @@ usr/lib/node_modules/firebase-tools/node_modules/rxjs/src/internal/scheduler/int
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/src/internal/scheduler/performanceTimestampProvider.ts
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/src/internal/scheduler/queue.ts
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/src/internal/scheduler/timeoutProvider.ts
+usr/lib/node_modules/firebase-tools/node_modules/rxjs/src/internal/scheduler/timerHandle.ts
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/src/internal/symbol/
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/src/internal/symbol/iterator.ts
 usr/lib/node_modules/firebase-tools/node_modules/rxjs/src/internal/symbol/observable.ts

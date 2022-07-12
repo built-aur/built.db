@@ -1261,6 +1261,7 @@ usr/lib/node_modules/expo-cli/node_modules/@babel/traverse/lib/path/inference/
 usr/lib/node_modules/expo-cli/node_modules/@babel/traverse/lib/path/inference/index.js
 usr/lib/node_modules/expo-cli/node_modules/@babel/traverse/lib/path/inference/inferer-reference.js
 usr/lib/node_modules/expo-cli/node_modules/@babel/traverse/lib/path/inference/inferers.js
+usr/lib/node_modules/expo-cli/node_modules/@babel/traverse/lib/path/inference/util.js
 usr/lib/node_modules/expo-cli/node_modules/@babel/traverse/lib/path/introspection.js
 usr/lib/node_modules/expo-cli/node_modules/@babel/traverse/lib/path/lib/
 usr/lib/node_modules/expo-cli/node_modules/@babel/traverse/lib/path/lib/hoister.js
@@ -1923,9 +1924,9 @@ usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/404.html
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/
-usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/266uC2uFe38o0D6KxKAqY/
-usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/266uC2uFe38o0D6KxKAqY/_buildManifest.js
-usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/266uC2uFe38o0D6KxKAqY/_ssgManifest.js
+usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/I4tZ5Jtgt1Cvds4TudxKy/
+usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/I4tZ5Jtgt1Cvds4TudxKy/_buildManifest.js
+usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/I4tZ5Jtgt1Cvds4TudxKy/_ssgManifest.js
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/955cc3f7.16ebc6bb1aa957d203b2.js
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/commons.c2fd3ed37adf92124cdd.js
@@ -1935,7 +1936,7 @@ usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/st
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/pages/
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/pages/_app-ddb98cb514ca699f94e8.js
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/pages/_error-1f226cdf61f5f10fe44e.js
-usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/pages/index-34c483bf8a5462eb41c5.js
+usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/pages/index-d3f0f59cfe3c9937aecb.js
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/polyfills-184a6187cb3e02ecf27e.js
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/_next/static/chunks/webpack-e067438c4cf4ef2ef178.js
 usr/lib/node_modules/expo-cli/node_modules/@expo/dev-tools/build/client/index.html
@@ -2856,8 +2857,6 @@ usr/lib/node_modules/expo-cli/node_modules/@jridgewell/resolve-uri/dist/resolve-
 usr/lib/node_modules/expo-cli/node_modules/@jridgewell/resolve-uri/dist/types/
 usr/lib/node_modules/expo-cli/node_modules/@jridgewell/resolve-uri/dist/types/resolve-uri.d.ts
 usr/lib/node_modules/expo-cli/node_modules/@jridgewell/resolve-uri/package.json
-usr/lib/node_modules/expo-cli/node_modules/@jridgewell/resolve-uri/src/
-usr/lib/node_modules/expo-cli/node_modules/@jridgewell/resolve-uri/src/resolve-uri.ts
 usr/lib/node_modules/expo-cli/node_modules/@jridgewell/set-array/
 usr/lib/node_modules/expo-cli/node_modules/@jridgewell/set-array/LICENSE
 usr/lib/node_modules/expo-cli/node_modules/@jridgewell/set-array/README.md
@@ -8095,10 +8094,10 @@ usr/lib/node_modules/expo-cli/node_modules/duplexer/package.json
 usr/lib/node_modules/expo-cli/node_modules/duplexer/test/
 usr/lib/node_modules/expo-cli/node_modules/duplexer/test/index.js
 usr/lib/node_modules/expo-cli/node_modules/duplexer3/
-usr/lib/node_modules/expo-cli/node_modules/duplexer3/LICENSE.md
-usr/lib/node_modules/expo-cli/node_modules/duplexer3/README.md
 usr/lib/node_modules/expo-cli/node_modules/duplexer3/index.js
+usr/lib/node_modules/expo-cli/node_modules/duplexer3/license
 usr/lib/node_modules/expo-cli/node_modules/duplexer3/package.json
+usr/lib/node_modules/expo-cli/node_modules/duplexer3/readme.md
 usr/lib/node_modules/expo-cli/node_modules/duplexify/
 usr/lib/node_modules/expo-cli/node_modules/duplexify/.travis.yml
 usr/lib/node_modules/expo-cli/node_modules/duplexify/LICENSE
@@ -20463,6 +20462,7 @@ usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/esm/util/formatTokens.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/esm/util/getClassInfo.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/esm/util/getDeclarationInfo.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/esm/util/getIdentifierNames.js
+usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/esm/util/getImportExportSpecifierInfo.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/esm/util/getJSXPragmaInfo.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/esm/util/getNonTypeIdentifiers.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/esm/util/getTSImportedNames.js
@@ -20572,6 +20572,7 @@ usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/types/util/formatTokens.
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/types/util/getClassInfo.d.ts
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/types/util/getDeclarationInfo.d.ts
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/types/util/getIdentifierNames.d.ts
+usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/types/util/getImportExportSpecifierInfo.d.ts
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/types/util/getJSXPragmaInfo.d.ts
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/types/util/getNonTypeIdentifiers.d.ts
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/types/util/getTSImportedNames.d.ts
@@ -20584,6 +20585,7 @@ usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/util/formatTokens.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/util/getClassInfo.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/util/getDeclarationInfo.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/util/getIdentifierNames.js
+usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/util/getImportExportSpecifierInfo.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/util/getJSXPragmaInfo.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/util/getNonTypeIdentifiers.js
 usr/lib/node_modules/expo-cli/node_modules/sucrase/dist/util/getTSImportedNames.js
@@ -24005,6 +24007,7 @@ usr/lib/node_modules/expo-cli/node_modules/xdl/caches/schema-42.0.0.json
 usr/lib/node_modules/expo-cli/node_modules/xdl/caches/schema-43.0.0.json
 usr/lib/node_modules/expo-cli/node_modules/xdl/caches/schema-44.0.0.json
 usr/lib/node_modules/expo-cli/node_modules/xdl/caches/schema-45.0.0.json
+usr/lib/node_modules/expo-cli/node_modules/xdl/caches/schema-46.0.0.json
 usr/lib/node_modules/expo-cli/node_modules/xdl/caches/schema-7.0.0.json
 usr/lib/node_modules/expo-cli/node_modules/xdl/caches/schema-8.0.0.json
 usr/lib/node_modules/expo-cli/node_modules/xdl/caches/schema-9.0.0.json

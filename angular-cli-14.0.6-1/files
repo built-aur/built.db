@@ -521,7 +521,6 @@ usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/LICENSE
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/README.md
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/app-shell/
-usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/app-shell/app-shell-long.md
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/app-shell/index.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/app-shell/index.js
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/app-shell/schema.d.ts
@@ -588,7 +587,6 @@ usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/directive/sch
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/directive/schema.js
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/directive/schema.json
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/e2e/
-usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/e2e/e2e-long.md
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/e2e/files/
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/e2e/files/protractor.conf.js.template
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/e2e/files/src/
@@ -637,7 +635,6 @@ usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/interface/sch
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/interface/schema.json
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/files/
-usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/files/.browserslistrc.template
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/files/README.md.template
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/files/karma.conf.js.template
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/files/ng-package.json.template
@@ -650,7 +647,6 @@ usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/files
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/files/tsconfig.spec.json.template
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/index.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/index.js
-usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/library-long.md
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/schema.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/schema.js
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/library/schema.json
@@ -2458,6 +2454,8 @@ usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/c
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/cjs/internal/scheduler/queue.js.map
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/cjs/internal/scheduler/timeoutProvider.js
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/cjs/internal/scheduler/timeoutProvider.js.map
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/cjs/internal/scheduler/timerHandle.js
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/cjs/internal/scheduler/timerHandle.js.map
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/cjs/internal/symbol/
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/cjs/internal/symbol/iterator.js
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/cjs/internal/symbol/iterator.js.map
@@ -2972,6 +2970,8 @@ usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/e
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm/internal/scheduler/queue.js.map
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm/internal/scheduler/timeoutProvider.js
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm/internal/scheduler/timeoutProvider.js.map
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm/internal/scheduler/timerHandle.js
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm/internal/scheduler/timerHandle.js.map
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm/internal/symbol/
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm/internal/symbol/iterator.js
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm/internal/symbol/iterator.js.map
@@ -3488,6 +3488,8 @@ usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/e
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm5/internal/scheduler/queue.js.map
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm5/internal/scheduler/timeoutProvider.js
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm5/internal/scheduler/timeoutProvider.js.map
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm5/internal/scheduler/timerHandle.js
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm5/internal/scheduler/timerHandle.js.map
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm5/internal/symbol/
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm5/internal/symbol/iterator.js
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/esm5/internal/symbol/iterator.js.map
@@ -4002,6 +4004,8 @@ usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/t
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/types/internal/scheduler/queue.d.ts.map
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/types/internal/scheduler/timeoutProvider.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/types/internal/scheduler/timeoutProvider.d.ts.map
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/types/internal/scheduler/timerHandle.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/types/internal/scheduler/timerHandle.d.ts.map
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/types/internal/symbol/
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/types/internal/symbol/iterator.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/dist/types/internal/symbol/iterator.d.ts.map
@@ -4321,6 +4325,7 @@ usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/src/in
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/src/internal/scheduler/performanceTimestampProvider.ts
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/src/internal/scheduler/queue.ts
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/src/internal/scheduler/timeoutProvider.ts
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/src/internal/scheduler/timerHandle.ts
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/src/internal/symbol/
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/src/internal/symbol/iterator.ts
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/rxjs/src/internal/symbol/observable.ts

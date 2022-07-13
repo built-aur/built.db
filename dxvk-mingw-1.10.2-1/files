@@ -4,11 +4,10 @@ usr/bin/
 usr/bin/setup_dxvk
 usr/share/
 usr/share/doc/
-usr/share/doc/dxvk/
-usr/share/doc/dxvk/dxvk.conf
-usr/share/dxvk-mingw/
-usr/share/dxvk-mingw/LICENSE
+usr/share/doc/dxvk-mingw/
+usr/share/doc/dxvk-mingw/README.md
 usr/share/dxvk/
+usr/share/dxvk/dxvk.conf
 usr/share/dxvk/setup_dxvk.sh
 usr/share/dxvk/x32/
 usr/share/dxvk/x32/d3d10.dll
@@ -36,3 +35,6 @@ usr/share/dxvk/x64/d3d9.dll
 usr/share/dxvk/x64/d3d9.dll.a
 usr/share/dxvk/x64/dxgi.dll
 usr/share/dxvk/x64/dxgi.dll.a
+usr/share/licenses/
+usr/share/licenses/dxvk-mingw/
+usr/share/licenses/dxvk-mingw/LICENSE

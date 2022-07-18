@@ -15,6 +15,7 @@ opt/Heroic/libffmpeg.so
 opt/Heroic/libvk_swiftshader.so
 opt/Heroic/libvulkan.so.1
 opt/Heroic/locales/
+opt/Heroic/locales/af.pak
 opt/Heroic/locales/am.pak
 opt/Heroic/locales/ar.pak
 opt/Heroic/locales/bg.pak
@@ -65,6 +66,7 @@ opt/Heroic/locales/te.pak
 opt/Heroic/locales/th.pak
 opt/Heroic/locales/tr.pak
 opt/Heroic/locales/uk.pak
+opt/Heroic/locales/ur.pak
 opt/Heroic/locales/vi.pak
 opt/Heroic/locales/zh-CN.pak
 opt/Heroic/locales/zh-TW.pak
@@ -101,9 +103,6 @@ opt/Heroic/resources/app.asar.unpacked/node_modules/font-list/libs/win32/getByVB
 opt/Heroic/resources/app.asar.unpacked/node_modules/font-list/libs/win32/index.js
 opt/Heroic/resources/app.asar.unpacked/node_modules/font-list/package.json
 opt/Heroic/snapshot_blob.bin
-opt/Heroic/swiftshader/
-opt/Heroic/swiftshader/libEGL.so
-opt/Heroic/swiftshader/libGLESv2.so
 opt/Heroic/v8_context_snapshot.bin
 opt/Heroic/vk_swiftshader_icd.json
 usr/

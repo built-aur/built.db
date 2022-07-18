@@ -661,7 +661,6 @@ usr/lib/webcord/node_modules/@spacingbat3/kolor/dist/index.js.map
 usr/lib/webcord/node_modules/@spacingbat3/kolor/package.json
 usr/lib/webcord/node_modules/@spacingbat3/kolor/types/
 usr/lib/webcord/node_modules/@spacingbat3/kolor/types/index.d.cts
-usr/lib/webcord/node_modules/@spacingbat3/kolor/types/index.d.cts.map
 usr/lib/webcord/node_modules/@spacingbat3/kolor/types/index.d.ts
 usr/lib/webcord/node_modules/buffer-from/
 usr/lib/webcord/node_modules/buffer-from/LICENSE
@@ -1735,6 +1734,8 @@ usr/lib/webcord/node_modules/highlight.js/scss/nnfx-dark.scss
 usr/lib/webcord/node_modules/highlight.js/scss/nnfx-light.scss
 usr/lib/webcord/node_modules/highlight.js/scss/nord.scss
 usr/lib/webcord/node_modules/highlight.js/scss/obsidian.scss
+usr/lib/webcord/node_modules/highlight.js/scss/panda-syntax-dark.scss
+usr/lib/webcord/node_modules/highlight.js/scss/panda-syntax-light.scss
 usr/lib/webcord/node_modules/highlight.js/scss/paraiso-dark.scss
 usr/lib/webcord/node_modules/highlight.js/scss/paraiso-light.scss
 usr/lib/webcord/node_modules/highlight.js/scss/pojoaque.scss
@@ -1984,6 +1985,8 @@ usr/lib/webcord/node_modules/highlight.js/styles/nnfx-dark.css
 usr/lib/webcord/node_modules/highlight.js/styles/nnfx-light.css
 usr/lib/webcord/node_modules/highlight.js/styles/nord.css
 usr/lib/webcord/node_modules/highlight.js/styles/obsidian.css
+usr/lib/webcord/node_modules/highlight.js/styles/panda-syntax-dark.css
+usr/lib/webcord/node_modules/highlight.js/styles/panda-syntax-light.css
 usr/lib/webcord/node_modules/highlight.js/styles/paraiso-dark.css
 usr/lib/webcord/node_modules/highlight.js/styles/paraiso-light.css
 usr/lib/webcord/node_modules/highlight.js/styles/pojoaque.css
@@ -2251,10 +2254,12 @@ usr/lib/webcord/run.sh
 usr/lib/webcord/sources/
 usr/lib/webcord/sources/assets/
 usr/lib/webcord/sources/assets/icons/
+usr/lib/webcord/sources/assets/icons/app.png
 usr/lib/webcord/sources/assets/icons/symbols/
 usr/lib/webcord/sources/assets/icons/symbols/checkmark.svg
 usr/lib/webcord/sources/assets/icons/symbols/close.svg
 usr/lib/webcord/sources/assets/icons/symbols/menu.svg
+usr/lib/webcord/sources/assets/icons/symbols/speaker.svg
 usr/lib/webcord/sources/assets/icons/tray-ping.png
 usr/lib/webcord/sources/assets/icons/tray-unread.png
 usr/lib/webcord/sources/assets/icons/tray.png

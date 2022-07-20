@@ -10330,8 +10330,8 @@ usr/lib/node_modules/@angular/cli/node_modules/socks-proxy-agent/dist/index.js
 usr/lib/node_modules/@angular/cli/node_modules/socks-proxy-agent/dist/index.js.map
 usr/lib/node_modules/@angular/cli/node_modules/socks-proxy-agent/package.json
 usr/lib/node_modules/@angular/cli/node_modules/socks/
+usr/lib/node_modules/@angular/cli/node_modules/socks/.eslintrc.cjs
 usr/lib/node_modules/@angular/cli/node_modules/socks/.prettierrc.yaml
-usr/lib/node_modules/@angular/cli/node_modules/socks/.travis.yml
 usr/lib/node_modules/@angular/cli/node_modules/socks/LICENSE
 usr/lib/node_modules/@angular/cli/node_modules/socks/README.md
 usr/lib/node_modules/@angular/cli/node_modules/socks/build/

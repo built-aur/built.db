@@ -3,7 +3,6 @@ etc/
 etc/mongodb.conf
 usr/
 usr/bin/
-usr/bin/mongo
 usr/bin/mongod
 usr/bin/mongos
 usr/lib/
@@ -20,6 +19,5 @@ usr/share/licenses/mongodb/
 usr/share/licenses/mongodb/LICENSE
 usr/share/man/
 usr/share/man/man1/
-usr/share/man/man1/mongo.1.gz
 usr/share/man/man1/mongod.1.gz
 usr/share/man/man1/mongos.1.gz

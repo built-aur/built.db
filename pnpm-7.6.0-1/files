@@ -16,14 +16,6 @@ usr/lib/node_modules/pnpm/dist/node-gyp-bin/
 usr/lib/node_modules/pnpm/dist/node-gyp-bin/node-gyp
 usr/lib/node_modules/pnpm/dist/node-gyp-bin/node-gyp.cmd
 usr/lib/node_modules/pnpm/dist/node_modules/
-usr/lib/node_modules/pnpm/dist/node_modules/.bin/
-usr/lib/node_modules/pnpm/dist/node_modules/.bin/color-support
-usr/lib/node_modules/pnpm/dist/node_modules/.bin/mkdirp
-usr/lib/node_modules/pnpm/dist/node_modules/.bin/node-gyp
-usr/lib/node_modules/pnpm/dist/node_modules/.bin/node-which
-usr/lib/node_modules/pnpm/dist/node_modules/.bin/nopt
-usr/lib/node_modules/pnpm/dist/node_modules/.bin/rimraf
-usr/lib/node_modules/pnpm/dist/node_modules/.bin/semver
 usr/lib/node_modules/pnpm/dist/node_modules/.modules.yaml
 usr/lib/node_modules/pnpm/dist/node_modules/.pnpm/
 usr/lib/node_modules/pnpm/dist/node_modules/.pnpm/lock.yaml
@@ -722,6 +714,7 @@ usr/lib/node_modules/pnpm/dist/node_modules/socks-proxy-agent/dist/index.js
 usr/lib/node_modules/pnpm/dist/node_modules/socks-proxy-agent/dist/index.js.map
 usr/lib/node_modules/pnpm/dist/node_modules/socks-proxy-agent/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/socks/
+usr/lib/node_modules/pnpm/dist/node_modules/socks/.eslintrc.cjs
 usr/lib/node_modules/pnpm/dist/node_modules/socks/.prettierrc.yaml
 usr/lib/node_modules/pnpm/dist/node_modules/socks/LICENSE
 usr/lib/node_modules/pnpm/dist/node_modules/socks/build/

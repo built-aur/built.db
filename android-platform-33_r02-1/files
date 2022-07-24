@@ -262,6 +262,7 @@ opt/android-sdk/platforms/android-33/data/res/color-car/car_switch.xml
 opt/android-sdk/platforms/android-33/data/res/color-car/car_switch_track.xml
 opt/android-sdk/platforms/android-33/data/res/color-night/
 opt/android-sdk/platforms/android-33/data/res/color-night/resolver_accent_ripple.xml
+opt/android-sdk/platforms/android-33/data/res/color-night/resolver_button_text.xml
 opt/android-sdk/platforms/android-33/data/res/color-night/resolver_profile_tab_selected_bg.xml
 opt/android-sdk/platforms/android-33/data/res/color-night/resolver_profile_tab_text.xml
 opt/android-sdk/platforms/android-33/data/res/color-watch/
@@ -317,6 +318,7 @@ opt/android-sdk/platforms/android-33/data/res/color/primary_text_secondary_when_
 opt/android-sdk/platforms/android-33/data/res/color/primary_text_secondary_when_activated_material_inverse.xml
 opt/android-sdk/platforms/android-33/data/res/color/ratingbar_background_material.xml
 opt/android-sdk/platforms/android-33/data/res/color/resolver_accent_ripple.xml
+opt/android-sdk/platforms/android-33/data/res/color/resolver_button_text.xml
 opt/android-sdk/platforms/android-33/data/res/color/resolver_profile_tab_selected_bg.xml
 opt/android-sdk/platforms/android-33/data/res/color/resolver_profile_tab_text.xml
 opt/android-sdk/platforms/android-33/data/res/color/ripple_material_dark.xml
@@ -6529,6 +6531,7 @@ opt/android-sdk/platforms/android-33/data/res/drawable/activated_background_holo
 opt/android-sdk/platforms/android-33/data/res/drawable/activated_background_light.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/activated_background_material.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/app_icon_background.xml
+opt/android-sdk/platforms/android-33/data/res/drawable/autofill_bottomsheet_background.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/autofill_dataset_picker_background.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/autofilled_highlight.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/background_holo_dark.xml
@@ -6574,6 +6577,7 @@ opt/android-sdk/platforms/android-33/data/res/drawable/btn_keyboard_key_trans.xm
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_leanback.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_minus.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_notification_emphasized.xml
+opt/android-sdk/platforms/android-33/data/res/drawable/btn_outlined.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_plus.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_radio.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_radio_holo_dark.xml
@@ -6595,6 +6599,7 @@ opt/android-sdk/platforms/android-33/data/res/drawable/btn_toggle_bg.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_toggle_holo_dark.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_toggle_holo_light.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_toggle_material.xml
+opt/android-sdk/platforms/android-33/data/res/drawable/btn_tonal.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_zoom_down.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_zoom_page.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/btn_zoom_up.xml
@@ -7092,7 +7097,9 @@ opt/android-sdk/platforms/android-33/data/res/drawable/ratingbar_small_holo_dark
 opt/android-sdk/platforms/android-33/data/res/drawable/ratingbar_small_holo_light.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/ratingbar_small_material.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/red_shield.xml
+opt/android-sdk/platforms/android-33/data/res/drawable/resolver_button_bg.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/resolver_icon_placeholder.xml
+opt/android-sdk/platforms/android-33/data/res/drawable/resolver_outlined_button_bg.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/resolver_profile_tab_bg.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/resolver_turn_on_work_button_ripple_background.xml
 opt/android-sdk/platforms/android-33/data/res/drawable/screen_background_selector_dark.xml
@@ -13184,6 +13191,7 @@ opt/android-sdk/platforms/android-33/data/res/values-television/
 opt/android-sdk/platforms/android-33/data/res/values-television/config.xml
 opt/android-sdk/platforms/android-33/data/res/values-television/dimens.xml
 opt/android-sdk/platforms/android-33/data/res/values-television/strings.xml
+opt/android-sdk/platforms/android-33/data/res/values-television/styles.xml
 opt/android-sdk/platforms/android-33/data/res/values-television/styles_device_defaults.xml
 opt/android-sdk/platforms/android-33/data/res/values-television/themes.xml
 opt/android-sdk/platforms/android-33/data/res/values-television/themes_device_defaults.xml

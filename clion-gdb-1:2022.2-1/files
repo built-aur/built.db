@@ -117,6 +117,7 @@ opt/clion/bin/gdb/linux/share/gdb/python/gdb/printer/__init__.py
 opt/clion/bin/gdb/linux/share/gdb/python/gdb/printer/bound_registers.py
 opt/clion/bin/gdb/linux/share/gdb/python/gdb/printing.py
 opt/clion/bin/gdb/linux/share/gdb/python/gdb/prompt.py
+opt/clion/bin/gdb/linux/share/gdb/python/gdb/styling.py
 opt/clion/bin/gdb/linux/share/gdb/python/gdb/types.py
 opt/clion/bin/gdb/linux/share/gdb/python/gdb/unwinder.py
 opt/clion/bin/gdb/linux/share/gdb/python/gdb/xmethod.py

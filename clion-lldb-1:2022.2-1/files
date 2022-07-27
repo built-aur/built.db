@@ -27,12 +27,12 @@ opt/clion/bin/lldb/linux/bin/lldb
 opt/clion/bin/lldb/linux/bin/lldb-argdumper
 opt/clion/bin/lldb/linux/bin/lldb-server
 opt/clion/bin/lldb/linux/lib/
-opt/clion/bin/lldb/linux/lib/libexpat.so.1
+opt/clion/bin/lldb/linux/lib/libexpat.so.1.6.5
 opt/clion/bin/lldb/linux/lib/liblldb.so
-opt/clion/bin/lldb/linux/lib/liblldbIntelFeatures.so.13
+opt/clion/bin/lldb/linux/lib/liblldbIntelFeatures.so.14
 opt/clion/bin/lldb/linux/lib/libpython3.8.so.1.0
 opt/clion/bin/lldb/linux/lib/libpython3.so
-opt/clion/bin/lldb/linux/lib/libz.so.1
+opt/clion/bin/lldb/linux/lib/libz.so.1.2.11
 opt/clion/bin/lldb/linux/lib/python3.8/
 opt/clion/bin/lldb/linux/lib/python3.8/_sysconfigdata__linux_x86_64-linux-gnu.pyc
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/
@@ -52,6 +52,7 @@ opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_ctypes_test.cpython-38-x86_6
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_datetime.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_decimal.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_elementtree.cpython-38-x86_64-linux-gnu.so
+opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_hashlib.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_heapq.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_json.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_lsprof.cpython-38-x86_64-linux-gnu.so
@@ -69,6 +70,7 @@ opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_sha256.cpython-38-x86_64-lin
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_sha3.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_sha512.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_socket.cpython-38-x86_64-linux-gnu.so
+opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_ssl.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_statistics.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_struct.cpython-38-x86_64-linux-gnu.so
 opt/clion/bin/lldb/linux/lib/python3.8/lib-dynload/_testbuffer.cpython-38-x86_64-linux-gnu.so

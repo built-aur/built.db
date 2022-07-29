@@ -425,6 +425,8 @@ usr/lib/node_modules/aws-cdk/lib/util/tables.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/tables.js
 usr/lib/node_modules/aws-cdk/lib/util/types.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/types.js
+usr/lib/node_modules/aws-cdk/lib/util/validate-notification-arn.d.ts
+usr/lib/node_modules/aws-cdk/lib/util/validate-notification-arn.js
 usr/lib/node_modules/aws-cdk/lib/util/version-range.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/version-range.js
 usr/lib/node_modules/aws-cdk/lib/util/yaml-cfn.d.ts
@@ -743,6 +745,8 @@ usr/lib/node_modules/aws-cdk/test/util/objects.test.d.ts
 usr/lib/node_modules/aws-cdk/test/util/objects.test.js
 usr/lib/node_modules/aws-cdk/test/util/stack-monitor.test.d.ts
 usr/lib/node_modules/aws-cdk/test/util/stack-monitor.test.js
+usr/lib/node_modules/aws-cdk/test/util/validate-notification-arn.test.d.ts
+usr/lib/node_modules/aws-cdk/test/util/validate-notification-arn.test.js
 usr/lib/node_modules/aws-cdk/test/util/version-range.test.d.ts
 usr/lib/node_modules/aws-cdk/test/util/version-range.test.js
 usr/lib/node_modules/aws-cdk/test/version.test.d.ts

@@ -819,7 +819,10 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/de
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/edge_functions/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/edge_functions/index.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/edge_functions/lib/
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/edge_functions/lib/error.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/edge_functions/lib/internal_manifest.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/edge_functions/validate_manifest/
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/edge_functions/validate_manifest/validate_edge_functions_manifest.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/functions/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/functions/error.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/plugins_core/functions/feature_flags.js
@@ -2759,6 +2762,16 @@ usr/lib/node_modules/netlify-cli/node_modules/aggregate-error/node_modules/inden
 usr/lib/node_modules/netlify-cli/node_modules/aggregate-error/node_modules/indent-string/readme.md
 usr/lib/node_modules/netlify-cli/node_modules/aggregate-error/package.json
 usr/lib/node_modules/netlify-cli/node_modules/aggregate-error/readme.md
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/LICENSE
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/README.md
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/dist/
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/dist/index.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/dist/index.js
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/dist/index.js.map
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/package.json
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/src/
+usr/lib/node_modules/netlify-cli/node_modules/ajv-errors/src/index.ts
 usr/lib/node_modules/netlify-cli/node_modules/ajv/
 usr/lib/node_modules/netlify-cli/node_modules/ajv/.runkit_example.js
 usr/lib/node_modules/netlify-cli/node_modules/ajv/LICENSE

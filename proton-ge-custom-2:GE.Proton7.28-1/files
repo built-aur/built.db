@@ -266,6 +266,15 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libswresample.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libswscale.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libswscale.so.5
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libswscale.so.5.7.100
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d-shader.so
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d-shader.so.1
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d-shader.so.1.2.0
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d-utils.so
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d-utils.so.1
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d-utils.so.1.3.0
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d.so
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d.so.1
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/libvkd3d.so.1.4.0
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/pkgconfig/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/vkd3d/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/vkd3d/libvkd3d-shader-1.dll
@@ -285,6 +294,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-unix/a
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-unix/bcrypt.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-unix/crypt32.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-unix/ctapi32.so
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-unix/d3d12.dll.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-unix/dnsapi.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-unix/dwrite.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-unix/dxgi.dll.so
@@ -634,6 +644,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-window
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/d3d10_1.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/d3d10core.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/d3d11.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/d3d12.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/d3d8.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/d3d8thk.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/d3d9.dll
@@ -1320,19 +1331,15 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/cmake/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/cmake/openxr/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgst1394.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstaccurip.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstadder.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstadpcmdec.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstadpcmenc.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstaiff.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstamrnb.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstamrwbdec.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstaom.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstapp.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstasf.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstasfmux.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstassrender.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstaudiobuffersplit.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstaudioconvert.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstaudiofxbad.so
@@ -1391,7 +1398,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstjpeg.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstjpegformat.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstkms.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstlame.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstlegacyrawparse.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstlibav.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstlv2.so
@@ -1403,7 +1409,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstmpegtsdemux.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstmpegtsmux.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstmpg123.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstmsdk.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstmxf.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstnavigationtest.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstnetsim.so
@@ -1438,7 +1443,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstsoup.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstspeed.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstspeex.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstsrt.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstsubenc.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstswitchbin.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgsttheora.so
@@ -1463,7 +1467,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstwavparse.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstwebp.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstwebrtcdsp.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstx264.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstxingmux.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgsty4mdec.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgsty4menc.so
@@ -1588,6 +1591,15 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libswresample.
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libswscale.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libswscale.so.5
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libswscale.so.5.7.100
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d-shader.so
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d-shader.so.1
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d-shader.so.1.2.0
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d-utils.so
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d-utils.so.1
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d-utils.so.1.3.0
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d.so
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d.so.1
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/libvkd3d.so.1.4.0
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/pkgconfig/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/vkd3d/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/vkd3d/libvkd3d-shader-1.dll
@@ -1614,6 +1626,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-un
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-unix/bcrypt.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-unix/crypt32.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-unix/ctapi32.so
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-unix/d3d12.dll.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-unix/dnsapi.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-unix/dwrite.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-unix/dxgi.dll.so
@@ -1965,6 +1978,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-wi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/d3d10_1.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/d3d10core.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/d3d11.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/d3d12.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/d3d8.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/d3d8thk.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/d3d9.dll
@@ -2743,7 +2757,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/c06d.msi
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/e999.msi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/
@@ -3232,6 +3246,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/d3d10_1.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/d3d10core.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/d3d11.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/d3d12.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/d3d8.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/d3d8thk.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/d3d9.dll
@@ -4307,6 +4322,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/d3d10_1.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/d3d10core.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/d3d11.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/d3d12.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/d3d8.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/d3d8thk.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/d3d9.dll
@@ -8742,6 +8758,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1063
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1086940.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1097150.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1097840.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1097880.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/110800.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1113000.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1151640.py

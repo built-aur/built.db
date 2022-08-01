@@ -2,6 +2,7 @@
 usr/
 usr/bin/
 usr/bin/mangoapp
+usr/bin/mangohudctl
 usr/lib/
 usr/lib/libMangoApp.so
 usr/share/

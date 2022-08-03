@@ -432,9 +432,6 @@ usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/LICENSE.md
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/README.md
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/common/
-usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/common/file-url-to-path/
-usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/common/file-url-to-path/index.js
-usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/common/file-url-to-path/polyfill.js
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/common/get-options.js
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/common/node.js
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/common/owner-sync.js
@@ -447,9 +444,7 @@ usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/cp/polyfill.js
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/errors.js
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/fs.js
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/index.js
-usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/mkdir/
-usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/mkdir/index.js
-usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/mkdir/polyfill.js
+usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/mkdir.js
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/mkdtemp.js
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/rm/
 usr/lib/node_modules/@angular/cli/node_modules/@npmcli/fs/lib/rm/index.js

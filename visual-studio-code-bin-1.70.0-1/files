@@ -108,7 +108,9 @@ opt/visual-studio-code/resources/app/extensions/configuration-editing/package.js
 opt/visual-studio-code/resources/app/extensions/configuration-editing/package.nls.json
 opt/visual-studio-code/resources/app/extensions/configuration-editing/schemas/
 opt/visual-studio-code/resources/app/extensions/configuration-editing/schemas/attachContainer.schema.json
+opt/visual-studio-code/resources/app/extensions/configuration-editing/schemas/devContainer.codespaces.schema.json
 opt/visual-studio-code/resources/app/extensions/configuration-editing/schemas/devContainer.schema.generated.json
+opt/visual-studio-code/resources/app/extensions/configuration-editing/schemas/devContainer.vscode.schema.json
 opt/visual-studio-code/resources/app/extensions/cpp/
 opt/visual-studio-code/resources/app/extensions/cpp/language-configuration.json
 opt/visual-studio-code/resources/app/extensions/cpp/package.json
@@ -244,7 +246,7 @@ opt/visual-studio-code/resources/app/extensions/git/
 opt/visual-studio-code/resources/app/extensions/git/README.md
 opt/visual-studio-code/resources/app/extensions/git/dist/
 opt/visual-studio-code/resources/app/extensions/git/dist/164.js
-opt/visual-studio-code/resources/app/extensions/git/dist/488.js
+opt/visual-studio-code/resources/app/extensions/git/dist/391.js
 opt/visual-studio-code/resources/app/extensions/git/dist/939.js
 opt/visual-studio-code/resources/app/extensions/git/dist/939.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/git/dist/askpass-empty.sh
@@ -285,7 +287,7 @@ opt/visual-studio-code/resources/app/extensions/github-authentication/
 opt/visual-studio-code/resources/app/extensions/github-authentication/README.md
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/164.js
-opt/visual-studio-code/resources/app/extensions/github-authentication/dist/488.js
+opt/visual-studio-code/resources/app/extensions/github-authentication/dist/391.js
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/939.js
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/939.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
@@ -377,10 +379,6 @@ opt/visual-studio-code/resources/app/extensions/html-language-features/README.md
 opt/visual-studio-code/resources/app/extensions/html-language-features/client/
 opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/
 opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/
-opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/278.htmlClientMain.js
-opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/493.htmlClientMain.js
-opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/493.htmlClientMain.js.LICENSE.txt
-opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/955.htmlClientMain.js
 opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js
 opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/nls.metadata.json
@@ -430,6 +428,8 @@ opt/visual-studio-code/resources/app/extensions/ipynb/
 opt/visual-studio-code/resources/app/extensions/ipynb/README.md
 opt/visual-studio-code/resources/app/extensions/ipynb/dist/
 opt/visual-studio-code/resources/app/extensions/ipynb/dist/ipynbMain.js
+opt/visual-studio-code/resources/app/extensions/ipynb/notebook-out/
+opt/visual-studio-code/resources/app/extensions/ipynb/notebook-out/cellAttachmentRenderer.js
 opt/visual-studio-code/resources/app/extensions/ipynb/package.json
 opt/visual-studio-code/resources/app/extensions/ipynb/package.nls.json
 opt/visual-studio-code/resources/app/extensions/jake/
@@ -466,10 +466,10 @@ opt/visual-studio-code/resources/app/extensions/json-language-features/README.md
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/
+opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/201.jsonClientMain.js
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/278.jsonClientMain.js
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/493.jsonClientMain.js
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/493.jsonClientMain.js.LICENSE.txt
-opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/955.jsonClientMain.js
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/nls.metadata.json
@@ -544,14 +544,12 @@ opt/visual-studio-code/resources/app/extensions/markdown-language-features/
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/README.md
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/164.js
-opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/488.js
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/391.js
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/939.js
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/939.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/extension.js
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/nls.metadata.json
-opt/visual-studio-code/resources/app/extensions/markdown-language-features/esbuild-notebook.js
-opt/visual-studio-code/resources/app/extensions/markdown-language-features/esbuild-preview.js
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/icon.png
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/media/
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/media/highlight.css
@@ -566,6 +564,14 @@ opt/visual-studio-code/resources/app/extensions/markdown-language-features/packa
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/package.nls.json
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/schemas/
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/schemas/package.schema.json
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/.npmignore
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/README.md
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/dist/
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/dist/node/
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/dist/node/main.js
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/package.json
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/yarn.lock
 opt/visual-studio-code/resources/app/extensions/markdown-math/
 opt/visual-studio-code/resources/app/extensions/markdown-math/README.md
 opt/visual-studio-code/resources/app/extensions/markdown-math/dist/
@@ -615,7 +621,7 @@ opt/visual-studio-code/resources/app/extensions/microsoft-authentication/
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/README.md
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/164.js
-opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/488.js
+opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/391.js
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/939.js
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/939.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
@@ -1029,7 +1035,6 @@ opt/visual-studio-code/resources/app/extensions/simple-browser/dist/
 opt/visual-studio-code/resources/app/extensions/simple-browser/dist/extension.js
 opt/visual-studio-code/resources/app/extensions/simple-browser/dist/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/simple-browser/dist/nls.metadata.json
-opt/visual-studio-code/resources/app/extensions/simple-browser/esbuild-preview.js
 opt/visual-studio-code/resources/app/extensions/simple-browser/media/
 opt/visual-studio-code/resources/app/extensions/simple-browser/media/codicon.css
 opt/visual-studio-code/resources/app/extensions/simple-browser/media/codicon.ttf
@@ -1147,7 +1152,7 @@ opt/visual-studio-code/resources/app/extensions/typescript-language-features/
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/README.md
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/164.js
-opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/488.js
+opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/391.js
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/939.js
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/939.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js
@@ -1306,9 +1311,6 @@ opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/
 opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcess.js
 opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js
 opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.nls.js
-opt/visual-studio-code/resources/app/out/vs/code/electron-browser/workbench/
-opt/visual-studio-code/resources/app/out/vs/code/electron-browser/workbench/workbench.html
-opt/visual-studio-code/resources/app/out/vs/code/electron-browser/workbench/workbench.js
 opt/visual-studio-code/resources/app/out/vs/code/electron-main/
 opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js
 opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.nls.js
@@ -1327,6 +1329,7 @@ opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/processExplore
 opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/processExplorer/processExplorerMain.nls.js
 opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/workbench/
 opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html
+opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.js
 opt/visual-studio-code/resources/app/out/vs/code/node/
 opt/visual-studio-code/resources/app/out/vs/code/node/cli.js
 opt/visual-studio-code/resources/app/out/vs/code/node/cli.nls.js

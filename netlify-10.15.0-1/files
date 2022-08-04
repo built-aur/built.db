@@ -1064,7 +1064,6 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/log/messages/co
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/log/messages/core.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/log/messages/core_steps.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/log/messages/dry.js
-usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/log/messages/edge_manifest.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/log/messages/install.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/log/messages/ipc.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/log/messages/mutations.js
@@ -1489,6 +1488,8 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/import_
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/import_map.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/index.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/index.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/logger.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/logger.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/manifest.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/manifest.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/dist/package_json.d.ts
@@ -12686,6 +12687,9 @@ usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/int
 usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/legacy_to_multifile_migration.test.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/legacy_to_multifile_migration.test.js
 usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/legacy_to_multifile_migration.test.js.map
+usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/lockfile.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/lockfile.js
+usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/lockfile.js.map
 usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/netlifyGraph.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/netlifyGraph.js
 usr/lib/node_modules/netlify-cli/node_modules/netlify-onegraph-internal/dist/netlifyGraph.js.map
@@ -14915,6 +14919,14 @@ usr/lib/node_modules/netlify-cli/node_modules/run-parallel/LICENSE
 usr/lib/node_modules/netlify-cli/node_modules/run-parallel/README.md
 usr/lib/node_modules/netlify-cli/node_modules/run-parallel/index.js
 usr/lib/node_modules/netlify-cli/node_modules/run-parallel/package.json
+usr/lib/node_modules/netlify-cli/node_modules/rusha/
+usr/lib/node_modules/netlify-cli/node_modules/rusha/.travis.yml
+usr/lib/node_modules/netlify-cli/node_modules/rusha/LICENSE
+usr/lib/node_modules/netlify-cli/node_modules/rusha/README.md
+usr/lib/node_modules/netlify-cli/node_modules/rusha/dist/
+usr/lib/node_modules/netlify-cli/node_modules/rusha/dist/rusha.js
+usr/lib/node_modules/netlify-cli/node_modules/rusha/dist/rusha.min.js
+usr/lib/node_modules/netlify-cli/node_modules/rusha/package.json
 usr/lib/node_modules/netlify-cli/node_modules/rxjs/
 usr/lib/node_modules/netlify-cli/node_modules/rxjs/AsyncSubject.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/rxjs/AsyncSubject.js
@@ -21078,6 +21090,7 @@ usr/lib/node_modules/netlify-cli/node_modules/yargs-parser/README.md
 usr/lib/node_modules/netlify-cli/node_modules/yargs-parser/browser.js
 usr/lib/node_modules/netlify-cli/node_modules/yargs-parser/build/
 usr/lib/node_modules/netlify-cli/node_modules/yargs-parser/build/index.cjs
+usr/lib/node_modules/netlify-cli/node_modules/yargs-parser/build/index.d.cts
 usr/lib/node_modules/netlify-cli/node_modules/yargs-parser/build/lib/
 usr/lib/node_modules/netlify-cli/node_modules/yargs-parser/build/lib/index.js
 usr/lib/node_modules/netlify-cli/node_modules/yargs-parser/build/lib/string-utils.js

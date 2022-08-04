@@ -3,6 +3,7 @@ etc/
 etc/mongodb.conf
 usr/
 usr/bin/
+usr/bin/mongo
 usr/bin/mongod
 usr/bin/mongos
 usr/lib/

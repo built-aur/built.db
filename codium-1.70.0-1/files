@@ -41,7 +41,9 @@ usr/lib/codium/extensions/configuration-editing/package.json
 usr/lib/codium/extensions/configuration-editing/package.nls.json
 usr/lib/codium/extensions/configuration-editing/schemas/
 usr/lib/codium/extensions/configuration-editing/schemas/attachContainer.schema.json
+usr/lib/codium/extensions/configuration-editing/schemas/devContainer.codespaces.schema.json
 usr/lib/codium/extensions/configuration-editing/schemas/devContainer.schema.generated.json
+usr/lib/codium/extensions/configuration-editing/schemas/devContainer.vscode.schema.json
 usr/lib/codium/extensions/cpp/
 usr/lib/codium/extensions/cpp/language-configuration.json
 usr/lib/codium/extensions/cpp/package.json
@@ -177,7 +179,7 @@ usr/lib/codium/extensions/git/
 usr/lib/codium/extensions/git/README.md
 usr/lib/codium/extensions/git/dist/
 usr/lib/codium/extensions/git/dist/164.js
-usr/lib/codium/extensions/git/dist/488.js
+usr/lib/codium/extensions/git/dist/391.js
 usr/lib/codium/extensions/git/dist/939.js
 usr/lib/codium/extensions/git/dist/939.js.LICENSE.txt
 usr/lib/codium/extensions/git/dist/askpass-empty.sh
@@ -218,7 +220,7 @@ usr/lib/codium/extensions/github-authentication/
 usr/lib/codium/extensions/github-authentication/README.md
 usr/lib/codium/extensions/github-authentication/dist/
 usr/lib/codium/extensions/github-authentication/dist/164.js
-usr/lib/codium/extensions/github-authentication/dist/488.js
+usr/lib/codium/extensions/github-authentication/dist/391.js
 usr/lib/codium/extensions/github-authentication/dist/939.js
 usr/lib/codium/extensions/github-authentication/dist/939.js.LICENSE.txt
 usr/lib/codium/extensions/github-authentication/dist/extension.js
@@ -308,10 +310,6 @@ usr/lib/codium/extensions/html-language-features/README.md
 usr/lib/codium/extensions/html-language-features/client/
 usr/lib/codium/extensions/html-language-features/client/dist/
 usr/lib/codium/extensions/html-language-features/client/dist/node/
-usr/lib/codium/extensions/html-language-features/client/dist/node/278.htmlClientMain.js
-usr/lib/codium/extensions/html-language-features/client/dist/node/493.htmlClientMain.js
-usr/lib/codium/extensions/html-language-features/client/dist/node/493.htmlClientMain.js.LICENSE.txt
-usr/lib/codium/extensions/html-language-features/client/dist/node/955.htmlClientMain.js
 usr/lib/codium/extensions/html-language-features/client/dist/node/htmlClientMain.js
 usr/lib/codium/extensions/html-language-features/client/dist/node/nls.metadata.header.json
 usr/lib/codium/extensions/html-language-features/client/dist/node/nls.metadata.json
@@ -361,6 +359,8 @@ usr/lib/codium/extensions/ipynb/
 usr/lib/codium/extensions/ipynb/README.md
 usr/lib/codium/extensions/ipynb/dist/
 usr/lib/codium/extensions/ipynb/dist/ipynbMain.js
+usr/lib/codium/extensions/ipynb/notebook-out/
+usr/lib/codium/extensions/ipynb/notebook-out/cellAttachmentRenderer.js
 usr/lib/codium/extensions/ipynb/package.json
 usr/lib/codium/extensions/ipynb/package.nls.json
 usr/lib/codium/extensions/jake/
@@ -397,10 +397,10 @@ usr/lib/codium/extensions/json-language-features/README.md
 usr/lib/codium/extensions/json-language-features/client/
 usr/lib/codium/extensions/json-language-features/client/dist/
 usr/lib/codium/extensions/json-language-features/client/dist/node/
+usr/lib/codium/extensions/json-language-features/client/dist/node/201.jsonClientMain.js
 usr/lib/codium/extensions/json-language-features/client/dist/node/278.jsonClientMain.js
 usr/lib/codium/extensions/json-language-features/client/dist/node/493.jsonClientMain.js
 usr/lib/codium/extensions/json-language-features/client/dist/node/493.jsonClientMain.js.LICENSE.txt
-usr/lib/codium/extensions/json-language-features/client/dist/node/955.jsonClientMain.js
 usr/lib/codium/extensions/json-language-features/client/dist/node/jsonClientMain.js
 usr/lib/codium/extensions/json-language-features/client/dist/node/nls.metadata.header.json
 usr/lib/codium/extensions/json-language-features/client/dist/node/nls.metadata.json
@@ -475,14 +475,12 @@ usr/lib/codium/extensions/markdown-language-features/
 usr/lib/codium/extensions/markdown-language-features/README.md
 usr/lib/codium/extensions/markdown-language-features/dist/
 usr/lib/codium/extensions/markdown-language-features/dist/164.js
-usr/lib/codium/extensions/markdown-language-features/dist/488.js
+usr/lib/codium/extensions/markdown-language-features/dist/391.js
 usr/lib/codium/extensions/markdown-language-features/dist/939.js
 usr/lib/codium/extensions/markdown-language-features/dist/939.js.LICENSE.txt
 usr/lib/codium/extensions/markdown-language-features/dist/extension.js
 usr/lib/codium/extensions/markdown-language-features/dist/nls.metadata.header.json
 usr/lib/codium/extensions/markdown-language-features/dist/nls.metadata.json
-usr/lib/codium/extensions/markdown-language-features/esbuild-notebook.js
-usr/lib/codium/extensions/markdown-language-features/esbuild-preview.js
 usr/lib/codium/extensions/markdown-language-features/icon.png
 usr/lib/codium/extensions/markdown-language-features/media/
 usr/lib/codium/extensions/markdown-language-features/media/highlight.css
@@ -497,6 +495,14 @@ usr/lib/codium/extensions/markdown-language-features/package.json
 usr/lib/codium/extensions/markdown-language-features/package.nls.json
 usr/lib/codium/extensions/markdown-language-features/schemas/
 usr/lib/codium/extensions/markdown-language-features/schemas/package.schema.json
+usr/lib/codium/extensions/markdown-language-features/server/
+usr/lib/codium/extensions/markdown-language-features/server/.npmignore
+usr/lib/codium/extensions/markdown-language-features/server/README.md
+usr/lib/codium/extensions/markdown-language-features/server/dist/
+usr/lib/codium/extensions/markdown-language-features/server/dist/node/
+usr/lib/codium/extensions/markdown-language-features/server/dist/node/main.js
+usr/lib/codium/extensions/markdown-language-features/server/package.json
+usr/lib/codium/extensions/markdown-language-features/server/yarn.lock
 usr/lib/codium/extensions/markdown-math/
 usr/lib/codium/extensions/markdown-math/README.md
 usr/lib/codium/extensions/markdown-math/dist/
@@ -546,7 +552,7 @@ usr/lib/codium/extensions/microsoft-authentication/
 usr/lib/codium/extensions/microsoft-authentication/README.md
 usr/lib/codium/extensions/microsoft-authentication/dist/
 usr/lib/codium/extensions/microsoft-authentication/dist/164.js
-usr/lib/codium/extensions/microsoft-authentication/dist/488.js
+usr/lib/codium/extensions/microsoft-authentication/dist/391.js
 usr/lib/codium/extensions/microsoft-authentication/dist/939.js
 usr/lib/codium/extensions/microsoft-authentication/dist/939.js.LICENSE.txt
 usr/lib/codium/extensions/microsoft-authentication/dist/extension.js
@@ -960,7 +966,6 @@ usr/lib/codium/extensions/simple-browser/dist/
 usr/lib/codium/extensions/simple-browser/dist/extension.js
 usr/lib/codium/extensions/simple-browser/dist/nls.metadata.header.json
 usr/lib/codium/extensions/simple-browser/dist/nls.metadata.json
-usr/lib/codium/extensions/simple-browser/esbuild-preview.js
 usr/lib/codium/extensions/simple-browser/media/
 usr/lib/codium/extensions/simple-browser/media/codicon.css
 usr/lib/codium/extensions/simple-browser/media/codicon.ttf
@@ -1078,7 +1083,7 @@ usr/lib/codium/extensions/typescript-language-features/
 usr/lib/codium/extensions/typescript-language-features/README.md
 usr/lib/codium/extensions/typescript-language-features/dist/
 usr/lib/codium/extensions/typescript-language-features/dist/164.js
-usr/lib/codium/extensions/typescript-language-features/dist/488.js
+usr/lib/codium/extensions/typescript-language-features/dist/391.js
 usr/lib/codium/extensions/typescript-language-features/dist/939.js
 usr/lib/codium/extensions/typescript-language-features/dist/939.js.LICENSE.txt
 usr/lib/codium/extensions/typescript-language-features/dist/extension.js
@@ -1215,9 +1220,6 @@ usr/lib/codium/out/vs/code/electron-browser/sharedProcess/sharedProcess.html
 usr/lib/codium/out/vs/code/electron-browser/sharedProcess/sharedProcess.js
 usr/lib/codium/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js
 usr/lib/codium/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.nls.js
-usr/lib/codium/out/vs/code/electron-browser/workbench/
-usr/lib/codium/out/vs/code/electron-browser/workbench/workbench.html
-usr/lib/codium/out/vs/code/electron-browser/workbench/workbench.js
 usr/lib/codium/out/vs/code/electron-main/
 usr/lib/codium/out/vs/code/electron-main/main.js
 usr/lib/codium/out/vs/code/electron-main/main.nls.js
@@ -1236,6 +1238,7 @@ usr/lib/codium/out/vs/code/electron-sandbox/processExplorer/processExplorerMain.
 usr/lib/codium/out/vs/code/electron-sandbox/processExplorer/processExplorerMain.nls.js
 usr/lib/codium/out/vs/code/electron-sandbox/workbench/
 usr/lib/codium/out/vs/code/electron-sandbox/workbench/workbench.html
+usr/lib/codium/out/vs/code/electron-sandbox/workbench/workbench.js
 usr/lib/codium/out/vs/code/node/
 usr/lib/codium/out/vs/code/node/cli.js
 usr/lib/codium/out/vs/code/node/cli.nls.js

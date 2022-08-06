@@ -813,7 +813,6 @@ usr/lib/node_modules/pnpm/dist/node_modules/yallist/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/yallist/yallist.js
 usr/lib/node_modules/pnpm/dist/pnpm.cjs
 usr/lib/node_modules/pnpm/dist/pnpmrc
-usr/lib/node_modules/pnpm/dist/pnpx.cjs
 usr/lib/node_modules/pnpm/dist/scripts/
 usr/lib/node_modules/pnpm/dist/scripts/bash.sh
 usr/lib/node_modules/pnpm/dist/scripts/fish.sh

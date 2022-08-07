@@ -15,6 +15,7 @@ opt/insomnia/libffmpeg.so
 opt/insomnia/libvk_swiftshader.so
 opt/insomnia/libvulkan.so.1
 opt/insomnia/locales/
+opt/insomnia/locales/af.pak
 opt/insomnia/locales/am.pak
 opt/insomnia/locales/ar.pak
 opt/insomnia/locales/bg.pak
@@ -65,6 +66,7 @@ opt/insomnia/locales/te.pak
 opt/insomnia/locales/th.pak
 opt/insomnia/locales/tr.pak
 opt/insomnia/locales/uk.pak
+opt/insomnia/locales/ur.pak
 opt/insomnia/locales/vi.pak
 opt/insomnia/locales/zh-CN.pak
 opt/insomnia/locales/zh-TW.pak
@@ -75,9 +77,6 @@ opt/insomnia/resources/bin/
 opt/insomnia/resources/bin/yarn-standalone.js
 opt/insomnia/resources/opensource-licenses.txt
 opt/insomnia/snapshot_blob.bin
-opt/insomnia/swiftshader/
-opt/insomnia/swiftshader/libEGL.so
-opt/insomnia/swiftshader/libGLESv2.so
 opt/insomnia/v8_context_snapshot.bin
 opt/insomnia/vk_swiftshader_icd.json
 usr/

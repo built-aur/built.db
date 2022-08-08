@@ -101,7 +101,9 @@ usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-cyrillic-ext-
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-cyrillic-ext-600-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-cyrillic-ext-700-normal.woff
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-cyrillic-ext-700-normal.woff2
+usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-cyrillic-ext-variable-full-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-cyrillic-ext-variable-wghtOnly-normal.woff2
+usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-cyrillic-variable-full-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-cyrillic-variable-wghtOnly-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-300-normal.woff
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-300-normal.woff2
@@ -123,7 +125,9 @@ usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-ext-600
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-ext-600-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-ext-700-normal.woff
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-ext-700-normal.woff2
+usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-ext-variable-full-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-ext-variable-wghtOnly-normal.woff2
+usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-variable-full-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-greek-variable-wghtOnly-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-300-normal.woff
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-300-normal.woff2
@@ -145,7 +149,9 @@ usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-ext-600
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-ext-600-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-ext-700-normal.woff
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-ext-700-normal.woff2
+usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-ext-variable-full-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-ext-variable-wghtOnly-normal.woff2
+usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-variable-full-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/files/fira-code-latin-variable-wghtOnly-normal.woff2
 usr/lib/webcord/node_modules/@fontsource/fira-code/greek-300.css
 usr/lib/webcord/node_modules/@fontsource/fira-code/greek-400.css
@@ -177,6 +183,7 @@ usr/lib/webcord/node_modules/@fontsource/fira-code/package.json
 usr/lib/webcord/node_modules/@fontsource/fira-code/scss/
 usr/lib/webcord/node_modules/@fontsource/fira-code/scss/mixins.scss
 usr/lib/webcord/node_modules/@fontsource/fira-code/unicode.json
+usr/lib/webcord/node_modules/@fontsource/fira-code/variable-full.css
 usr/lib/webcord/node_modules/@fontsource/fira-code/variable.css
 usr/lib/webcord/node_modules/@fontsource/roboto/
 usr/lib/webcord/node_modules/@fontsource/roboto/100-italic.css

@@ -1733,6 +1733,7 @@ usr/lib/wine/x86_64-windows/gameux.dll
 usr/lib/wine/x86_64-windows/gamingtcui.dll
 usr/lib/wine/x86_64-windows/gdi32.dll
 usr/lib/wine/x86_64-windows/gdiplus.dll
+usr/lib/wine/x86_64-windows/getminidump.exe
 usr/lib/wine/x86_64-windows/glu32.dll
 usr/lib/wine/x86_64-windows/gphoto2.ds
 usr/lib/wine/x86_64-windows/gpkcsp.dll
@@ -2763,6 +2764,7 @@ usr/lib32/wine/i386-windows/gameux.dll
 usr/lib32/wine/i386-windows/gamingtcui.dll
 usr/lib32/wine/i386-windows/gdi32.dll
 usr/lib32/wine/i386-windows/gdiplus.dll
+usr/lib32/wine/i386-windows/getminidump.exe
 usr/lib32/wine/i386-windows/glu32.dll
 usr/lib32/wine/i386-windows/gpkcsp.dll
 usr/lib32/wine/i386-windows/hal.dll

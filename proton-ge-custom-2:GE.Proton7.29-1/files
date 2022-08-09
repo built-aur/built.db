@@ -833,6 +833,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-window
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/gamingtcui.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/gdi32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/gdiplus.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/getminidump.exe
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/glu32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/gpkcsp.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/hal.dll
@@ -2167,6 +2168,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-wi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/gamingtcui.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/gdi32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/gdiplus.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/getminidump.exe
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/glu32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/gphoto2.ds
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/gpkcsp.dll
@@ -2757,7 +2759,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/e999.msi
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/f763.msi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/
@@ -3459,6 +3461,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/gecko/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/gecko/plugin/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/gecko/plugin/npmshtml.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/getminidump.exe
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/glu32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/gpkcsp.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/hal.dll
@@ -4512,6 +4515,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/gecko/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/gecko/plugin/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/gecko/plugin/npmshtml.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/getminidump.exe
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/glu32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/gpkcsp.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/hal.dll
@@ -8811,6 +8815,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/2237
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/224960.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/225640.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/227320.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/231990.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/240600.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/244210.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/244850.py

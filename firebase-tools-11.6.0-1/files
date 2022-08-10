@@ -266,6 +266,7 @@ usr/lib/node_modules/firebase-tools/lib/emulator/download.js
 usr/lib/node_modules/firebase-tools/lib/emulator/downloadableEmulators.js
 usr/lib/node_modules/firebase-tools/lib/emulator/emulatorLogger.js
 usr/lib/node_modules/firebase-tools/lib/emulator/emulatorServer.js
+usr/lib/node_modules/firebase-tools/lib/emulator/eventarcEmulator.js
 usr/lib/node_modules/firebase-tools/lib/emulator/events/
 usr/lib/node_modules/firebase-tools/lib/emulator/events/types.js
 usr/lib/node_modules/firebase-tools/lib/emulator/extensions/

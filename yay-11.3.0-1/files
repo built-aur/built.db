@@ -55,9 +55,15 @@ usr/share/locale/sv/LC_MESSAGES/yay.mo
 usr/share/locale/tr/
 usr/share/locale/tr/LC_MESSAGES/
 usr/share/locale/tr/LC_MESSAGES/yay.mo
+usr/share/locale/uk/
+usr/share/locale/uk/LC_MESSAGES/
+usr/share/locale/uk/LC_MESSAGES/yay.mo
 usr/share/locale/zh_CN/
 usr/share/locale/zh_CN/LC_MESSAGES/
 usr/share/locale/zh_CN/LC_MESSAGES/yay.mo
+usr/share/locale/zh_TW/
+usr/share/locale/zh_TW/LC_MESSAGES/
+usr/share/locale/zh_TW/LC_MESSAGES/yay.mo
 usr/share/man/
 usr/share/man/man8/
 usr/share/man/man8/yay.8.gz

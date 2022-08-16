@@ -17,9 +17,15 @@ usr/lib/code-server/lib/vscode/
 usr/lib/code-server/lib/vscode/bin/
 usr/lib/code-server/lib/vscode/bin/code-server-oss
 usr/lib/code-server/lib/vscode/bin/helpers/
+usr/lib/code-server/lib/vscode/bin/helpers/browser-darwin.sh
+usr/lib/code-server/lib/vscode/bin/helpers/browser-linux.sh
+usr/lib/code-server/lib/vscode/bin/helpers/browser.cmd
 usr/lib/code-server/lib/vscode/bin/helpers/browser.sh
 usr/lib/code-server/lib/vscode/bin/remote-cli/
+usr/lib/code-server/lib/vscode/bin/remote-cli/code-darwin.sh
+usr/lib/code-server/lib/vscode/bin/remote-cli/code-linux.sh
 usr/lib/code-server/lib/vscode/bin/remote-cli/code-server
+usr/lib/code-server/lib/vscode/bin/remote-cli/code.cmd
 usr/lib/code-server/lib/vscode/extensions/
 usr/lib/code-server/lib/vscode/extensions/bat/
 usr/lib/code-server/lib/vscode/extensions/bat/language-configuration.json

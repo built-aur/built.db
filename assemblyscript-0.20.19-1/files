@@ -85,7 +85,6 @@ usr/lib/node_modules/assemblyscript/std/assembly/memory.ts
 usr/lib/node_modules/assemblyscript/std/assembly/number.ts
 usr/lib/node_modules/assemblyscript/std/assembly/object.ts
 usr/lib/node_modules/assemblyscript/std/assembly/performance.ts
-usr/lib/node_modules/assemblyscript/std/assembly/polyfills.ts
 usr/lib/node_modules/assemblyscript/std/assembly/process.ts
 usr/lib/node_modules/assemblyscript/std/assembly/reference.ts
 usr/lib/node_modules/assemblyscript/std/assembly/regexp.ts

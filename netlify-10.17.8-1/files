@@ -713,8 +713,10 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/package.json
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/bin.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/build.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/config.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/constants.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/dev.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/dry.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/feature_flags.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/src/core/flags.js

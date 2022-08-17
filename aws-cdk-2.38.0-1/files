@@ -158,6 +158,8 @@ usr/lib/node_modules/aws-cdk/lib/context-providers/ssm-parameters.d.ts
 usr/lib/node_modules/aws-cdk/lib/context-providers/ssm-parameters.js
 usr/lib/node_modules/aws-cdk/lib/context-providers/vpcs.d.ts
 usr/lib/node_modules/aws-cdk/lib/context-providers/vpcs.js
+usr/lib/node_modules/aws-cdk/lib/deploy.d.ts
+usr/lib/node_modules/aws-cdk/lib/deploy.js
 usr/lib/node_modules/aws-cdk/lib/diff.d.ts
 usr/lib/node_modules/aws-cdk/lib/diff.js
 usr/lib/node_modules/aws-cdk/lib/import.d.ts
@@ -539,6 +541,8 @@ usr/lib/node_modules/aws-cdk/test/context-providers/vpcs.test.d.ts
 usr/lib/node_modules/aws-cdk/test/context-providers/vpcs.test.js
 usr/lib/node_modules/aws-cdk/test/context.test.d.ts
 usr/lib/node_modules/aws-cdk/test/context.test.js
+usr/lib/node_modules/aws-cdk/test/deploy.test.d.ts
+usr/lib/node_modules/aws-cdk/test/deploy.test.js
 usr/lib/node_modules/aws-cdk/test/diff.test.d.ts
 usr/lib/node_modules/aws-cdk/test/diff.test.js
 usr/lib/node_modules/aws-cdk/test/import.test.d.ts

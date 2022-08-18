@@ -100,6 +100,7 @@ usr/lib/mysql/plugin/component_udf_unreg_3_func.so
 usr/lib/mysql/plugin/component_udf_unreg_int_func.so
 usr/lib/mysql/plugin/component_udf_unreg_real_func.so
 usr/lib/mysql/plugin/component_validate_password.so
+usr/lib/mysql/plugin/conflicting_variables.so
 usr/lib/mysql/plugin/connection_control.so
 usr/lib/mysql/plugin/daemon_example.ini
 usr/lib/mysql/plugin/ddl_rewriter.so

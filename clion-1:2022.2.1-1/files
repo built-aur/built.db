@@ -267,7 +267,7 @@ opt/clion/lib/asm-commons-9.2.jar
 opt/clion/lib/asm-tree-9.2.jar
 opt/clion/lib/asm-util-9.2.jar
 opt/clion/lib/async-profiler.jar
-opt/clion/lib/build-marker-CL-222.3345.126
+opt/clion/lib/build-marker-CL-222.3739.54
 opt/clion/lib/byte-buddy-agent.jar
 opt/clion/lib/cds/
 opt/clion/lib/cds/classesLogAgent.jar
@@ -6377,6 +6377,7 @@ opt/clion/plugins/remote-dev-server/selfcontained/fontconfig/fonts.conf
 opt/clion/plugins/remote-dev-server/selfcontained/fontconfig/fonts/
 opt/clion/plugins/remote-dev-server/selfcontained/fontconfig/fonts/DejaVuLGCSans.ttf
 opt/clion/plugins/remote-dev-server/selfcontained/lib/
+opt/clion/plugins/remote-dev-server/selfcontained/lib/libEGL.so.1
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libGL.so.1
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libGLX.so.0
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libGLdispatch.so.0
@@ -6404,6 +6405,7 @@ opt/clion/plugins/remote-dev-server/selfcontained/lib/libattr.so.1
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libavahi-client.so.3
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libavahi-common.so.3
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libbz2.so.1
+opt/clion/plugins/remote-dev-server/selfcontained/lib/libcairo.so.2
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libcap.so.2
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libcom_err.so.2
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libcrypto.so.10
@@ -6420,6 +6422,7 @@ opt/clion/plugins/remote-dev-server/selfcontained/lib/libfontenc.so.1
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libfreebl3.so
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libfreeblpriv3.so
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libfreetype.so.6
+opt/clion/plugins/remote-dev-server/selfcontained/lib/libfribidi.so.0
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libgbm.so.1
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libgcrypt.so.11
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libgio-2.0.so.0
@@ -6440,6 +6443,7 @@ opt/clion/plugins/remote-dev-server/selfcontained/lib/libnss3.so
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libnssckbi.so
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libnssdbm3.so
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libnssutil3.so
+opt/clion/plugins/remote-dev-server/selfcontained/lib/libpango-1.0.so.0
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libpci.so.3
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libpcre.so.1
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libpixman-1.so.0
@@ -6454,8 +6458,11 @@ opt/clion/plugins/remote-dev-server/selfcontained/lib/libssl.so.10
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libssl3.so
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libstdc++.so.6
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libsystemd.so.0
+opt/clion/plugins/remote-dev-server/selfcontained/lib/libthai.so.0
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libuuid.so.1
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libwayland-server.so.0
+opt/clion/plugins/remote-dev-server/selfcontained/lib/libxcb-render.so.0
+opt/clion/plugins/remote-dev-server/selfcontained/lib/libxcb-shm.so.0
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libxcb.so.1
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libxkbcommon.so.0
 opt/clion/plugins/remote-dev-server/selfcontained/lib/libxkbfile.so.1

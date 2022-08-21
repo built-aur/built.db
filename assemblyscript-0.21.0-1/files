@@ -65,9 +65,6 @@ usr/lib/node_modules/assemblyscript/std/assembly/bindings/
 usr/lib/node_modules/assemblyscript/std/assembly/bindings/asyncify.ts
 usr/lib/node_modules/assemblyscript/std/assembly/bindings/dom.ts
 usr/lib/node_modules/assemblyscript/std/assembly/bindings/node.ts
-usr/lib/node_modules/assemblyscript/std/assembly/bindings/wasi.ts
-usr/lib/node_modules/assemblyscript/std/assembly/bindings/wasi_snapshot_preview1.ts
-usr/lib/node_modules/assemblyscript/std/assembly/bindings/wasi_unstable.ts
 usr/lib/node_modules/assemblyscript/std/assembly/builtins.ts
 usr/lib/node_modules/assemblyscript/std/assembly/compat.ts
 usr/lib/node_modules/assemblyscript/std/assembly/console.ts
@@ -127,8 +124,6 @@ usr/lib/node_modules/assemblyscript/std/assembly/util/sort.ts
 usr/lib/node_modules/assemblyscript/std/assembly/util/string.ts
 usr/lib/node_modules/assemblyscript/std/assembly/util/uri.ts
 usr/lib/node_modules/assemblyscript/std/assembly/vector.ts
-usr/lib/node_modules/assemblyscript/std/assembly/wasi/
-usr/lib/node_modules/assemblyscript/std/assembly/wasi/index.ts
 usr/lib/node_modules/assemblyscript/std/portable.json
 usr/lib/node_modules/assemblyscript/std/portable/
 usr/lib/node_modules/assemblyscript/std/portable/index.d.ts

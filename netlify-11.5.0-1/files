@@ -692,6 +692,7 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/type-f
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/type-fest/source/required-keys-of.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/type-fest/source/schema.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/type-fest/source/screaming-snake-case.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/type-fest/source/set-non-nullable.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/type-fest/source/set-optional.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/type-fest/source/set-required.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/type-fest/source/set-return-type.d.ts
@@ -1079,6 +1080,7 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/node_modules/type-
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/node_modules/type-fest/source/required-keys-of.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/node_modules/type-fest/source/schema.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/node_modules/type-fest/source/screaming-snake-case.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/node_modules/type-fest/source/set-non-nullable.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/node_modules/type-fest/source/set-optional.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/node_modules/type-fest/source/set-required.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/node_modules/type-fest/source/set-return-type.d.ts
@@ -1469,6 +1471,7 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modul
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/type-fest/source/required-keys-of.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/type-fest/source/schema.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/type-fest/source/screaming-snake-case.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/type-fest/source/set-non-nullable.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/type-fest/source/set-optional.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/type-fest/source/set-required.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/type-fest/source/set-return-type.d.ts

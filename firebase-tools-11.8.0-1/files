@@ -376,6 +376,7 @@ usr/lib/node_modules/firebase-tools/lib/fsAsync.js
 usr/lib/node_modules/firebase-tools/lib/fsutils.js
 usr/lib/node_modules/firebase-tools/lib/functional.js
 usr/lib/node_modules/firebase-tools/lib/functions/
+usr/lib/node_modules/firebase-tools/lib/functions/constants.js
 usr/lib/node_modules/firebase-tools/lib/functions/env.js
 usr/lib/node_modules/firebase-tools/lib/functions/events/
 usr/lib/node_modules/firebase-tools/lib/functions/events/index.js
@@ -898,6 +899,8 @@ usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modul
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/downscopedclient.js
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/envDetect.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/envDetect.js
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/executable-response.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/executable-response.js
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/externalclient.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/externalclient.js
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/googleauth.d.ts
@@ -920,6 +923,10 @@ usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modul
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/oauth2client.js
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/oauth2common.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/oauth2common.js
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/pluggable-auth-client.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/pluggable-auth-client.js
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.js
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/refreshclient.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/refreshclient.js
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/google-auth-library/build/src/auth/stscredentials.d.ts
@@ -3293,6 +3300,15 @@ usr/lib/node_modules/firebase-tools/node_modules/ast-types/package.json
 usr/lib/node_modules/firebase-tools/node_modules/ast-types/tsconfig.json
 usr/lib/node_modules/firebase-tools/node_modules/ast-types/types.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/ast-types/types.js
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/AUTHORS
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/History.md
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/LICENSE
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/README.md
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/index.js
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/lib/
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/lib/index.js
+usr/lib/node_modules/firebase-tools/node_modules/async-lock/package.json
 usr/lib/node_modules/firebase-tools/node_modules/async/
 usr/lib/node_modules/firebase-tools/node_modules/async/CHANGELOG.md
 usr/lib/node_modules/firebase-tools/node_modules/async/LICENSE
@@ -6845,6 +6861,8 @@ usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/downscopedclient.js
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/envDetect.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/envDetect.js
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/executable-response.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/executable-response.js
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/externalclient.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/externalclient.js
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/googleauth.d.ts
@@ -6867,6 +6885,10 @@ usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/oauth2client.js
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/oauth2common.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/oauth2common.js
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/pluggable-auth-client.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/pluggable-auth-client.js
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.js
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/refreshclient.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/refreshclient.js
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/google-auth-library/build/src/auth/stscredentials.d.ts
@@ -7004,6 +7026,8 @@ usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/downscopedclient.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/envDetect.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/envDetect.js
+usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/executable-response.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/executable-response.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/externalclient.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/externalclient.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/googleauth.d.ts
@@ -7026,6 +7050,10 @@ usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/oauth2client.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/oauth2common.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/oauth2common.js
+usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/pluggable-auth-client.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/pluggable-auth-client.js
+usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/refreshclient.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/refreshclient.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis-common/node_modules/google-auth-library/build/src/auth/stscredentials.d.ts
@@ -8752,6 +8780,8 @@ usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/downscopedclient.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/envDetect.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/envDetect.js
+usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/executable-response.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/executable-response.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/externalclient.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/externalclient.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/googleauth.d.ts
@@ -8774,6 +8804,10 @@ usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/oauth2client.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/oauth2common.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/oauth2common.js
+usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/pluggable-auth-client.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/pluggable-auth-client.js
+usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/refreshclient.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/refreshclient.js
 usr/lib/node_modules/firebase-tools/node_modules/googleapis/node_modules/google-auth-library/build/src/auth/stscredentials.d.ts

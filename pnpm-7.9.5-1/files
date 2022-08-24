@@ -808,7 +808,8 @@ usr/lib/node_modules/pnpm/dist/node_modules/tar/lib/write-entry.js
 usr/lib/node_modules/pnpm/dist/node_modules/tar/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/LICENSE
-usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/index.js
+usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/lib/
+usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/lib/index.js
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/unique-slug/
 usr/lib/node_modules/pnpm/dist/node_modules/unique-slug/LICENSE

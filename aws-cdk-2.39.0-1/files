@@ -124,6 +124,8 @@ usr/lib/node_modules/aws-cdk/lib/api/util/string-manipulation.js
 usr/lib/node_modules/aws-cdk/lib/assets.d.ts
 usr/lib/node_modules/aws-cdk/lib/assets.js
 usr/lib/node_modules/aws-cdk/lib/bridge.js
+usr/lib/node_modules/aws-cdk/lib/build.d.ts
+usr/lib/node_modules/aws-cdk/lib/build.js
 usr/lib/node_modules/aws-cdk/lib/cdk-toolkit.d.ts
 usr/lib/node_modules/aws-cdk/lib/cdk-toolkit.js
 usr/lib/node_modules/aws-cdk/lib/cli.d.ts
@@ -158,6 +160,8 @@ usr/lib/node_modules/aws-cdk/lib/context-providers/ssm-parameters.d.ts
 usr/lib/node_modules/aws-cdk/lib/context-providers/ssm-parameters.js
 usr/lib/node_modules/aws-cdk/lib/context-providers/vpcs.d.ts
 usr/lib/node_modules/aws-cdk/lib/context-providers/vpcs.js
+usr/lib/node_modules/aws-cdk/lib/deploy.d.ts
+usr/lib/node_modules/aws-cdk/lib/deploy.js
 usr/lib/node_modules/aws-cdk/lib/diff.d.ts
 usr/lib/node_modules/aws-cdk/lib/diff.js
 usr/lib/node_modules/aws-cdk/lib/import.d.ts
@@ -506,6 +510,8 @@ usr/lib/node_modules/aws-cdk/test/aws-sdk-non-public-apis.test.d.ts
 usr/lib/node_modules/aws-cdk/test/aws-sdk-non-public-apis.test.js
 usr/lib/node_modules/aws-cdk/test/bockfs.d.ts
 usr/lib/node_modules/aws-cdk/test/bockfs.js
+usr/lib/node_modules/aws-cdk/test/build.test.d.ts
+usr/lib/node_modules/aws-cdk/test/build.test.js
 usr/lib/node_modules/aws-cdk/test/cdk-docs.test.d.ts
 usr/lib/node_modules/aws-cdk/test/cdk-docs.test.js
 usr/lib/node_modules/aws-cdk/test/cdk-doctor.test.d.ts
@@ -539,6 +545,8 @@ usr/lib/node_modules/aws-cdk/test/context-providers/vpcs.test.d.ts
 usr/lib/node_modules/aws-cdk/test/context-providers/vpcs.test.js
 usr/lib/node_modules/aws-cdk/test/context.test.d.ts
 usr/lib/node_modules/aws-cdk/test/context.test.js
+usr/lib/node_modules/aws-cdk/test/deploy.test.d.ts
+usr/lib/node_modules/aws-cdk/test/deploy.test.js
 usr/lib/node_modules/aws-cdk/test/diff.test.d.ts
 usr/lib/node_modules/aws-cdk/test/diff.test.js
 usr/lib/node_modules/aws-cdk/test/import.test.d.ts

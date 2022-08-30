@@ -222,6 +222,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/config/validation/r
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/gensync-utils/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/gensync-utils/async.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/gensync-utils/fs.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/gensync-utils/functional.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/parse.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/core/lib/parser/
@@ -1358,15 +1359,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/arch/browser.js
 usr/lib/node_modules/gatsby-cli/node_modules/arch/index.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/arch/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/arch/package.json
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/LICENSE.txt
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/README.md
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/lib/
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/lib/index.d.ts
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/lib/index.js
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/lib/retry.js
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/lib/retry_operation.js
-usr/lib/node_modules/gatsby-cli/node_modules/async-retry-ng/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/asynckit/
 usr/lib/node_modules/gatsby-cli/node_modules/asynckit/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/asynckit/README.md
@@ -5078,12 +5070,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/make-dir/node_modules/semver/range.
 usr/lib/node_modules/gatsby-cli/node_modules/make-dir/node_modules/semver/semver.js
 usr/lib/node_modules/gatsby-cli/node_modules/make-dir/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/make-dir/readme.md
-usr/lib/node_modules/gatsby-cli/node_modules/meant/
-usr/lib/node_modules/gatsby-cli/node_modules/meant/CHANGELOG.md
-usr/lib/node_modules/gatsby-cli/node_modules/meant/LICENSE
-usr/lib/node_modules/gatsby-cli/node_modules/meant/README.md
-usr/lib/node_modules/gatsby-cli/node_modules/meant/index.js
-usr/lib/node_modules/gatsby-cli/node_modules/meant/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/merge-stream/
 usr/lib/node_modules/gatsby-cli/node_modules/merge-stream/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/merge-stream/README.md

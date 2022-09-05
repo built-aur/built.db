@@ -1,6 +1,4 @@
 %FILES%
-etc/
-etc/gbinder.conf
 usr/
 usr/bin/
 usr/bin/waydroid
@@ -14,10 +12,8 @@ usr/lib/waydroid/data/AppIcon.png
 usr/lib/waydroid/data/configs/
 usr/lib/waydroid/data/configs/config_1
 usr/lib/waydroid/data/configs/config_2
-usr/lib/waydroid/data/id.waydro.waydroid.metainfo.xml
 usr/lib/waydroid/data/scripts/
 usr/lib/waydroid/data/scripts/waydroid-net.sh
-usr/lib/waydroid/data/waydroid.market.desktop
 usr/lib/waydroid/tools/
 usr/lib/waydroid/tools/__init__.py
 usr/lib/waydroid/tools/actions/
@@ -63,3 +59,6 @@ usr/lib/waydroid/waydroid.py
 usr/share/
 usr/share/applications/
 usr/share/applications/Waydroid.desktop
+usr/share/applications/waydroid.market.desktop
+usr/share/metainfo/
+usr/share/metainfo/id.waydro.waydroid.metainfo.xml

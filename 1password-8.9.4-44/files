@@ -2,6 +2,7 @@
 opt/
 opt/1Password/
 opt/1Password/1Password-BrowserSupport
+opt/1Password/1Password-HIDHelper
 opt/1Password/1Password-KeyringHelper
 opt/1Password/1password
 opt/1Password/LICENSE.electron.txt
@@ -19,6 +20,7 @@ opt/1Password/libffmpeg.so
 opt/1Password/libvk_swiftshader.so
 opt/1Password/libvulkan.so.1
 opt/1Password/locales/
+opt/1Password/locales/af.pak
 opt/1Password/locales/am.pak
 opt/1Password/locales/ar.pak
 opt/1Password/locales/bg.pak
@@ -69,9 +71,11 @@ opt/1Password/locales/te.pak
 opt/1Password/locales/th.pak
 opt/1Password/locales/tr.pak
 opt/1Password/locales/uk.pak
+opt/1Password/locales/ur.pak
 opt/1Password/locales/vi.pak
 opt/1Password/locales/zh-CN.pak
 opt/1Password/locales/zh-TW.pak
+opt/1Password/op-ssh-sign
 opt/1Password/resources.pak
 opt/1Password/resources/
 opt/1Password/resources/app.asar
@@ -79,9 +83,6 @@ opt/1Password/resources/app.asar.unpacked/
 opt/1Password/resources/app.asar.unpacked/CREDITS.html
 opt/1Password/resources/app.asar.unpacked/index.node
 opt/1Password/snapshot_blob.bin
-opt/1Password/swiftshader/
-opt/1Password/swiftshader/libEGL.so
-opt/1Password/swiftshader/libGLESv2.so
 opt/1Password/v8_context_snapshot.bin
 opt/1Password/vk_swiftshader_icd.json
 usr/

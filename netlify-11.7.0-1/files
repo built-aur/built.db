@@ -8155,6 +8155,8 @@ usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/providers/transforme
 usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/providers/transformers/entry.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/providers/transformers/entry.js
 usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/readers/
+usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/readers/async.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/readers/async.js
 usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/readers/reader.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/readers/reader.js
 usr/lib/node_modules/netlify-cli/node_modules/fast-glob/out/readers/stream.d.ts

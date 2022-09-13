@@ -1811,7 +1811,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-grid
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-grid.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-hanging-punctuation.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-has.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-hyphenate.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-hyphens.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-image-orientation.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-image-set.js
@@ -1876,7 +1875,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-text
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-text-orientation.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-text-spacing.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-textshadow.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-touch-action-2.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-touch-action.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-transitions.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-unicode-bidi.js
@@ -1920,7 +1918,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/document
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/dom-manip-convenience.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/dom-range.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/domcontentloaded.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/domfocusin-domfocusout-events.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/dommatrix.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/download.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/dragndrop.js
@@ -1951,12 +1948,10 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/flexbox-
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/flexbox.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/flow-root.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/focusin-focusout-events.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/focusoptions-preventscroll.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/font-family-system-ui.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/font-feature.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/font-kerning.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/font-loading.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/font-metrics-overrides.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/font-size-adjust.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/font-smooth.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/font-unicode-range.js
@@ -2053,9 +2048,14 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/matchess
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/matchmedia.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mathml.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/maxlength.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/media-attribute.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-isolate-override.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-isolate.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-plaintext.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mdn-text-decoration-color.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mdn-text-decoration-line.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mdn-text-decoration-shorthand.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mdn-text-decoration-style.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/media-fragments.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/media-session-api.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mediacapture-fromelement.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mediarecorder.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mediasource.js
@@ -2074,7 +2074,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/mutation
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/namevalue-storage.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/native-filesystem-api.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/nav-timing.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/navigator-language.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/netinfo.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/notifications.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/object-entries.js
@@ -2112,14 +2111,11 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/pointerl
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/portals.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/prefers-color-scheme.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/prefers-reduced-motion.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/private-class-fields.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/private-methods-and-accessors.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/progress.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/promise-finally.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/promises.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/proximity.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/proxy.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/public-class-fields.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/publickeypinning.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/push-api.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/queryselector.js
@@ -2149,7 +2145,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/selectio
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/server-timing.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/serviceworkers.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/setimmediate.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/sha-2.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/shadowdom.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/shadowdomv1.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/sharedarraybuffer.js
@@ -2165,6 +2160,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/stream.j
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/streams.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/stricttransportsecurity.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/style-scoped.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/subresource-bundling.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/subresource-integrity.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/svg-css.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/svg-filters.js
@@ -2186,13 +2182,11 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/text-emp
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/text-overflow.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/text-size-adjust.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/text-stroke.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/text-underline-offset.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/textcontent.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/textencoder.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/tls1-1.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/tls1-2.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/tls1-3.js
-usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/token-binding.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/touch.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/transforms2d.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/transforms3d.js
@@ -10372,6 +10366,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/cli.js
 usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/index.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/package.json
+usr/lib/node_modules/gatsby-cli/node_modules/update-browserslist-db/utils.js
 usr/lib/node_modules/gatsby-cli/node_modules/update-notifier/
 usr/lib/node_modules/gatsby-cli/node_modules/update-notifier/check.js
 usr/lib/node_modules/gatsby-cli/node_modules/update-notifier/index.js

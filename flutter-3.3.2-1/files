@@ -39,8 +39,8 @@ opt/flutter/.git/logs/refs/remotes/origin/
 opt/flutter/.git/logs/refs/remotes/origin/HEAD
 opt/flutter/.git/objects/
 opt/flutter/.git/objects/pack/
-opt/flutter/.git/objects/pack/pack-23ba2084a0ccbb9d7b74f66ed07f24ac8152ab56.idx
-opt/flutter/.git/objects/pack/pack-23ba2084a0ccbb9d7b74f66ed07f24ac8152ab56.pack
+opt/flutter/.git/objects/pack/pack-c8e25cbc88707b22a91381e07e19ebef19235bff.idx
+opt/flutter/.git/objects/pack/pack-c8e25cbc88707b22a91381e07e19ebef19235bff.pack
 opt/flutter/.git/packed-refs
 opt/flutter/.git/refs/
 opt/flutter/.git/refs/heads/
@@ -5159,6 +5159,8 @@ opt/flutter/dev/integration_tests/ui/android/gradle/wrapper/gradle-wrapper.prope
 opt/flutter/dev/integration_tests/ui/android/project-app.lockfile
 opt/flutter/dev/integration_tests/ui/android/project-integration_test.lockfile
 opt/flutter/dev/integration_tests/ui/android/settings.gradle
+opt/flutter/dev/integration_tests/ui/assets/
+opt/flutter/dev/integration_tests/ui/assets/foo.png
 opt/flutter/dev/integration_tests/ui/fuchsia/
 opt/flutter/dev/integration_tests/ui/fuchsia/meta/
 opt/flutter/dev/integration_tests/ui/fuchsia/meta/integration_ui.cmx
@@ -5250,6 +5252,8 @@ opt/flutter/dev/integration_tests/ui/macos/Runner/MainFlutterWindow.swift
 opt/flutter/dev/integration_tests/ui/macos/Runner/Release.entitlements
 opt/flutter/dev/integration_tests/ui/pubspec.lock
 opt/flutter/dev/integration_tests/ui/pubspec.yaml
+opt/flutter/dev/integration_tests/ui/test/
+opt/flutter/dev/integration_tests/ui/test/asset_test.dart
 opt/flutter/dev/integration_tests/ui/test_driver/
 opt/flutter/dev/integration_tests/ui/test_driver/commands_debug_paint_test.dart
 opt/flutter/dev/integration_tests/ui/test_driver/commands_none_test.dart

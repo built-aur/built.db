@@ -5,17 +5,11 @@ usr/bin/nodemon
 usr/lib/
 usr/lib/node_modules/
 usr/lib/node_modules/nodemon/
-usr/lib/node_modules/nodemon/.eslintrc.json
-usr/lib/node_modules/nodemon/.jshintrc
-usr/lib/node_modules/nodemon/.releaserc
-usr/lib/node_modules/nodemon/.travis.yml
 usr/lib/node_modules/nodemon/LICENSE
 usr/lib/node_modules/nodemon/README.md
 usr/lib/node_modules/nodemon/bin/
 usr/lib/node_modules/nodemon/bin/nodemon.js
-usr/lib/node_modules/nodemon/bin/postinstall.js
 usr/lib/node_modules/nodemon/bin/windows-kill.exe
-usr/lib/node_modules/nodemon/commitlint.config.js
 usr/lib/node_modules/nodemon/doc/
 usr/lib/node_modules/nodemon/doc/cli/
 usr/lib/node_modules/nodemon/doc/cli/authors.txt

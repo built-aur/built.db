@@ -66,5 +66,7 @@ usr/share/icons/hicolor/512x512/apps/com.heroicgameslauncher.hgl.png
 usr/share/licenses/
 usr/share/licenses/heroic-games-launcher-electron/
 usr/share/licenses/heroic-games-launcher-electron/COPYING
+usr/share/licenses/heroic-games-launcher/
+usr/share/licenses/heroic-games-launcher/LICENSE.launcher
 usr/share/metainfo/
 usr/share/metainfo/com.heroicgameslauncher.hgl.metainfo.xml

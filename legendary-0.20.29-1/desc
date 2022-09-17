@@ -1,0 +1,57 @@
+%FILENAME%
+legendary-0.20.29-1-any.pkg.tar.xz
+
+%NAME%
+legendary
+
+%BASE%
+legendary
+
+%VERSION%
+0.20.29-1
+
+%DESC%
+A free and open-source replacement for the Epic Games Launcher
+
+%CSIZE%
+205424
+
+%ISIZE%
+1131249
+
+%MD5SUM%
+fd2e792c72d7529d5eb41ec4c3039899
+
+%SHA256SUM%
+af92ec9c3239b8f8f7ad980afbf8c3aeeef89558c55e12c3a5d3e48788058b56
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmMmVogACgkQAiE6BJNFfpYaoxAAh265IJH7LP6iWFLn3Fyy8DJwJc/Fw/5OaDfKAZ5PBEj/qiyMLqjRZXIU7ar+/SbgD4TaOP35GbPozxPhdEj7SXRzW/88FXwp0LgNWUJ+L7UdltSu/kzpu5QUcmDyi207h2nvJKfqGSBIzAwHLAeS+QHYU6Xr2MSuXM1XgUoH4kgU08z/irmWHNNPdoe4Vmn7bU/FzNYxl0k3wzrkJNPJkQg+nSM5uFMJ9zRRL1oBeAlt39ePGB1Bjnzcp2bh4vD36/WRWzJCycXKSjClE/HTWyMT63U/OFX+ZIlsoL05cFY+oU5aEWgshpuo+wC/zYSY3xYezFy6JaYOz+wMiQYw5dnkBqeTcU2eYXC2Yptw25oYbmMSHLgDj81KqmLjxFmdXQEmnyAIo1Q8lxnGPep3sQLD2w+KgoSlndsgRWakypO7pZxTIolwkXsJReyAmHkAi/qfNF1LwGn9vCX46ywWm7rxDykvPjMTd1hP+rMHzU7EKmVTuJ2fIxW5GXeJkdSKpYRdvqXOcfx3O/bI8A9ScrYa/IZZlqQQGgy75nUUYLeDAIriVQnDrfvAHn+nHW8HCfPWuGv7wFS3hbhxufie2Z3fW9SyVyqqKmSftZ/6l/jD9hg8r6q0xgfEtzQZpSQJKCRrwYo8ICY87qC2Q8dij3UHXVXeIxe4/n3d1nue4tg=
+
+%URL%
+https://github.com/derrod/legendary
+
+%LICENSE%
+GPL3
+
+%ARCH%
+any
+
+%BUILDDATE%
+1663456864
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%DEPENDS%
+python-requests
+python-wheel
+python-setuptools
+
+%OPTDEPENDS%
+proton: Windows binaries support
+python-pywebview: Login support
+python-cairo: Login support (gtk)
+python-gobject: Login support (gtk)
+webkit2gtk: Login support (gtk)
+

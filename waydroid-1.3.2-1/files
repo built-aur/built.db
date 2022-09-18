@@ -12,6 +12,7 @@ usr/lib/waydroid/data/AppIcon.png
 usr/lib/waydroid/data/configs/
 usr/lib/waydroid/data/configs/config_1
 usr/lib/waydroid/data/configs/config_2
+usr/lib/waydroid/data/configs/waydroid.seccomp
 usr/lib/waydroid/data/scripts/
 usr/lib/waydroid/data/scripts/waydroid-net.sh
 usr/lib/waydroid/tools/

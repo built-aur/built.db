@@ -168,6 +168,8 @@ usr/lib/node_modules/aws-cdk/lib/import.d.ts
 usr/lib/node_modules/aws-cdk/lib/import.js
 usr/lib/node_modules/aws-cdk/lib/index.d.ts
 usr/lib/node_modules/aws-cdk/lib/index.js
+usr/lib/node_modules/aws-cdk/lib/init-hooks.d.ts
+usr/lib/node_modules/aws-cdk/lib/init-hooks.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/
 usr/lib/node_modules/aws-cdk/lib/init-templates/.no-packagejson-validator
 usr/lib/node_modules/aws-cdk/lib/init-templates/LICENSE
@@ -175,8 +177,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/app/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/.template.gitignore
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/README.md
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/add-project.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/add-project.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/cdk.template.json
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/src/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/src/%name.PascalCased%.template.sln
@@ -188,8 +188,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/app/csharp/src/%name.PascalCased
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/fsharp/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/fsharp/.template.gitignore
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/fsharp/README.md
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/fsharp/add-project.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/fsharp/add-project.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/fsharp/cdk.template.json
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/fsharp/src/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/fsharp/src/%name.PascalCased%.template.sln
@@ -222,8 +220,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/app/java/src/test/java/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/java/src/test/java/com/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/java/src/test/java/com/myorg/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/java/src/test/java/com/myorg/%name.PascalCased%Test.template.java
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/java/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/java/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/.template.gitignore
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/.template.npmignore
@@ -235,8 +231,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/jest.config.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/lib/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/lib/%name%-stack.template.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/package.json
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/test/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/javascript/test/%name%.test.template.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/
@@ -250,8 +244,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/cdk.template.json
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/requirements-dev.txt
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/requirements.txt
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/source.bat
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/tests/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/tests/__init__.py
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/python/tests/unit/
@@ -268,8 +260,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/jest.config.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/lib/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/lib/%name%-stack.template.ts
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/package.json
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/test/
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/test/%name%.test.template.ts
 usr/lib/node_modules/aws-cdk/lib/init-templates/app/typescript/tsconfig.json
@@ -283,8 +273,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/jest.config.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/lib/
 usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/lib/index.template.ts
 usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/package.json
-usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/test/
 usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/test/%name%.test.template.ts
 usr/lib/node_modules/aws-cdk/lib/init-templates/lib/typescript/tsconfig.json
@@ -292,8 +280,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/.template.gitignore
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/README.template.md
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/add-project.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/add-project.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/cdk.template.json
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/src/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/src/%name.PascalCased%.template.sln
@@ -305,8 +291,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/csharp/src/%name.Pasc
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/fsharp/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/fsharp/.template.gitignore
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/fsharp/README.template.md
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/fsharp/add-project.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/fsharp/add-project.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/fsharp/cdk.template.json
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/fsharp/src/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/fsharp/src/%name.PascalCased%.template.sln
@@ -339,8 +323,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/java/src/test/java/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/java/src/test/java/com/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/java/src/test/java/com/myorg/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/java/src/test/java/com/myorg/%name.PascalCased%StackTest.template.java
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/java/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/java/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/.template.gitignore
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/.template.npmignore
@@ -352,8 +334,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/jest.confi
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/lib/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/lib/%name%-stack.template.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/package.json
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/test/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/test/%name%.test.template.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/javascript/tsconfig.json
@@ -368,8 +348,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/cdk.template.j
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/requirements-dev.txt
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/requirements.txt
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/source.bat
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/tests/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/tests/__init__.py
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/python/tests/unit/
@@ -386,8 +364,6 @@ usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/jest.confi
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/lib/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/lib/%name%-stack.template.ts
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/package.json
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/sub-placeholders.hook.d.ts
-usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/sub-placeholders.hook.js
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/test/
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/test/%name%.test.template.ts
 usr/lib/node_modules/aws-cdk/lib/init-templates/sample-app/typescript/tsconfig.json

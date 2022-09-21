@@ -20,6 +20,8 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/bin/wine64
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/bin/wine64-preloader
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/bin/wineserver
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/cmake/
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/glslang/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/graphene-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/graphene-1.0/include/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/
@@ -1344,6 +1346,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/vkd3d-proto
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/cmake/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/cmake/openxr/
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/glslang/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/graphene-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/graphene-1.0/include/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
@@ -2782,7 +2785,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/5cae.msi
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/543d.msi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/
@@ -8784,6 +8787,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1017
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1030830.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1030840.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/105450.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1056640.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1062040.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1063730.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1086940.py
@@ -8795,6 +8799,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1113
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1151640.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1174180.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1175730.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/12210.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1222370.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/12360.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1239520.py

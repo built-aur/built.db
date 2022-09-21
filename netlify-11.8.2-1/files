@@ -1280,6 +1280,12 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/find-up/license
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/find-up/package.json
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/find-up/readme.md
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/get-port/
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/get-port/index.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/get-port/index.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/get-port/license
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/get-port/package.json
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/get-port/readme.md
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/human-signals/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/human-signals/LICENSE
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/human-signals/README.md

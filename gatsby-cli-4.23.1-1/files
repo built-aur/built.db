@@ -517,6 +517,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-replace-supers/LICENS
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-replace-supers/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-replace-supers/lib/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-replace-supers/lib/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-replace-supers/lib/index.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-replace-supers/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-simple-access/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-simple-access/LICENSE
@@ -541,8 +542,11 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/lib/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/lib/identifier.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/lib/identifier.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/lib/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/lib/index.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/lib/keyword.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/lib/keyword.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/scripts/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-identifier/scripts/generate-identifier-regex.js
@@ -5380,9 +5384,13 @@ usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/SECURITY.md
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/benchmark.md
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index.min.js
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index.min.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/node.cjs
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/node.cjs.map
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/test.js
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/test.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/index.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/iterators.js
@@ -5392,6 +5400,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/pack.js
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/rollup.config.js
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/stream.js
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/struct.js
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/unpack.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/unpack.js
 usr/lib/node_modules/gatsby-cli/node_modules/mute-stream/

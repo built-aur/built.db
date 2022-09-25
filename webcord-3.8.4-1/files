@@ -2289,9 +2289,9 @@ usr/share/applications/
 usr/share/applications/webcord.desktop
 usr/share/icons/
 usr/share/icons/hicolor/
-usr/share/icons/hicolor/256x256/
-usr/share/icons/hicolor/256x256/apps/
-usr/share/icons/hicolor/256x256/apps/webcord.png
+usr/share/icons/hicolor/512x512/
+usr/share/icons/hicolor/512x512/apps/
+usr/share/icons/hicolor/512x512/apps/webcord.png
 usr/share/licenses/
 usr/share/licenses/webcord/
 usr/share/licenses/webcord/LICENSE

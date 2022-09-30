@@ -105,6 +105,14 @@ usr/lib/node_modules/firebase-tools/lib/commands/emulators-start.js
 usr/lib/node_modules/firebase-tools/lib/commands/emulators-start.js.map
 usr/lib/node_modules/firebase-tools/lib/commands/experimental-functions-shell.js
 usr/lib/node_modules/firebase-tools/lib/commands/experimental-functions-shell.js.map
+usr/lib/node_modules/firebase-tools/lib/commands/experiments-describe.js
+usr/lib/node_modules/firebase-tools/lib/commands/experiments-describe.js.map
+usr/lib/node_modules/firebase-tools/lib/commands/experiments-disable.js
+usr/lib/node_modules/firebase-tools/lib/commands/experiments-disable.js.map
+usr/lib/node_modules/firebase-tools/lib/commands/experiments-enable.js
+usr/lib/node_modules/firebase-tools/lib/commands/experiments-enable.js.map
+usr/lib/node_modules/firebase-tools/lib/commands/experiments-list.js
+usr/lib/node_modules/firebase-tools/lib/commands/experiments-list.js.map
 usr/lib/node_modules/firebase-tools/lib/commands/ext-configure.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-configure.js.map
 usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-deprecate.js
@@ -419,6 +427,8 @@ usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/remoteConfig.j
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/remoteConfig.js.map
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/storage.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/storage.js.map
+usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/testLab.js
+usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/testLab.js.map
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/triggerRegionHelper.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/triggerRegionHelper.js.map
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/validate.js
@@ -619,6 +629,8 @@ usr/lib/node_modules/firebase-tools/lib/error.js
 usr/lib/node_modules/firebase-tools/lib/error.js.map
 usr/lib/node_modules/firebase-tools/lib/errorOut.js
 usr/lib/node_modules/firebase-tools/lib/errorOut.js.map
+usr/lib/node_modules/firebase-tools/lib/experiments.js
+usr/lib/node_modules/firebase-tools/lib/experiments.js.map
 usr/lib/node_modules/firebase-tools/lib/extensions/
 usr/lib/node_modules/firebase-tools/lib/extensions/askUserForConsent.js
 usr/lib/node_modules/firebase-tools/lib/extensions/askUserForConsent.js.map
@@ -918,8 +930,6 @@ usr/lib/node_modules/firebase-tools/lib/options.js
 usr/lib/node_modules/firebase-tools/lib/options.js.map
 usr/lib/node_modules/firebase-tools/lib/parseBoltRules.js
 usr/lib/node_modules/firebase-tools/lib/parseBoltRules.js.map
-usr/lib/node_modules/firebase-tools/lib/previews.js
-usr/lib/node_modules/firebase-tools/lib/previews.js.map
 usr/lib/node_modules/firebase-tools/lib/profileReport.js
 usr/lib/node_modules/firebase-tools/lib/profileReport.js.map
 usr/lib/node_modules/firebase-tools/lib/profiler.js

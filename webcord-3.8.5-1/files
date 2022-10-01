@@ -704,6 +704,7 @@ usr/lib/webcord/node_modules/dompurify/dist/purify.min.js
 usr/lib/webcord/node_modules/dompurify/dist/purify.min.js.map
 usr/lib/webcord/node_modules/dompurify/package.json
 usr/lib/webcord/node_modules/electron-fetch/
+usr/lib/webcord/node_modules/electron-fetch/CHANGELOG.md
 usr/lib/webcord/node_modules/electron-fetch/LICENSE.md
 usr/lib/webcord/node_modules/electron-fetch/README.md
 usr/lib/webcord/node_modules/electron-fetch/index.d.ts

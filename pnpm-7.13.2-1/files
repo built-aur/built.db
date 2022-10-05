@@ -27,9 +27,6 @@ usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/common/
-usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/common/file-url-to-path/
-usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/common/file-url-to-path/index.js
-usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/common/file-url-to-path/polyfill.js
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/common/get-options.js
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/common/node.js
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/common/owner-sync.js
@@ -42,9 +39,7 @@ usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/cp/polyfill.js
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/errors.js
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/fs.js
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/index.js
-usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/mkdir/
-usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/mkdir/index.js
-usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/mkdir/polyfill.js
+usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/mkdir.js
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/mkdtemp.js
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/rm/
 usr/lib/node_modules/pnpm/dist/node_modules/@npmcli/fs/lib/rm/index.js
@@ -745,6 +740,7 @@ usr/lib/node_modules/pnpm/dist/node_modules/socks-proxy-agent/dist/index.js
 usr/lib/node_modules/pnpm/dist/node_modules/socks-proxy-agent/dist/index.js.map
 usr/lib/node_modules/pnpm/dist/node_modules/socks-proxy-agent/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/socks/
+usr/lib/node_modules/pnpm/dist/node_modules/socks/.eslintrc.cjs
 usr/lib/node_modules/pnpm/dist/node_modules/socks/.prettierrc.yaml
 usr/lib/node_modules/pnpm/dist/node_modules/socks/LICENSE
 usr/lib/node_modules/pnpm/dist/node_modules/socks/build/
@@ -812,11 +808,13 @@ usr/lib/node_modules/pnpm/dist/node_modules/tar/lib/write-entry.js
 usr/lib/node_modules/pnpm/dist/node_modules/tar/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/LICENSE
-usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/index.js
+usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/lib/
+usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/lib/index.js
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/unique-slug/
 usr/lib/node_modules/pnpm/dist/node_modules/unique-slug/LICENSE
-usr/lib/node_modules/pnpm/dist/node_modules/unique-slug/index.js
+usr/lib/node_modules/pnpm/dist/node_modules/unique-slug/lib/
+usr/lib/node_modules/pnpm/dist/node_modules/unique-slug/lib/index.js
 usr/lib/node_modules/pnpm/dist/node_modules/unique-slug/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/util-deprecate/
 usr/lib/node_modules/pnpm/dist/node_modules/util-deprecate/LICENSE

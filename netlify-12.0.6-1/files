@@ -211,9 +211,6 @@ usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/types/event.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/types/index.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/types/session.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/
-usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/.eslintrc
-usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/.travis.yml
-usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/CONTRIBUTING.md
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/LICENSE
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/README.md
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/index.js
@@ -223,10 +220,6 @@ usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/lib/fingerprint.js
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/lib/fingerprint.react-native.js
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/lib/pad.js
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/package.json
-usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/test/
-usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/test/karma.conf.js
-usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/test/test-worker.js
-usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/cuid/test/test.js
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/js/
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/js/LICENSE.txt
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/js/README.md

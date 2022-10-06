@@ -380,6 +380,8 @@ usr/lib/node_modules/aws-cdk/lib/serialize.js
 usr/lib/node_modules/aws-cdk/lib/settings.d.ts
 usr/lib/node_modules/aws-cdk/lib/settings.js
 usr/lib/node_modules/aws-cdk/lib/setup-sandbox.js
+usr/lib/node_modules/aws-cdk/lib/tree.d.ts
+usr/lib/node_modules/aws-cdk/lib/tree.js
 usr/lib/node_modules/aws-cdk/lib/util/
 usr/lib/node_modules/aws-cdk/lib/util/arrays.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/arrays.js
@@ -704,6 +706,8 @@ usr/lib/node_modules/aws-cdk/test/serialize.test.d.ts
 usr/lib/node_modules/aws-cdk/test/serialize.test.js
 usr/lib/node_modules/aws-cdk/test/settings.test.d.ts
 usr/lib/node_modules/aws-cdk/test/settings.test.js
+usr/lib/node_modules/aws-cdk/test/tree.test.d.ts
+usr/lib/node_modules/aws-cdk/test/tree.test.js
 usr/lib/node_modules/aws-cdk/test/usersettings.test.d.ts
 usr/lib/node_modules/aws-cdk/test/usersettings.test.js
 usr/lib/node_modules/aws-cdk/test/util.d.ts

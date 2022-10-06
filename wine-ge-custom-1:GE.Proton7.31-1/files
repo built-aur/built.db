@@ -1064,6 +1064,8 @@ usr/include/wine/windows/windows.networking.connectivity.h
 usr/include/wine/windows/windows.networking.connectivity.idl
 usr/include/wine/windows/windows.networking.h
 usr/include/wine/windows/windows.networking.idl
+usr/include/wine/windows/windows.security.cryptography.h
+usr/include/wine/windows/windows.security.cryptography.idl
 usr/include/wine/windows/windows.security.exchangeactivesyncprovisioning.h
 usr/include/wine/windows/windows.security.exchangeactivesyncprovisioning.idl
 usr/include/wine/windows/windows.storage.streams.h
@@ -1072,6 +1074,8 @@ usr/include/wine/windows/windows.system.h
 usr/include/wine/windows/windows.system.idl
 usr/include/wine/windows/windows.system.power.h
 usr/include/wine/windows/windows.system.power.idl
+usr/include/wine/windows/windows.system.threading.h
+usr/include/wine/windows/windows.system.threading.idl
 usr/include/wine/windows/windows.system.userprofile.h
 usr/include/wine/windows/windows.system.userprofile.idl
 usr/include/wine/windows/windowscontracts.h
@@ -1534,6 +1538,7 @@ usr/lib/wine/x86_64-windows/cryptdlg.dll
 usr/lib/wine/x86_64-windows/cryptdll.dll
 usr/lib/wine/x86_64-windows/cryptext.dll
 usr/lib/wine/x86_64-windows/cryptnet.dll
+usr/lib/wine/x86_64-windows/cryptowinrt.dll
 usr/lib/wine/x86_64-windows/cryptsp.dll
 usr/lib/wine/x86_64-windows/cryptui.dll
 usr/lib/wine/x86_64-windows/cscript.exe
@@ -2049,6 +2054,7 @@ usr/lib/wine/x86_64-windows/tbs.dll
 usr/lib/wine/x86_64-windows/tdh.dll
 usr/lib/wine/x86_64-windows/tdi.sys
 usr/lib/wine/x86_64-windows/termsv.exe
+usr/lib/wine/x86_64-windows/threadpoolwinrt.dll
 usr/lib/wine/x86_64-windows/traffic.dll
 usr/lib/wine/x86_64-windows/twain_32.dll
 usr/lib/wine/x86_64-windows/twinapi.appcore.dll
@@ -2565,6 +2571,7 @@ usr/lib32/wine/i386-windows/cryptdlg.dll
 usr/lib32/wine/i386-windows/cryptdll.dll
 usr/lib32/wine/i386-windows/cryptext.dll
 usr/lib32/wine/i386-windows/cryptnet.dll
+usr/lib32/wine/i386-windows/cryptowinrt.dll
 usr/lib32/wine/i386-windows/cryptsp.dll
 usr/lib32/wine/i386-windows/cryptui.dll
 usr/lib32/wine/i386-windows/cscript.exe
@@ -3079,6 +3086,7 @@ usr/lib32/wine/i386-windows/tbs.dll
 usr/lib32/wine/i386-windows/tdh.dll
 usr/lib32/wine/i386-windows/tdi.sys
 usr/lib32/wine/i386-windows/termsv.exe
+usr/lib32/wine/i386-windows/threadpoolwinrt.dll
 usr/lib32/wine/i386-windows/traffic.dll
 usr/lib32/wine/i386-windows/twain_32.dll
 usr/lib32/wine/i386-windows/twinapi.appcore.dll

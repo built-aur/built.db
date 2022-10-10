@@ -656,7 +656,11 @@ usr/lib/webcord/node_modules/@pkgjs/parseargs/CHANGELOG.md
 usr/lib/webcord/node_modules/@pkgjs/parseargs/LICENSE
 usr/lib/webcord/node_modules/@pkgjs/parseargs/README.md
 usr/lib/webcord/node_modules/@pkgjs/parseargs/examples/
+usr/lib/webcord/node_modules/@pkgjs/parseargs/examples/is-default-value.js
+usr/lib/webcord/node_modules/@pkgjs/parseargs/examples/limit-long-syntax.js
 usr/lib/webcord/node_modules/@pkgjs/parseargs/examples/negate.js
+usr/lib/webcord/node_modules/@pkgjs/parseargs/examples/no-repeated-options.js
+usr/lib/webcord/node_modules/@pkgjs/parseargs/examples/ordered-options.mjs
 usr/lib/webcord/node_modules/@pkgjs/parseargs/examples/simple-hard-coded.js
 usr/lib/webcord/node_modules/@pkgjs/parseargs/index.js
 usr/lib/webcord/node_modules/@pkgjs/parseargs/internal/

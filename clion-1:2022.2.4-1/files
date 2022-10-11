@@ -111,7 +111,6 @@ opt/clion/bin/clang/linux/include/lzcntintrin.h
 opt/clion/bin/clang/linux/include/mm3dnow.h
 opt/clion/bin/clang/linux/include/mm_malloc.h
 opt/clion/bin/clang/linux/include/mmintrin.h
-opt/clion/bin/clang/linux/include/module.modulemap
 opt/clion/bin/clang/linux/include/movdirintrin.h
 opt/clion/bin/clang/linux/include/msa.h
 opt/clion/bin/clang/linux/include/mwaitxintrin.h
@@ -267,7 +266,7 @@ opt/clion/lib/asm-commons-9.2.jar
 opt/clion/lib/asm-tree-9.2.jar
 opt/clion/lib/asm-util-9.2.jar
 opt/clion/lib/async-profiler.jar
-opt/clion/lib/build-marker-CL-222.4167.35
+opt/clion/lib/build-marker-CL-222.4345.21
 opt/clion/lib/byte-buddy-agent.jar
 opt/clion/lib/cds/
 opt/clion/lib/cds/classesLogAgent.jar

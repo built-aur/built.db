@@ -7,6 +7,7 @@ opt/gitkraken/LICENSES.chromium.html
 opt/gitkraken/chrome-sandbox
 opt/gitkraken/chrome_100_percent.pak
 opt/gitkraken/chrome_200_percent.pak
+opt/gitkraken/chrome_crashpad_handler
 opt/gitkraken/gitkraken
 opt/gitkraken/gitkraken.png
 opt/gitkraken/icudtl.dat
@@ -84,6 +85,12 @@ opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Re
 opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/nodegit-ubuntu-18-ssl-static.node
 opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/nodegit-ubuntu-18.node
 opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/nodegit.node
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@msgpackr-extract/
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi93.glibc.node
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi93.musl.node
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.napi.glibc.node
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.napi.musl.node
 opt/gitkraken/resources/app.asar.unpacked/node_modules/find-git-repositories/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/find-git-repositories/build/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/find-git-repositories/build/Release/

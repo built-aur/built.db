@@ -263,6 +263,7 @@ usr/lib/slack/resources/app.asar.unpacked/node_modules/windows-quiet-hours/build
 usr/lib/slack/resources/app.asar.unpacked/node_modules/windows-quiet-hours/build/Release/quiethours.node
 usr/lib/slack/resources/b2.mp3
 usr/lib/slack/resources/been_tree.mp3
+usr/lib/slack/resources/boop.mp3
 usr/lib/slack/resources/calls_alert_v2.mp3
 usr/lib/slack/resources/calls_confirmation_v2.mp3
 usr/lib/slack/resources/calls_incoming_ring_v2.mp3

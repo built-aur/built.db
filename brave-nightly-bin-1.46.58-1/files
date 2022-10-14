@@ -21,6 +21,7 @@ opt/brave.com/brave-nightly/default-app-block
 opt/brave.com/brave-nightly/icudtl.dat
 opt/brave.com/brave-nightly/libEGL.so
 opt/brave.com/brave-nightly/libGLESv2.so
+opt/brave.com/brave-nightly/libqt5_shim.so
 opt/brave.com/brave-nightly/libvk_swiftshader.so
 opt/brave.com/brave-nightly/libvulkan.so.1
 opt/brave.com/brave-nightly/locales/

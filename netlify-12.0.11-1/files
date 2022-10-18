@@ -486,6 +486,7 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/lib/core/main.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/lib/core/missing_side_file.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/lib/core/normalize_flags.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/lib/core/severity.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/lib/core/types.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/lib/core/user_node_version.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/lib/env/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/lib/env/changes.js

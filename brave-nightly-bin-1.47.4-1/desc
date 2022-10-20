@@ -1,0 +1,63 @@
+%FILENAME%
+brave-nightly-bin-1.47.4-1-x86_64.pkg.tar.xz
+
+%NAME%
+brave-nightly-bin
+
+%BASE%
+brave-nightly-bin
+
+%VERSION%
+1.47.4-1
+
+%DESC%
+Web browser that blocks ads and trackers by default (nightly binary release).
+
+%CSIZE%
+112319204
+
+%ISIZE%
+329811591
+
+%MD5SUM%
+32f00cafa534897680e7c17ab7d985b4
+
+%SHA256SUM%
+439c4e15d9a03752fd538a728bd95a707b638f47dd702f7881952795490e822e
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmNRQ7kACgkQAiE6BJNFfpYsvw//QRwOHtzt0/nCEvOgvp5APgIARPTD3/+X+Zu5xhmREcnkN5LqDQRNCHRumH1x0R5Qj1iiO/8OyKJto4AXkdbijl/sTS8bknnsSHi5SlzkGUewK6iwu5AStXNxWsb9lErtUJtL0p1rO5MbFG7gnie21ob+3UFt/Ho5SmYU0C6LysVUDffc7D7TO1yIOYXhXy76NLEbe/WFhk/4m3JXWWjXzBIqz0sEuInj2itPLAr64xjMsFJYcZFhyW/bHNQ8O/QZfrciLVvRx6loYdlSuLm5YnPSGNj8NQQWTjN02CqO6xcjsNjgzkghj6tpwnLsZt2ogReWvvZHgP0PQOfYpZQgISOGsAYalU2phY4GwXdhht4BIsy8svqA78rSPKCao1Z9VYPJDaBM3mWhjAG2y+nYumc79mDyGH4QyMfK8hxVt9Y/c776cKUcsePSsnoMMa0cvlD8W7O3ALRE0xBQpCq7o5Y6SfK1ytvvQ2R3daYSiwmNPtDdGPV1dXsjYTMXs/JVPU38fuqDNqki9gkh3xYjnmWVnY4/f49rdvd7AgY7axxS1WPU6cJwGgitA9s5zFkzEzO7w+ebBQd5RMyYGHu68LZzowhQkDQxK2RexeqXUWAy9K6JwhC9utZ+N2q4e6VeBklxTJpi8kE3teSKjJJQ4CDjv3+4tTMXcpRZq9hSjxU=
+
+%URL%
+https://brave.com/download-nightly
+
+%LICENSE%
+MPL2
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1666269919
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%PROVIDES%
+brave-nightly-bin
+brave-nightly-browser
+
+%DEPENDS%
+gtk3
+nss
+alsa-lib
+libxss
+ttf-font
+
+%OPTDEPENDS%
+cups: Printer support
+pepper-flash: Adobe Flash support
+mesa: Hardware accelerated rendering
+libglvnd: Support multiple different OpenGL drivers at any given time
+libgnome-keyring: gnome keyring support
+

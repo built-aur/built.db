@@ -649,6 +649,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-window
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/cryptdll.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/cryptext.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/cryptnet.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/cryptowinrt.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/cryptsp.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/cryptui.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/cscript.exe
@@ -1165,6 +1166,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-window
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/tdh.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/tdi.sys
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/termsv.exe
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/threadpoolwinrt.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/traffic.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/twain_32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/twinapi.appcore.dll
@@ -1374,7 +1376,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstautodetect.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstavi.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstbayer.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstbluez.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstbz2.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstcamerabin.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstclosedcaption.so
@@ -1395,7 +1396,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstdvdspu.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstdvdsub.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstfaceoverlay.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstfdkaac.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstfestival.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstfieldanalysis.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstflac.so
@@ -1406,7 +1406,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstgaudieffects.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstgdp.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstgeometrictransform.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstgsm.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgsthls.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstid3demux.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstid3tag.so
@@ -1422,7 +1421,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstkms.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstlegacyrawparse.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstlibav.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstlv2.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstmatroska.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstmidi.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstmodplug.so
@@ -1489,7 +1487,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstvpx.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstwavparse.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstwebp.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstwebrtcdsp.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstxingmux.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgsty4mdec.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgsty4menc.so
@@ -1995,6 +1992,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-wi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/cryptdll.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/cryptext.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/cryptnet.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/cryptowinrt.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/cryptsp.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/cryptui.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/cscript.exe
@@ -2512,6 +2510,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-wi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/tdh.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/tdi.sys
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/termsv.exe
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/threadpoolwinrt.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/traffic.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/twain_32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/twinapi.appcore.dll
@@ -2785,7 +2784,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/543d.msi
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/219e.msi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/
@@ -3268,6 +3267,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/cryptdll.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/cryptext.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/cryptnet.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/cryptowinrt.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/cryptsp.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/cryptui.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/cscript.exe
@@ -3802,6 +3802,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/tbs.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/tdh.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/termsv.exe
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/threadpoolwinrt.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/traffic.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/twain_32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/twinapi.appcore.dll
@@ -4345,6 +4346,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/cryptdll.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/cryptext.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/cryptnet.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/cryptowinrt.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/cryptsp.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/cryptui.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/cscript.exe
@@ -4841,6 +4843,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/tbs.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/tdh.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/termsv.exe
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/threadpoolwinrt.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/traffic.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/twinapi.appcore.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/tzres.dll
@@ -8821,6 +8824,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1613
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1664350.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/16810.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1695791.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1695793.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1695794.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1711950.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1715130.py
@@ -8832,6 +8836,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/2064
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/206500.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/207350.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/208650.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/2087030.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/20920.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/211420.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/212500.py
@@ -8923,6 +8928,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/4954
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/508980.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/518790.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/544750.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/550340.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/55150.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/552520.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/570940.py

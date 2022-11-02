@@ -3,6 +3,7 @@ opt/
 opt/visual-studio-code/
 opt/visual-studio-code/bin/
 opt/visual-studio-code/bin/code
+opt/visual-studio-code/bin/code-tunnel
 opt/visual-studio-code/chrome-sandbox
 opt/visual-studio-code/chrome_100_percent.pak
 opt/visual-studio-code/chrome_200_percent.pak
@@ -295,8 +296,6 @@ opt/visual-studio-code/resources/app/extensions/github-authentication/dist/391.j
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/939.js
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/939.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
-opt/visual-studio-code/resources/app/extensions/github-authentication/dist/nls.metadata.header.json
-opt/visual-studio-code/resources/app/extensions/github-authentication/dist/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/github-authentication/images/
 opt/visual-studio-code/resources/app/extensions/github-authentication/images/icon.png
 opt/visual-studio-code/resources/app/extensions/github-authentication/media/
@@ -560,7 +559,6 @@ opt/visual-studio-code/resources/app/extensions/markdown-language-features/packa
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/schemas/
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/schemas/package.schema.json
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/
-opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/.npmignore
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/README.md
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/dist/
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/dist/node/
@@ -568,7 +566,9 @@ opt/visual-studio-code/resources/app/extensions/markdown-language-features/serve
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/dist/node/nls.metadata.header.json
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/dist/node/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/package.json
-opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/yarn.lock
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/package/
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/package/README.md
+opt/visual-studio-code/resources/app/extensions/markdown-language-features/server/package/package.json
 opt/visual-studio-code/resources/app/extensions/markdown-math/
 opt/visual-studio-code/resources/app/extensions/markdown-math/README.md
 opt/visual-studio-code/resources/app/extensions/markdown-math/dist/
@@ -641,8 +641,6 @@ opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/39
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/939.js
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/939.js.LICENSE.txt
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
-opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/nls.metadata.header.json
-opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/media/
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/media/auth.css
 opt/visual-studio-code/resources/app/extensions/microsoft-authentication/media/favicon.ico
@@ -981,6 +979,8 @@ opt/visual-studio-code/resources/app/extensions/r/package.nls.json
 opt/visual-studio-code/resources/app/extensions/r/syntaxes/
 opt/visual-studio-code/resources/app/extensions/r/syntaxes/r.tmLanguage.json
 opt/visual-studio-code/resources/app/extensions/razor/
+opt/visual-studio-code/resources/app/extensions/razor/build/
+opt/visual-studio-code/resources/app/extensions/razor/build/update-grammar.mjs
 opt/visual-studio-code/resources/app/extensions/razor/language-configuration.json
 opt/visual-studio-code/resources/app/extensions/razor/package.json
 opt/visual-studio-code/resources/app/extensions/razor/package.nls.json
@@ -1178,6 +1178,7 @@ opt/visual-studio-code/resources/app/extensions/typescript-language-features/dis
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/nls.metadata.json
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/media/
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/media/icon.png
+opt/visual-studio-code/resources/app/extensions/typescript-language-features/media/nodejsWalkthroughIcon.png
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/package.json
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/package.nls.json
 opt/visual-studio-code/resources/app/extensions/typescript-language-features/resources/
@@ -1268,6 +1269,9 @@ opt/visual-studio-code/resources/app/node_modules.asar.unpacked/node-pty/lib/sha
 opt/visual-studio-code/resources/app/node_modules.asar.unpacked/node-pty/lib/shared/conout.js
 opt/visual-studio-code/resources/app/node_modules.asar.unpacked/node-pty/lib/worker/
 opt/visual-studio-code/resources/app/node_modules.asar.unpacked/node-pty/lib/worker/conoutSocketWorker.js
+opt/visual-studio-code/resources/app/node_modules.asar.unpacked/node-vsce-sign/
+opt/visual-studio-code/resources/app/node_modules.asar.unpacked/node-vsce-sign/bin/
+opt/visual-studio-code/resources/app/node_modules.asar.unpacked/node-vsce-sign/bin/vsce-sign
 opt/visual-studio-code/resources/app/node_modules.asar.unpacked/spdlog/
 opt/visual-studio-code/resources/app/node_modules.asar.unpacked/spdlog/build/
 opt/visual-studio-code/resources/app/node_modules.asar.unpacked/spdlog/build/Release/
@@ -1372,6 +1376,9 @@ opt/visual-studio-code/resources/app/out/vs/platform/files/node/
 opt/visual-studio-code/resources/app/out/vs/platform/files/node/watcher/
 opt/visual-studio-code/resources/app/out/vs/platform/files/node/watcher/watcherMain.js
 opt/visual-studio-code/resources/app/out/vs/platform/files/node/watcher/watcherMain.nls.js
+opt/visual-studio-code/resources/app/out/vs/platform/profiling/
+opt/visual-studio-code/resources/app/out/vs/platform/profiling/electron-sandbox/
+opt/visual-studio-code/resources/app/out/vs/platform/profiling/electron-sandbox/profileAnalysisWorker.js
 opt/visual-studio-code/resources/app/out/vs/platform/sharedProcess/
 opt/visual-studio-code/resources/app/out/vs/platform/sharedProcess/electron-browser/
 opt/visual-studio-code/resources/app/out/vs/platform/sharedProcess/electron-browser/sharedProcessWorkerMain.js
@@ -1406,7 +1413,8 @@ opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/media/error.mp3
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/media/foldedAreas.mp3
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/media/quickFixes.mp3
-opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/media/taskEnded.mp3
+opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/media/taskCompleted.mp3
+opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/media/taskFailed.mp3
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/media/terminalBell.mp3
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/audioCues/browser/media/warning.mp3
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/debug/
@@ -1505,11 +1513,6 @@ opt/visual-studio-code/resources/app/out/vs/workbench/contrib/welcomeOverlay/bro
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/welcomeOverlay/browser/media/
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/welcomeOverlay/browser/media/commandpalette-dark.svg
 opt/visual-studio-code/resources/app/out/vs/workbench/contrib/welcomeOverlay/browser/media/commandpalette.svg
-opt/visual-studio-code/resources/app/out/vs/workbench/contrib/workspace/
-opt/visual-studio-code/resources/app/out/vs/workbench/contrib/workspace/browser/
-opt/visual-studio-code/resources/app/out/vs/workbench/contrib/workspace/browser/media/
-opt/visual-studio-code/resources/app/out/vs/workbench/contrib/workspace/browser/media/trusted-badge.png
-opt/visual-studio-code/resources/app/out/vs/workbench/contrib/workspace/browser/media/untrusted-status.png
 opt/visual-studio-code/resources/app/out/vs/workbench/services/
 opt/visual-studio-code/resources/app/out/vs/workbench/services/extensionManagement/
 opt/visual-studio-code/resources/app/out/vs/workbench/services/extensionManagement/common/

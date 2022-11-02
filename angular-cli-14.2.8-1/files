@@ -1890,6 +1890,7 @@ usr/lib/node_modules/@angular/cli/node_modules/hosted-git-info/lib/
 usr/lib/node_modules/@angular/cli/node_modules/hosted-git-info/lib/git-host-info.js
 usr/lib/node_modules/@angular/cli/node_modules/hosted-git-info/lib/git-host.js
 usr/lib/node_modules/@angular/cli/node_modules/hosted-git-info/lib/index.js
+usr/lib/node_modules/@angular/cli/node_modules/hosted-git-info/lib/parse-url.js
 usr/lib/node_modules/@angular/cli/node_modules/hosted-git-info/package.json
 usr/lib/node_modules/@angular/cli/node_modules/http-cache-semantics/
 usr/lib/node_modules/@angular/cli/node_modules/http-cache-semantics/LICENSE
@@ -4401,6 +4402,7 @@ usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/tslib/
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/tslib/CopyrightNotice.txt
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/tslib/LICENSE.txt
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/tslib/README.md
+usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/tslib/SECURITY.md
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/tslib/modules/
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/tslib/modules/index.js
 usr/lib/node_modules/@angular/cli/node_modules/inquirer/node_modules/tslib/modules/package.json

@@ -1,7 +1,7 @@
 %FILES%
 opt/
 opt/tor-browser/
-opt/tor-browser/tor-browser-linux64-11.5.6_en-US.tar.xz
+opt/tor-browser/tor-browser-linux64-11.5.7_en-US.tar.xz
 usr/
 usr/bin/
 usr/bin/tor-browser

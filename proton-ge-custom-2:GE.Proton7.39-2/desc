@@ -1,35 +1,35 @@
 %FILENAME%
-proton-1_7.0.4-2-x86_64.pkg.tar.xz
+proton-ge-custom-2_GE.Proton7.39-2-x86_64.pkg.tar.xz
 
 %NAME%
-proton
+proton-ge-custom
 
 %BASE%
-proton
+proton-ge-custom
 
 %VERSION%
-1:7.0.4-2
+2:GE.Proton7.39-2
 
 %DESC%
-Compatibility tool for Steam Play based on Wine and additional components
+Compatibility tool for Steam Play based on Wine and additional components, GloriousEggroll's custom build
 
 %CSIZE%
-249603900
+258966916
 
 %ISIZE%
-1048033312
+1088563617
 
 %MD5SUM%
-bd5bc8832eb2a039c6845c4416fe9491
+8abe3fefd28e7c2742d74dba0800e085
 
 %SHA256SUM%
-39a2908e61b4cc9af3b5f02c52477e6f78bf6b9a1b6915e6b8f5f601636c232b
+dc5d7c5be87c450e329ee97202ba1e86583240ab1b68eadc3581d80706d763b8
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmNQmFQACgkQAiE6BJNFfpZi/A/+M+jwhIq/u9a2QIu+yRkBPHtJjTOuxgYeYGrcZ42oOSPFizf5+V1Kk1L3qfZyQV0C5jvwWk3DynQ7Kq8Ie/wAwKnrN7610Sl9ROxnA2LXAvwEVS/FBGa1g3gTvejXTs8lTXcmVQnIFLqVB5b3gCdO5RFaHf/xg9lFcAU/kQFSx1w3UDvl9VQ0WlJsg9TfGbpvMu8ZqiXbmzYWWK2fnRHqDJZ0KyH/rfjTLAknhubtOHcQ1gTH27SoZW+Vrp5tsJqMlsjvNajMzgs60FudgRBWF+T584LqqiKTLG9EJ37lulHDGxzoNbHdkzQ6ApJHbxpifDQXKXV6baRLEICdGSwQapzR06gYbhocrc+JBjjojREHpW0XEHwWMHeFM3r44LP/hE0tey6QvsmktD1X4jE1REd16NhiQ73nPXSW0/g6K41gJJKX+sAftQ1lsss0YN5ZE5tN+iSFg5u737qwF2sW9+AHA82Zac9w//GNI7gmXMKNF3xmGxKRhQ+FemmbBCi5irbz4xAlK033nehormnVLuuC6BcQIKanoUR50rYhZKL16ukfg5W8wvquDwV7dcwrcxFTq1MgPkqPMRVUomMQLif1o5cI5DCCKq6/q1Pgdfrgr+qdiR7L1GTFDnOB8fhWma79NVUS3BRuszGHCH23ukQPuU5e0l9MPMNQEytH08c=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmNnyNYACgkQAiE6BJNFfpYlUA//djRT7SgE8U+zxkpNP/j83Y/2PbkeBBIrRwV0GZ6xgdeqwPPadSiZj2zjTr7ujvYzW6on+ZO+ve4Sdpuf2Gv9/JoU8nJg9pvVlUUUqEdl7K5UTG5JHlPgor7rD0oJGXTuLm2DCC608jmCiClxk9y4tY+7poXYGfpHXsW0iRilTY0WFWvQVYaZzGPWSJJUqLLTuB58qaUshTIw+88tUNHr12KMDZplr2w8dDb4czQ3FRhaSHVDKuE7IyOPZ5gW2Le9btPeIZRFRNJCcISXk04ESZ3I+r1beR6x9O8ZjnGaG5limhZfM2H8CDn5W3Ycu9m3j5DjmAU6lY7SNV4rdYbWkv36bnMRyyAFQhQwymuvzLOLRI5px1C6pzB+i1Z+hTE6gsqLXNGOBQ+1UFGqRwIdLB0puxiwHcuO95aL8OGrD+UwV2RAm+NEV1fCp2QRZeMVUuCLq/LuYHRBylQa5oc3M2RmbaXfOdZZOYmb1bndCq20LovLJyAxOZsjszPEeayUgeTPGo9sqeuCzoEtdygieecj8Duvf5KqEnRwIQfdAQmW46BJwGr/kIdAeElAepHeM+wl4Pg+gSL5Q+cO2oo0FkylPYj5sUyV0RP2FHGVtDiXxHMvFkLkogD58b0m6XKG9pCLj9yY7dyAybDH7qsZ83b4hvOX6UE8pnR9wuvyoXY=
 
 %URL%
-https://github.com/ValveSoftware/Proton
+https://github.com/GloriousEggroll/proton-ge-custom
 
 %LICENSE%
 custom
@@ -38,16 +38,13 @@ custom
 x86_64
 
 %BUILDDATE%
-1666218363
+1667738107
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
 
-%CONFLICTS%
-proton-native
-
 %PROVIDES%
-proton-native
+proton
 
 %DEPENDS%
 attr
@@ -86,9 +83,14 @@ libvpx
 lib32-libvpx
 sdl2>=2.0.16
 lib32-sdl2>=2.0.16
+libsoup
+lib32-libsoup
+libgudev
+lib32-libgudev
 desktop-file-utils
 python
 steam-native-runtime
+cabextract
 
 %OPTDEPENDS%
 giflib
@@ -131,6 +133,7 @@ vulkan-icd-loader
 lib32-vulkan-icd-loader
 libgphoto2
 gsm
+lib32-gsm
 dosbox
 
 %MAKEDEPENDS%
@@ -203,6 +206,7 @@ rust
 lib32-rust-libs
 libgphoto2
 gsm
+lib32-gsm
 opencl-headers
 attr
 lib32-attr
@@ -240,7 +244,12 @@ libvpx
 lib32-libvpx
 sdl2>=2.0.16
 lib32-sdl2>=2.0.16
+libsoup
+lib32-libsoup
+libgudev
+lib32-libgudev
 desktop-file-utils
 python
 steam-native-runtime
+cabextract
 

@@ -22,7 +22,7 @@ usr/include/mysql/mysqld_error.h
 usr/lib/
 usr/lib/libmysqlclient.so
 usr/lib/libmysqlclient.so.21
-usr/lib/libmysqlclient.so.21.2.30
+usr/lib/libmysqlclient.so.21.2.31
 usr/lib/libmysqlservices.a
 usr/share/
 usr/share/aclocal/

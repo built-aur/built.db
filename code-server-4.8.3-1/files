@@ -1828,6 +1828,8 @@ usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/build/binding.Makefi
 usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/build/config.gypi
 usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/build/node-addon-api/
 usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/build/node-addon-api/nothing.a
+usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/build/node_gyp_bins/
+usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/build/node_gyp_bins/python3
 usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/build/watcher.target.mk
 usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/index.d.ts
 usr/lib/code-server/lib/vscode/node_modules/@parcel/watcher/index.js
@@ -2458,6 +2460,8 @@ usr/lib/code-server/lib/vscode/node_modules/keytar/README.md
 usr/lib/code-server/lib/vscode/node_modules/keytar/binding.gyp
 usr/lib/code-server/lib/vscode/node_modules/keytar/build/
 usr/lib/code-server/lib/vscode/node_modules/keytar/build/config.gypi
+usr/lib/code-server/lib/vscode/node_modules/keytar/build/node_gyp_bins/
+usr/lib/code-server/lib/vscode/node_modules/keytar/build/node_gyp_bins/python3
 usr/lib/code-server/lib/vscode/node_modules/keytar/keytar.d.ts
 usr/lib/code-server/lib/vscode/node_modules/keytar/lib/
 usr/lib/code-server/lib/vscode/node_modules/keytar/lib/keytar.js
@@ -2631,6 +2635,8 @@ usr/lib/code-server/lib/vscode/node_modules/native-watchdog/build/Release/obj.ta
 usr/lib/code-server/lib/vscode/node_modules/native-watchdog/build/Release/watchdog.node
 usr/lib/code-server/lib/vscode/node_modules/native-watchdog/build/binding.Makefile
 usr/lib/code-server/lib/vscode/node_modules/native-watchdog/build/config.gypi
+usr/lib/code-server/lib/vscode/node_modules/native-watchdog/build/node_gyp_bins/
+usr/lib/code-server/lib/vscode/node_modules/native-watchdog/build/node_gyp_bins/python3
 usr/lib/code-server/lib/vscode/node_modules/native-watchdog/build/watchdog.target.mk
 usr/lib/code-server/lib/vscode/node_modules/native-watchdog/index.d.ts
 usr/lib/code-server/lib/vscode/node_modules/native-watchdog/index.js
@@ -2697,6 +2703,8 @@ usr/lib/code-server/lib/vscode/node_modules/node-pty/build/Release/
 usr/lib/code-server/lib/vscode/node_modules/node-pty/build/Release/pty.node
 usr/lib/code-server/lib/vscode/node_modules/node-pty/build/binding.Makefile
 usr/lib/code-server/lib/vscode/node_modules/node-pty/build/config.gypi
+usr/lib/code-server/lib/vscode/node_modules/node-pty/build/node_gyp_bins/
+usr/lib/code-server/lib/vscode/node_modules/node-pty/build/node_gyp_bins/python3
 usr/lib/code-server/lib/vscode/node_modules/node-pty/build/pty.target.mk
 usr/lib/code-server/lib/vscode/node_modules/node-pty/deps/
 usr/lib/code-server/lib/vscode/node_modules/node-pty/deps/.editorconfig
@@ -3278,6 +3286,8 @@ usr/lib/code-server/lib/vscode/node_modules/spdlog/build/Release/obj.target/spdl
 usr/lib/code-server/lib/vscode/node_modules/spdlog/build/Release/spdlog.node
 usr/lib/code-server/lib/vscode/node_modules/spdlog/build/binding.Makefile
 usr/lib/code-server/lib/vscode/node_modules/spdlog/build/config.gypi
+usr/lib/code-server/lib/vscode/node_modules/spdlog/build/node_gyp_bins/
+usr/lib/code-server/lib/vscode/node_modules/spdlog/build/node_gyp_bins/python3
 usr/lib/code-server/lib/vscode/node_modules/spdlog/build/spdlog.target.mk
 usr/lib/code-server/lib/vscode/node_modules/spdlog/deps/
 usr/lib/code-server/lib/vscode/node_modules/spdlog/deps/spdlog/
@@ -5490,6 +5500,8 @@ usr/lib/code-server/node_modules/argon2/build-tmp-napi-v3/argon2.target.mk
 usr/lib/code-server/node_modules/argon2/build-tmp-napi-v3/binding.Makefile
 usr/lib/code-server/node_modules/argon2/build-tmp-napi-v3/config.gypi
 usr/lib/code-server/node_modules/argon2/build-tmp-napi-v3/libargon2.target.mk
+usr/lib/code-server/node_modules/argon2/build-tmp-napi-v3/node_gyp_bins/
+usr/lib/code-server/node_modules/argon2/build-tmp-napi-v3/node_gyp_bins/python3
 usr/lib/code-server/node_modules/argon2/lib/
 usr/lib/code-server/node_modules/argon2/lib/binding/
 usr/lib/code-server/node_modules/argon2/lib/binding/napi-v3/
@@ -9016,6 +9028,7 @@ usr/lib/code-server/src/browser/media/favicon.svg
 usr/lib/code-server/src/browser/media/pwa-icon-192.png
 usr/lib/code-server/src/browser/media/pwa-icon-512.png
 usr/lib/code-server/src/browser/media/pwa-icon.png
+usr/lib/code-server/src/browser/media/templates.png
 usr/lib/code-server/src/browser/pages/
 usr/lib/code-server/src/browser/pages/error.css
 usr/lib/code-server/src/browser/pages/error.html

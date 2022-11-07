@@ -51,6 +51,7 @@ opt/jetbrains-gateway/jbr/include/jvmticmlr.h
 opt/jetbrains-gateway/jbr/include/linux/
 opt/jetbrains-gateway/jbr/include/linux/jawt_md.h
 opt/jetbrains-gateway/jbr/include/linux/jni_md.h
+opt/jetbrains-gateway/jbr/include/sizecalc.h
 opt/jetbrains-gateway/jbr/legal/
 opt/jetbrains-gateway/jbr/legal/java.base/
 opt/jetbrains-gateway/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO

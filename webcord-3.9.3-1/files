@@ -2337,6 +2337,10 @@ usr/lib/webcord/sources/translations/pt/
 usr/lib/webcord/sources/translations/pt/client.json
 usr/lib/webcord/sources/translations/pt/settings.json
 usr/lib/webcord/sources/translations/pt/web.json
+usr/lib/webcord/sources/translations/ru/
+usr/lib/webcord/sources/translations/ru/client.json
+usr/lib/webcord/sources/translations/ru/settings.json
+usr/lib/webcord/sources/translations/ru/web.json
 usr/share/
 usr/share/applications/
 usr/share/applications/webcord.desktop

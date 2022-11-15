@@ -1510,7 +1510,7 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/cached_config.
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/case.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/context.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/default.js
-usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/edge_functions_config.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/edge_functions.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/env/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/env/envelope.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/config/lib/env/git.js
@@ -3371,6 +3371,7 @@ usr/lib/node_modules/netlify-cli/node_modules/@types/istanbul-reports/package.js
 usr/lib/node_modules/netlify-cli/node_modules/@types/keyv/
 usr/lib/node_modules/netlify-cli/node_modules/@types/keyv/LICENSE
 usr/lib/node_modules/netlify-cli/node_modules/@types/keyv/README.md
+usr/lib/node_modules/netlify-cli/node_modules/@types/keyv/index.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/@types/keyv/package.json
 usr/lib/node_modules/netlify-cli/node_modules/@types/minimatch/
 usr/lib/node_modules/netlify-cli/node_modules/@types/minimatch/LICENSE
@@ -5427,13 +5428,6 @@ usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/LICENSE
 usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/README.md
 usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/index.d.ts
 usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/index.js
-usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/node_modules/
-usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/node_modules/@types/
-usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/node_modules/@types/keyv/
-usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/node_modules/@types/keyv/LICENSE
-usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/node_modules/@types/keyv/README.md
-usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/node_modules/@types/keyv/index.d.ts
-usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/node_modules/@types/keyv/package.json
 usr/lib/node_modules/netlify-cli/node_modules/cacheable-lookup/package.json
 usr/lib/node_modules/netlify-cli/node_modules/cacheable-request/
 usr/lib/node_modules/netlify-cli/node_modules/cacheable-request/LICENSE

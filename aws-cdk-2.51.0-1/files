@@ -405,6 +405,8 @@ usr/lib/node_modules/aws-cdk/lib/util/objects.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/objects.js
 usr/lib/node_modules/aws-cdk/lib/util/tables.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/tables.js
+usr/lib/node_modules/aws-cdk/lib/util/tracing.d.ts
+usr/lib/node_modules/aws-cdk/lib/util/tracing.js
 usr/lib/node_modules/aws-cdk/lib/util/types.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/types.js
 usr/lib/node_modules/aws-cdk/lib/util/validate-notification-arn.d.ts

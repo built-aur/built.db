@@ -1291,8 +1291,8 @@ usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/
 usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/
 usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/index.js
-usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi93.glibc.node
-usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi93.musl.node
+usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi108.glibc.node
+usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi108.musl.node
 usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.napi.glibc.node
 usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.napi.musl.node
 usr/lib/node_modules/gatsby-cli/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/package.json
@@ -1395,6 +1395,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/@types/http-cache-semantics/package
 usr/lib/node_modules/gatsby-cli/node_modules/@types/keyv/
 usr/lib/node_modules/gatsby-cli/node_modules/@types/keyv/LICENSE
 usr/lib/node_modules/gatsby-cli/node_modules/@types/keyv/README.md
+usr/lib/node_modules/gatsby-cli/node_modules/@types/keyv/index.d.ts
 usr/lib/node_modules/gatsby-cli/node_modules/@types/keyv/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/@types/node-fetch/
 usr/lib/node_modules/gatsby-cli/node_modules/@types/node-fetch/LICENSE
@@ -5296,16 +5297,6 @@ usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/binding.gyp
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/ProjectSettings.json
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/VSWorkspaceState.json
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/slnx.sqlite
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/src/
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/src/v16/
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/src/v16/.suo
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/src/v16/Browse.VC.db
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/src/v16/Browse.VC.db-shm
-usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/.vs/src/v16/Browse.VC.db-wal
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr-extract/src/extract.cpp
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/LICENSE
@@ -5313,6 +5304,10 @@ usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/SECURITY.md
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/benchmark.md
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index-no-eval.js
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index-no-eval.js.map
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index-no-eval.min.js
+usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index-no-eval.min.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index.js
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/msgpackr/dist/index.min.js

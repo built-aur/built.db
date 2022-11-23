@@ -1264,6 +1264,12 @@ usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/semver
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/semver-diff/node_modules/semver/semver.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/semver-diff/package.json
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/semver-diff/readme.md
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/terminal-link/
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/terminal-link/index.d.ts
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/terminal-link/index.js
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/terminal-link/license
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/terminal-link/package.json
+usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/terminal-link/readme.md
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/to-readable-stream/
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/to-readable-stream/index.js
 usr/lib/node_modules/netlify-cli/node_modules/@netlify/build/node_modules/to-readable-stream/license

@@ -1552,8 +1552,8 @@ usr/bin/
 usr/bin/code
 usr/share/
 usr/share/applications/
-usr/share/applications/visual-studio-code-url-handler.desktop
-usr/share/applications/visual-studio-code.desktop
+usr/share/applications/code-url-handler.desktop
+usr/share/applications/code.desktop
 usr/share/bash-completion/
 usr/share/bash-completion/completions/
 usr/share/bash-completion/completions/code

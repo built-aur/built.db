@@ -12,7 +12,7 @@ opt/BetterDiscord/libEGL.so
 opt/BetterDiscord/libGLESv2.so
 opt/BetterDiscord/libffmpeg.so
 opt/BetterDiscord/libvk_swiftshader.so
-opt/BetterDiscord/libvulkan.so
+opt/BetterDiscord/libvulkan.so.1
 opt/BetterDiscord/locales/
 opt/BetterDiscord/locales/am.pak
 opt/BetterDiscord/locales/ar.pak

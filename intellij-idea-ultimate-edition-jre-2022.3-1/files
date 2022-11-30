@@ -325,10 +325,10 @@ opt/intellij-idea-ultimate-edition/jbr/lib/fonts/FiraCode-Medium.ttf
 opt/intellij-idea-ultimate-edition/jbr/lib/fonts/FiraCode-Regular.ttf
 opt/intellij-idea-ultimate-edition/jbr/lib/fonts/FiraCode-Retina.ttf
 opt/intellij-idea-ultimate-edition/jbr/lib/fonts/Inconsolata.ttf
-opt/intellij-idea-ultimate-edition/jbr/lib/fonts/Inter-Bold.otf
-opt/intellij-idea-ultimate-edition/jbr/lib/fonts/Inter-BoldItalic.otf
 opt/intellij-idea-ultimate-edition/jbr/lib/fonts/Inter-Italic.otf
 opt/intellij-idea-ultimate-edition/jbr/lib/fonts/Inter-Regular.otf
+opt/intellij-idea-ultimate-edition/jbr/lib/fonts/Inter-SemiBold.otf
+opt/intellij-idea-ultimate-edition/jbr/lib/fonts/Inter-SemiBoldItalic.otf
 opt/intellij-idea-ultimate-edition/jbr/lib/fonts/JetBrainsMono-Bold.ttf
 opt/intellij-idea-ultimate-edition/jbr/lib/fonts/JetBrainsMono-BoldItalic.ttf
 opt/intellij-idea-ultimate-edition/jbr/lib/fonts/JetBrainsMono-ExtraBold.ttf
@@ -380,7 +380,6 @@ opt/intellij-idea-ultimate-edition/jbr/lib/libjava.so
 opt/intellij-idea-ultimate-edition/jbr/lib/libjavajpeg.so
 opt/intellij-idea-ultimate-edition/jbr/lib/libjawt.so
 opt/intellij-idea-ultimate-edition/jbr/lib/libjcef.so
-opt/intellij-idea-ultimate-edition/jbr/lib/libjceftesthelpers.so
 opt/intellij-idea-ultimate-edition/jbr/lib/libjdwp.so
 opt/intellij-idea-ultimate-edition/jbr/lib/libjimage.so
 opt/intellij-idea-ultimate-edition/jbr/lib/libjli.so
@@ -410,6 +409,7 @@ opt/intellij-idea-ultimate-edition/jbr/lib/libvk_swiftshader.so
 opt/intellij-idea-ultimate-edition/jbr/lib/libvulkan.so.1
 opt/intellij-idea-ultimate-edition/jbr/lib/libzip.so
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/
+opt/intellij-idea-ultimate-edition/jbr/lib/locales/af.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/am.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/ar.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/bg.pak
@@ -460,6 +460,7 @@ opt/intellij-idea-ultimate-edition/jbr/lib/locales/te.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/th.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/tr.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/uk.pak
+opt/intellij-idea-ultimate-edition/jbr/lib/locales/ur.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/vi.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/zh-CN.pak
 opt/intellij-idea-ultimate-edition/jbr/lib/locales/zh-TW.pak
@@ -476,9 +477,6 @@ opt/intellij-idea-ultimate-edition/jbr/lib/server/
 opt/intellij-idea-ultimate-edition/jbr/lib/server/libjsig.so
 opt/intellij-idea-ultimate-edition/jbr/lib/server/libjvm.so
 opt/intellij-idea-ultimate-edition/jbr/lib/snapshot_blob.bin
-opt/intellij-idea-ultimate-edition/jbr/lib/swiftshader/
-opt/intellij-idea-ultimate-edition/jbr/lib/swiftshader/libEGL.so
-opt/intellij-idea-ultimate-edition/jbr/lib/swiftshader/libGLESv2.so
 opt/intellij-idea-ultimate-edition/jbr/lib/tzdb.dat
 opt/intellij-idea-ultimate-edition/jbr/lib/v8_context_snapshot.bin
 opt/intellij-idea-ultimate-edition/jbr/lib/vk_swiftshader_icd.json

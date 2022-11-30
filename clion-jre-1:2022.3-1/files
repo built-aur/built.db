@@ -51,6 +51,7 @@ opt/clion/jbr/include/jvmticmlr.h
 opt/clion/jbr/include/linux/
 opt/clion/jbr/include/linux/jawt_md.h
 opt/clion/jbr/include/linux/jni_md.h
+opt/clion/jbr/include/sizecalc.h
 opt/clion/jbr/legal/
 opt/clion/jbr/legal/java.base/
 opt/clion/jbr/legal/java.base/ADDITIONAL_LICENSE_INFO
@@ -324,10 +325,10 @@ opt/clion/jbr/lib/fonts/FiraCode-Medium.ttf
 opt/clion/jbr/lib/fonts/FiraCode-Regular.ttf
 opt/clion/jbr/lib/fonts/FiraCode-Retina.ttf
 opt/clion/jbr/lib/fonts/Inconsolata.ttf
-opt/clion/jbr/lib/fonts/Inter-Bold.otf
-opt/clion/jbr/lib/fonts/Inter-BoldItalic.otf
 opt/clion/jbr/lib/fonts/Inter-Italic.otf
 opt/clion/jbr/lib/fonts/Inter-Regular.otf
+opt/clion/jbr/lib/fonts/Inter-SemiBold.otf
+opt/clion/jbr/lib/fonts/Inter-SemiBoldItalic.otf
 opt/clion/jbr/lib/fonts/JetBrainsMono-Bold.ttf
 opt/clion/jbr/lib/fonts/JetBrainsMono-BoldItalic.ttf
 opt/clion/jbr/lib/fonts/JetBrainsMono-ExtraBold.ttf
@@ -379,7 +380,6 @@ opt/clion/jbr/lib/libjava.so
 opt/clion/jbr/lib/libjavajpeg.so
 opt/clion/jbr/lib/libjawt.so
 opt/clion/jbr/lib/libjcef.so
-opt/clion/jbr/lib/libjceftesthelpers.so
 opt/clion/jbr/lib/libjdwp.so
 opt/clion/jbr/lib/libjimage.so
 opt/clion/jbr/lib/libjli.so
@@ -409,6 +409,7 @@ opt/clion/jbr/lib/libvk_swiftshader.so
 opt/clion/jbr/lib/libvulkan.so.1
 opt/clion/jbr/lib/libzip.so
 opt/clion/jbr/lib/locales/
+opt/clion/jbr/lib/locales/af.pak
 opt/clion/jbr/lib/locales/am.pak
 opt/clion/jbr/lib/locales/ar.pak
 opt/clion/jbr/lib/locales/bg.pak
@@ -459,6 +460,7 @@ opt/clion/jbr/lib/locales/te.pak
 opt/clion/jbr/lib/locales/th.pak
 opt/clion/jbr/lib/locales/tr.pak
 opt/clion/jbr/lib/locales/uk.pak
+opt/clion/jbr/lib/locales/ur.pak
 opt/clion/jbr/lib/locales/vi.pak
 opt/clion/jbr/lib/locales/zh-CN.pak
 opt/clion/jbr/lib/locales/zh-TW.pak
@@ -475,9 +477,6 @@ opt/clion/jbr/lib/server/
 opt/clion/jbr/lib/server/libjsig.so
 opt/clion/jbr/lib/server/libjvm.so
 opt/clion/jbr/lib/snapshot_blob.bin
-opt/clion/jbr/lib/swiftshader/
-opt/clion/jbr/lib/swiftshader/libEGL.so
-opt/clion/jbr/lib/swiftshader/libGLESv2.so
 opt/clion/jbr/lib/tzdb.dat
 opt/clion/jbr/lib/v8_context_snapshot.bin
 opt/clion/jbr/lib/vk_swiftshader_icd.json

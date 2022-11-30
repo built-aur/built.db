@@ -322,10 +322,10 @@ opt/jetbrains-gateway/jbr/lib/fonts/FiraCode-Medium.ttf
 opt/jetbrains-gateway/jbr/lib/fonts/FiraCode-Regular.ttf
 opt/jetbrains-gateway/jbr/lib/fonts/FiraCode-Retina.ttf
 opt/jetbrains-gateway/jbr/lib/fonts/Inconsolata.ttf
-opt/jetbrains-gateway/jbr/lib/fonts/Inter-Bold.otf
-opt/jetbrains-gateway/jbr/lib/fonts/Inter-BoldItalic.otf
 opt/jetbrains-gateway/jbr/lib/fonts/Inter-Italic.otf
 opt/jetbrains-gateway/jbr/lib/fonts/Inter-Regular.otf
+opt/jetbrains-gateway/jbr/lib/fonts/Inter-SemiBold.otf
+opt/jetbrains-gateway/jbr/lib/fonts/Inter-SemiBoldItalic.otf
 opt/jetbrains-gateway/jbr/lib/fonts/JetBrainsMono-Bold.ttf
 opt/jetbrains-gateway/jbr/lib/fonts/JetBrainsMono-BoldItalic.ttf
 opt/jetbrains-gateway/jbr/lib/fonts/JetBrainsMono-ExtraBold.ttf

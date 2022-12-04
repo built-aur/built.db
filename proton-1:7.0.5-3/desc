@@ -1,5 +1,5 @@
 %FILENAME%
-proton-1_7.0.4-4-x86_64.pkg.tar.xz
+proton-1_7.0.5-3-x86_64.pkg.tar.xz
 
 %NAME%
 proton
@@ -8,25 +8,25 @@ proton
 proton
 
 %VERSION%
-1:7.0.4-4
+1:7.0.5-3
 
 %DESC%
 Compatibility tool for Steam Play based on Wine and additional components
 
 %CSIZE%
-249603168
+249983004
 
 %ISIZE%
-1048000567
+1054377267
 
 %MD5SUM%
-58000133a5e481f51b6643a0dca1f589
+48879610368ebec92e79edd719f2db29
 
 %SHA256SUM%
-cd05e5c9deff7be1e5999650e10236ee2d064bb3211325816cb04097faf5555f
+39e1082a8a2fc94a531d9682060a20b51646c1881051007568f447c5b4a3f367
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmNnyWcACgkQAiE6BJNFfpZfcBAAzb1G6qkyaq9u1fPYCDg0KGO36PbUdKx6l0qTDFypLaMD360GjK/XHCUVkrNfFxqeza3TUpONOItwrm0G5LpTCsGbpAS3boLXJ8IajxnaK7ZP4SkyKgRelD3Zr18ndTMQExAs/w0S+h6kaW6+cPjGH3BnsmXDyCURuWtZjMaitctm/LLOMbiGZRRdD0EGGRtEFbUqQfdR+lYCssidXM2VbFY2bhhY07cfu1rFFNfcLYI5AE5MeVLIasUFejn7c+JndOh4L7JGcvivGKs+KHSnPF+dpqH3Ch5ukzK6XA+ETLlhZLHbbDjb0GRwD45KpAc9mvEPh8Uf4ycokQ7t7PqJILtNcB5hM+hRQ3ISkezrdY739aKcbDX7KSbZ4aSUgPyKkWbzcA7HwZdFxG8yMXqnHvRCC6GphO2XHcEyldvmvTtKAHyvNHqYEZOihn2BlopEt83shS88iJoQG4o2A8FZYy+AQqFwX6b+9sKdFtVDUxquHsBrahbtYpEYE17F2dQwO5S7sDzRqSlcvE8UQaMtilFXhpURPXV3PD+LxbChyphXRIsJFIjm+IAH8IZGPjgamxIqHP9gG3jx10SQiMmWlgiEppJkrSbeNGL0/w6Mtitp1TQs5zYmqnES6Sj7V8tPcqSoHgGdsgwh5VXPJjy/6d+jpiBLwe23dNEJqBQjB6g=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmONCpoACgkQAiE6BJNFfpYTIhAAouOtq8sgdCKNldCtX9/DoWEZ0FFsR7ObCG4lq1u1eo2n4wmbk9uUrHAzeOsunSqje3JHVpOyCNyfKxuxUkpELPJRoePGBkliRPxYbxZNAuFs0fljauewnQFe7jU2UpF3vNBtm/ABO8THGwklv+0Zvh6K/JI27DzY3HPT0JXHjGdMvTIbIKAGdGN5wZ/YrcIN+i0rWi36DsuJDRpRgcRJ0iq4VhLQqcd3YZth3HUxizjtsaQ9q62lB4TsUZ6QqK4nXNkojE48LrELeTz/5SoukWIfpKCQsVigerU2M1aRVN1IhZ89MRlWHUCIzs5chN2euzGZteRMUf8Ci0ziVoS4TNfCNNf46tHR1P1UcmBlXIXHVTGiNL45D+ZLwBPECRixDnQe1yZijbV3h1xQyG9AIA1ewMJrkHYiIyyLLaUzL6LnIt+Wab2r/dWcu8LdR/MYpmEYP8xpxR33AdMR71g1Fc4C9BBPv+nic9Gl3ELgjswH473kkWuA4Jf87yqY+zjY5FnOdKkKpET0L7nZjw4RXyBACRUMxtjOhUsoWz0JyGwHioyvE2pmqBlfwHLNaJcLbvJcHwca1JSyzz42ZZ/Hf1h1pDsBMTIosW5TJYIZCmQcAs5Uh+ULBfAI7duhbiU0HTiaEX+9s+ikyjY01KVLHBq7dVO1r8hg2fcWta17rc8=
 
 %URL%
 https://github.com/ValveSoftware/Proton
@@ -38,7 +38,7 @@ custom
 x86_64
 
 %BUILDDATE%
-1667738171
+1670178064
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
@@ -86,6 +86,10 @@ libvpx
 lib32-libvpx
 sdl2>=2.0.16
 lib32-sdl2>=2.0.16
+libsoup
+lib32-libsoup
+libgudev
+lib32-libgudev
 desktop-file-utils
 python
 steam-native-runtime
@@ -242,6 +246,10 @@ libvpx
 lib32-libvpx
 sdl2>=2.0.16
 lib32-sdl2>=2.0.16
+libsoup
+lib32-libsoup
+libgudev
+lib32-libgudev
 desktop-file-utils
 python
 steam-native-runtime

@@ -1,5 +1,5 @@
 %FILENAME%
-proton-experimental-1_7.0.20221102-2-x86_64.pkg.tar.xz
+proton-experimental-1_7.0.20221129-1-x86_64.pkg.tar.xz
 
 %NAME%
 proton-experimental
@@ -8,25 +8,25 @@ proton-experimental
 proton-experimental
 
 %VERSION%
-1:7.0.20221102-2
+1:7.0.20221129-1
 
 %DESC%
 Compatibility tool for Steam Play based on Wine and additional components, experimental branch
 
 %CSIZE%
-251284948
+251551116
 
 %ISIZE%
-1052356343
+1048686407
 
 %MD5SUM%
-67754dd23020cdcf02e3db2323ed3e3e
+20f6fff96e6da7a2f220770c29de6cf8
 
 %SHA256SUM%
-40339105a53d46a724f453af71e5758e815771fa53a841317b13fe89303c9900
+44fa8a54b0c9520e36621cf8e0c5adcd02a6bedfa1802ff49e8fbd7f1df9fdba
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmNnzG8ACgkQAiE6BJNFfpZ6oA/9HLSCOYGRRhjIqRVvJfKm4MSBpMZxRfq8LTT4W/WwGD86DHxueOQwdCr81hsSshYBgikDsqQE1bQkcoqy3twVmHwS+cqjMJagZULBfVrorKFQY3UtUbnkGYv7Xey6Koc5cfsjXIx8uMgghaZc3n/II4nb2d7RVJr4G2jOkPrz2mXV2e93vFgyOLRxiDkrqml7+fJ8RyxauXiG+HT58/nEz7PHVacncSKbzh+jQsMXqWCIRHwMLVkllX2VqhXPlZcqQjfcAVj+CVrIhf52cZyse6UfdvmMovh5lG7UwEMVMDB+CsoL9NngbIgqj80dUWGfwI/m6w5Ryvxg8jG3CDfFlemqKMAfJm6d2mqh2PKy5E5fXjn+BbFHNyKk0LzB+JlKCcZhhKu0szGS9PlLx0AybUEPQq3qSCf3R+JBt0BOW7bbIIDPn2Et4WcKz15xz39uk5/+KBlEhuzVt/ZXcIktV9EsdKTneC/JnfvYCxYIqM/47HMCp0SXPdDeKtCHiSrNh6KgRIL4SwsCfWLAcRUdKlyofKsIU2xVe0zdlfs0tM+wov3UnIpUMlJptwJigJW2mQ9LLXiXjdzDQt909tKJbBMyiG7Taq2bC8Gf9C/sT2egOdIEdy90sRoWiwUTO6GsUeLauN6Xvoz3lR2GLGASDTZHoGXpghte9YFRChUzePk=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmOOAcwACgkQAiE6BJNFfpbo0hAAiDuI/4coOhLOof6XENiDetOuQDyfG10Fqw9UXq4CjT/zS9kCZx8AZxlaldRwP3pblIE3M0otIaeoKUtP0uTp4ML9l8sBUxJK79MLvn71okbuUmcuwial8is89KrmSpHPgASNCHrDCg1PDFVUJ+lAZeVlltAZmTYNPiG8siuGavExM/3HMfrpW2UAO131WbqhafAcWfhmwZW2jFyJTbu0xtk4wc6ZVx7BUczzaz6BNtMHXyHiu3SpKiECgpieJpK0ua5T3FkUKEI1PVZe60GKHpe4Tc8wL2H1PLaZWpLmw3IDfc4KK9ixXzextkzv2GYoyfHQ4PF6B/5R8akbl3PCEYQggQqslX0Dwlgi9ktk85s2rlpGk2iIsJNRUQ/g+wZO/hFzwH3zusptLgr7gWAiwAL2K18VjYpdmq0JGTLIhwEtE1/G+91f4iHbX9FTYIZMqW44m5VmMONa29xrbRl5HS6nuq0Scd/kodB5e6lkWicMfOD+8hRzgYFw6iY7m5Ow1fopNde3gGHOpL5lwppQL930d0KvEBXi3S9HFPeqk0RIU5zbKrs0jpO4q1oWm48BwCqhsCOhzb+kkpyEu0qcjMrUGiWvOEC0gkqYTl6cEkBQencN1Ww3FbeAiTZ7rSFg0u/txsZf8e5lO/PoXWTQd1lrCHCTK/Ne1l7v26mRIGo=
 
 %URL%
 https://github.com/ValveSoftware/Proton
@@ -38,7 +38,7 @@ custom
 x86_64
 
 %BUILDDATE%
-1667738110
+1670243554
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>

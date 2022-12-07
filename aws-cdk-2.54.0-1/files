@@ -375,6 +375,8 @@ usr/lib/node_modules/aws-cdk/lib/notices.d.ts
 usr/lib/node_modules/aws-cdk/lib/notices.js
 usr/lib/node_modules/aws-cdk/lib/os.d.ts
 usr/lib/node_modules/aws-cdk/lib/os.js
+usr/lib/node_modules/aws-cdk/lib/platform-warnings.d.ts
+usr/lib/node_modules/aws-cdk/lib/platform-warnings.js
 usr/lib/node_modules/aws-cdk/lib/serialize.d.ts
 usr/lib/node_modules/aws-cdk/lib/serialize.js
 usr/lib/node_modules/aws-cdk/lib/settings.d.ts
@@ -704,6 +706,8 @@ usr/lib/node_modules/aws-cdk/test/nested-stack-templates/one-unnamed-lambda-stac
 usr/lib/node_modules/aws-cdk/test/nested-stack-templates/one-unnamed-lambda-two-stacks-stack.nested.template.json
 usr/lib/node_modules/aws-cdk/test/notices.test.d.ts
 usr/lib/node_modules/aws-cdk/test/notices.test.js
+usr/lib/node_modules/aws-cdk/test/platform-warnings.test.d.ts
+usr/lib/node_modules/aws-cdk/test/platform-warnings.test.js
 usr/lib/node_modules/aws-cdk/test/serialize.test.d.ts
 usr/lib/node_modules/aws-cdk/test/serialize.test.js
 usr/lib/node_modules/aws-cdk/test/settings.test.d.ts

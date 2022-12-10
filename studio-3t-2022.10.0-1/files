@@ -70,7 +70,7 @@ opt/studio-3t/commons-math3-3.6.1.jar
 opt/studio-3t/commons-net-3.6.jar
 opt/studio-3t/commons-text-1.10.0.jar
 opt/studio-3t/commons-validator-1.7.jar
-opt/studio-3t/data-man-mongodb-ent-2022.9.2.jar
+opt/studio-3t/data-man-mongodb-ent-2022.10.0.jar
 opt/studio-3t/diffutils-1.3.0.jar
 opt/studio-3t/driver-core-4.6.0_3t.2022.04.29.1231.jar
 opt/studio-3t/driver-legacy-4.6.0_3t.2022.04.29.1231.jar
@@ -101,6 +101,7 @@ opt/studio-3t/javafx-graphics-17.0.2-linux.jar
 opt/studio-3t/javafx-graphics-17.0.2.jar
 opt/studio-3t/javafx-swing-17.0.2-linux.jar
 opt/studio-3t/javafx-swing-17.0.2.jar
+opt/studio-3t/javassist-3.28.0-GA.jar
 opt/studio-3t/javax.servlet-api-3.1.0.jar
 opt/studio-3t/jetty-http-9.4.26.v20200117.jar
 opt/studio-3t/jetty-io-9.4.26.v20200117.jar
@@ -453,7 +454,6 @@ opt/studio-3t/jsr305-3.0.2.jar
 opt/studio-3t/jzlib-1.1.3.jar
 opt/studio-3t/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
 opt/studio-3t/mariadb-java-client-2.5.2.jar
-opt/studio-3t/mina-core-2.0.7.jar
 opt/studio-3t/mssql-jdbc-10.2.0.jre11.jar
 opt/studio-3t/mxparser-1.2.2.jar
 opt/studio-3t/opencensus-api-0.24.0.jar
@@ -476,12 +476,12 @@ opt/studio-3t/org.eclipse.text-3.12.100.v20220506-1404_3T20220615-173000.jar
 opt/studio-3t/org.osgi.service.prefs-1.1.2.202109301733_3T20220615-173000.jar
 opt/studio-3t/org.osgi.util.function-1.2.0.202109301733_3T20220615-173000.jar
 opt/studio-3t/org.osgi.util.promise-1.2.0.202109301733_3T20220615-173000.jar
-opt/studio-3t/postgresql-42.4.0.jar
+opt/studio-3t/postgresql-42.4.1.jar
+opt/studio-3t/reflections-0.10.2.jar
 opt/studio-3t/regex-21.3.0.jar
 opt/studio-3t/response
 opt/studio-3t/slf4j-api-1.7.30.jar
 opt/studio-3t/slf4j-nop-1.7.30.jar
-opt/studio-3t/sshd-core-0.12.0.jar
 opt/studio-3t/sshj-0.31.0.jar
 opt/studio-3t/t3-bundled-tools-2.jar
 opt/studio-3t/t3-common-lic2-2.4.jar

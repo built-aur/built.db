@@ -394,6 +394,8 @@ usr/lib/node_modules/firebase-tools/lib/frameworks/lit/
 usr/lib/node_modules/firebase-tools/lib/frameworks/lit/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/next/
 usr/lib/node_modules/firebase-tools/lib/frameworks/next/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/next/interfaces.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/next/utils.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/nuxt/
 usr/lib/node_modules/firebase-tools/lib/frameworks/nuxt/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/preact/
@@ -402,6 +404,7 @@ usr/lib/node_modules/firebase-tools/lib/frameworks/react/
 usr/lib/node_modules/firebase-tools/lib/frameworks/react/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/svelte/
 usr/lib/node_modules/firebase-tools/lib/frameworks/svelte/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/utils.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/vite/
 usr/lib/node_modules/firebase-tools/lib/frameworks/vite/index.js
 usr/lib/node_modules/firebase-tools/lib/fsAsync.js
@@ -914,6 +917,9 @@ usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modul
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/README.md
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/build/
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/build/src/
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/build/src/gcp-residency.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/build/src/gcp-residency.js
+usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/build/src/gcp-residency.js.map
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/build/src/index.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/build/src/index.js
 usr/lib/node_modules/firebase-tools/node_modules/@google-cloud/pubsub/node_modules/gcp-metadata/build/src/index.js.map
@@ -6943,6 +6949,9 @@ usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-met
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/README.md
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/build/
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/build/src/
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/build/src/gcp-residency.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/build/src/gcp-residency.js
+usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/build/src/gcp-residency.js.map
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/build/src/index.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/build/src/index.js
 usr/lib/node_modules/firebase-tools/node_modules/google-gax/node_modules/gcp-metadata/build/src/index.js.map
@@ -11294,6 +11303,9 @@ usr/lib/node_modules/firebase-tools/node_modules/re2/tests/test_test.js
 usr/lib/node_modules/firebase-tools/node_modules/re2/tests/test_toString.js
 usr/lib/node_modules/firebase-tools/node_modules/re2/tests/tests.js
 usr/lib/node_modules/firebase-tools/node_modules/re2/tests/worker.js
+usr/lib/node_modules/firebase-tools/node_modules/re2/ts-tests/
+usr/lib/node_modules/firebase-tools/node_modules/re2/ts-tests/test-types.ts
+usr/lib/node_modules/firebase-tools/node_modules/re2/tsconfig.json
 usr/lib/node_modules/firebase-tools/node_modules/re2/vendor/
 usr/lib/node_modules/firebase-tools/node_modules/re2/vendor/LICENSE
 usr/lib/node_modules/firebase-tools/node_modules/re2/vendor/README
@@ -14742,6 +14754,12 @@ usr/lib/node_modules/firebase-tools/node_modules/tar/lib/write-entry.js
 usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/
 usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/.bin/
 usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/.bin/mkdirp
+usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/minipass/
+usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/minipass/LICENSE
+usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/minipass/README.md
+usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/minipass/index.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/minipass/index.js
+usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/minipass/package.json
 usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/mkdirp/
 usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/mkdirp/CHANGELOG.md
 usr/lib/node_modules/firebase-tools/node_modules/tar/node_modules/mkdirp/LICENSE

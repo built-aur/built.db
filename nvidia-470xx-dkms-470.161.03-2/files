@@ -89,7 +89,6 @@ usr/src/nvidia-470.161.03/nvidia-drm/nvidia-drm-gem-user-memory.h
 usr/src/nvidia-470.161.03/nvidia-drm/nvidia-drm-gem.c
 usr/src/nvidia-470.161.03/nvidia-drm/nvidia-drm-gem.h
 usr/src/nvidia-470.161.03/nvidia-drm/nvidia-drm-helper.c
-usr/src/nvidia-470.161.03/nvidia-drm/nvidia-drm-helper.c.orig
 usr/src/nvidia-470.161.03/nvidia-drm/nvidia-drm-helper.h
 usr/src/nvidia-470.161.03/nvidia-drm/nvidia-drm-ioctl.h
 usr/src/nvidia-470.161.03/nvidia-drm/nvidia-drm-linux.c
@@ -381,7 +380,6 @@ usr/src/nvidia-470.161.03/nvidia/nv-usermap.c
 usr/src/nvidia-470.161.03/nvidia/nv-vm.c
 usr/src/nvidia-470.161.03/nvidia/nv-vtophys.c
 usr/src/nvidia-470.161.03/nvidia/nv.c
-usr/src/nvidia-470.161.03/nvidia/nv.c.orig
 usr/src/nvidia-470.161.03/nvidia/nv_gpu_ops.h
 usr/src/nvidia-470.161.03/nvidia/nv_uvm_interface.c
 usr/src/nvidia-470.161.03/nvidia/nvidia-sources.Kbuild

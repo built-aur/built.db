@@ -6,10 +6,10 @@ etc/OpenCL/vendors/nvidia.icd
 usr/
 usr/lib/
 usr/lib/libnvidia-compiler.so
-usr/lib/libnvidia-compiler.so.470.141.03
+usr/lib/libnvidia-compiler.so.470.161.03
 usr/lib/libnvidia-opencl.so
 usr/lib/libnvidia-opencl.so.1
-usr/lib/libnvidia-opencl.so.470.141.03
+usr/lib/libnvidia-opencl.so.470.161.03
 usr/share/
 usr/share/licenses/
 usr/share/licenses/opencl-nvidia

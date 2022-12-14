@@ -754,6 +754,7 @@ opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/ja/
 opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/ja/diagnosticMessages.generated.json
 opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/ko/
 opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/ko/diagnosticMessages.generated.json
+opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/lib.d.ts
 opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/lib.dom.d.ts
 opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/lib.dom.iterable.d.ts
 opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.collection.d.ts

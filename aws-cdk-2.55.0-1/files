@@ -668,6 +668,7 @@ usr/lib/node_modules/aws-cdk/test/integ/init/test-python-stackname.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/test-python.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/test-typescript-app.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/test-typescript-lib.sh
+usr/lib/node_modules/aws-cdk/test/integ/init/test-typescript-versions.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/test-typescript.sh
 usr/lib/node_modules/aws-cdk/test/integ/run-against-dist
 usr/lib/node_modules/aws-cdk/test/integ/run-against-dist.bash
@@ -683,6 +684,8 @@ usr/lib/node_modules/aws-cdk/test/integ/run-wrappers/repo/pip_
 usr/lib/node_modules/aws-cdk/test/integ/test-cli-regression-against-current-code.sh
 usr/lib/node_modules/aws-cdk/test/integ/test-cli-regression-against-latest-release.sh
 usr/lib/node_modules/aws-cdk/test/integ/test-cli-regression.bash
+usr/lib/node_modules/aws-cdk/test/integ/typescript-versions.d.ts
+usr/lib/node_modules/aws-cdk/test/integ/typescript-versions.js
 usr/lib/node_modules/aws-cdk/test/integ/uberpackage/
 usr/lib/node_modules/aws-cdk/test/integ/uberpackage/cfn-include-app/
 usr/lib/node_modules/aws-cdk/test/integ/uberpackage/cfn-include-app/cdk.json

@@ -113,6 +113,7 @@ usr/lib/node_modules/firebase-tools/lib/commands/hosting-sites-get.js
 usr/lib/node_modules/firebase-tools/lib/commands/hosting-sites-list.js
 usr/lib/node_modules/firebase-tools/lib/commands/index.js
 usr/lib/node_modules/firebase-tools/lib/commands/init.js
+usr/lib/node_modules/firebase-tools/lib/commands/internaltesting-functions-discover.js
 usr/lib/node_modules/firebase-tools/lib/commands/login-add.js
 usr/lib/node_modules/firebase-tools/lib/commands/login-ci.js
 usr/lib/node_modules/firebase-tools/lib/commands/login-list.js
@@ -167,6 +168,7 @@ usr/lib/node_modules/firebase-tools/lib/deploy/extensions/prepare.js
 usr/lib/node_modules/firebase-tools/lib/deploy/extensions/release.js
 usr/lib/node_modules/firebase-tools/lib/deploy/extensions/secrets.js
 usr/lib/node_modules/firebase-tools/lib/deploy/extensions/tasks.js
+usr/lib/node_modules/firebase-tools/lib/deploy/extensions/v2FunctionHelper.js
 usr/lib/node_modules/firebase-tools/lib/deploy/extensions/validate.js
 usr/lib/node_modules/firebase-tools/lib/deploy/firestore/
 usr/lib/node_modules/firebase-tools/lib/deploy/firestore/deploy.js
@@ -393,6 +395,7 @@ usr/lib/node_modules/firebase-tools/lib/frameworks/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/lit/
 usr/lib/node_modules/firebase-tools/lib/frameworks/lit/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/next/
+usr/lib/node_modules/firebase-tools/lib/frameworks/next/constants.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/next/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/next/interfaces.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/next/utils.js
@@ -436,6 +439,7 @@ usr/lib/node_modules/firebase-tools/lib/gcp/cloudmonitoring.js
 usr/lib/node_modules/firebase-tools/lib/gcp/cloudscheduler.js
 usr/lib/node_modules/firebase-tools/lib/gcp/cloudtasks.js
 usr/lib/node_modules/firebase-tools/lib/gcp/docker.js
+usr/lib/node_modules/firebase-tools/lib/gcp/eventarc.js
 usr/lib/node_modules/firebase-tools/lib/gcp/firedata.js
 usr/lib/node_modules/firebase-tools/lib/gcp/firestore.js
 usr/lib/node_modules/firebase-tools/lib/gcp/iam.js
@@ -548,7 +552,6 @@ usr/lib/node_modules/firebase-tools/node_modules/.bin/compileProtos
 usr/lib/node_modules/firebase-tools/node_modules/.bin/crc32
 usr/lib/node_modules/firebase-tools/node_modules/.bin/cross-env
 usr/lib/node_modules/firebase-tools/node_modules/.bin/cross-env-shell
-usr/lib/node_modules/firebase-tools/node_modules/.bin/esbuild
 usr/lib/node_modules/firebase-tools/node_modules/.bin/escodegen
 usr/lib/node_modules/firebase-tools/node_modules/.bin/esgenerate
 usr/lib/node_modules/firebase-tools/node_modules/.bin/esparse
@@ -731,7 +734,6 @@ usr/lib/node_modules/firebase-tools/node_modules/@dabh/diagnostics/node/index.js
 usr/lib/node_modules/firebase-tools/node_modules/@dabh/diagnostics/node/override.js
 usr/lib/node_modules/firebase-tools/node_modules/@dabh/diagnostics/node/production.js
 usr/lib/node_modules/firebase-tools/node_modules/@dabh/diagnostics/package.json
-usr/lib/node_modules/firebase-tools/node_modules/@esbuild/
 usr/lib/node_modules/firebase-tools/node_modules/@gar/
 usr/lib/node_modules/firebase-tools/node_modules/@gar/promisify/
 usr/lib/node_modules/firebase-tools/node_modules/@gar/promisify/LICENSE.md
@@ -5049,21 +5051,6 @@ usr/lib/node_modules/firebase-tools/node_modules/err-code/package.json
 usr/lib/node_modules/firebase-tools/node_modules/err-code/test/
 usr/lib/node_modules/firebase-tools/node_modules/err-code/test/.eslintrc.json
 usr/lib/node_modules/firebase-tools/node_modules/err-code/test/test.js
-usr/lib/node_modules/firebase-tools/node_modules/esbuild-linux-64/
-usr/lib/node_modules/firebase-tools/node_modules/esbuild-linux-64/README.md
-usr/lib/node_modules/firebase-tools/node_modules/esbuild-linux-64/bin/
-usr/lib/node_modules/firebase-tools/node_modules/esbuild-linux-64/bin/esbuild
-usr/lib/node_modules/firebase-tools/node_modules/esbuild-linux-64/package.json
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/LICENSE.md
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/README.md
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/bin/
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/bin/esbuild
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/install.js
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/lib/
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/lib/main.d.ts
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/lib/main.js
-usr/lib/node_modules/firebase-tools/node_modules/esbuild/package.json
 usr/lib/node_modules/firebase-tools/node_modules/escalade/
 usr/lib/node_modules/firebase-tools/node_modules/escalade/dist/
 usr/lib/node_modules/firebase-tools/node_modules/escalade/dist/index.js
@@ -9427,6 +9414,8 @@ usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/dist/markdow
 usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/dist/markdownItAnchor.mjs.map
 usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/dist/markdownItAnchor.modern.js
 usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/dist/markdownItAnchor.modern.js.map
+usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/dist/markdownItAnchor.modern.mjs
+usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/dist/markdownItAnchor.modern.mjs.map
 usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/dist/markdownItAnchor.umd.js
 usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/dist/markdownItAnchor.umd.js.map
 usr/lib/node_modules/firebase-tools/node_modules/markdown-it-anchor/package.json

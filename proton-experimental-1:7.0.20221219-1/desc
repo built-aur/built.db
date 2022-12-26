@@ -1,32 +1,32 @@
 %FILENAME%
-proton-1_7.0.5-4-x86_64.pkg.tar.xz
+proton-experimental-1_7.0.20221219-1-x86_64.pkg.tar.xz
 
 %NAME%
-proton
+proton-experimental
 
 %BASE%
-proton
+proton-experimental
 
 %VERSION%
-1:7.0.5-4
+1:7.0.20221219-1
 
 %DESC%
-Compatibility tool for Steam Play based on Wine and additional components
+Compatibility tool for Steam Play based on Wine and additional components, experimental branch
 
 %CSIZE%
-249979508
+251579824
 
 %ISIZE%
-1054377266
+1048958064
 
 %MD5SUM%
-52088d592a8bb280eef0d13a616eaf6a
+d6601f6a3971f5ff23c02742dc17e06b
 
 %SHA256SUM%
-879c2ccabc35652607901b45cc3a44094bd3d19726353fe6f91435dd48d89bc4
+bb07a4757f6dae86278c73ff4eb83bc57ad7502ae2c051380cbe66a108332bd7
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmON+agACgkQAiE6BJNFfpbpnxAAywyntjHEhSpla7sdPbOcvi8VIOt6e8oGjRA8+Sj1CULwgY7gK1VcPvkUPphTlDw3aT83DDpAQY/nYr6DBU6zBn5iecYy/Sipr6qdJDPqnc8nRvN+2RPiMwFsNQLB0O+PjSHkDAJYT+shDuSf/ASZrS8/TvO6lzAYLSy//4XbQHnf7UdBEokMCWbsm5ODrzog07l4w23tfefCzEV3JAz6/f9fX19eLdd+EEKIdofjnZDqrkcr6l/9h/gzpYdObt8N33fJ+/Lfilz34Etj/jG6wdrQzWyvrVxdOJX15R2tw0qV77LtQh7ha55YAjiIKtYLav8Ku5j/t39pSJysltSmuGJ6I267k9Ig2BlolKC1czuBenTvBxTXkES0hRy+dm1SGFWu4p78a/xNuKzzLSqb7ZtaKPPjG3I5U8jFfPSd1RsoNy2jV2iqf+/TIVCypp1pcN2zsrU4S7CrsHvotZm2swFNoeY1OUqNlDXcCF9qDs3TzoL2t8v/VKtRvUElyTq9uIYF+CpXqiZRhYlv+wFfuMSIbNNOR6m/LMKyQQHiXW/wIqJFmnoODekV3cnqC8X9ubTH5LMontrybJYJTkYVyfxK/92YgbRbzFDL7D64lkYfzt4xKOGNQ+DInLAM3SFGPN1hW656B2IcotrEjX+LuY2W1TrMtn1N4fEj4TCH0No=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmOpKzQACgkQAiE6BJNFfpaE6A/7BB6pkR0dI2vCaXRX1JDGMilDmlvDbHMaCCrU/ksRG622cdbygrha38rOo4geYTPk8v8pzn+Bq42sbpVk3vmAN44YenvYTxsmV97I/kumNb+ipr4xPOT9e/qGxrxqKQEZe4s/4U0NkLCwD5H8NuHYTLvBYmocol2+S9JLIO67lD18ic52YGUu/5mKvXXqCl9zeCIBJhizyBy5JXT2xVV4XdVFtJr9W4VYRkvOzc3dQsmW1ZMgdru4YPMrBTz3LVVlTi/b2a75gIUKjy2h8FC5iXK07IKH4FGDY/qQD03rjLF8SW065AGRxegBnphQrbgPgeVCweAhrvZNzYuh7QIGd0WjK4d8rTJ9XC6O4RX1A4mgmGMCn3xCyqYxQ9plBSZjgVYqMX7spEsLKS9j+zH764i5ipqFUf2d/622x1ItaYJmkDY/ca6rJmL5kZEGrjwgPb1XBBivJFlxC2rkgmLxreiFGVIE1WsisbqZCZSKPANsJk2WFK0GtI//kLwRmSY0uSdmig+72l6h1RnSOiS7AWnSZ7FIiwoOewg4J2QG+TJRiTTkqJUJlnnk/z7ynZsSMiLgcN446BaSn2n4yMvSw6zgTLXHjqk20hiX2N3QSCLPRfRajUv/26HNay7pP68eoAnJqoAjNGkUeOLTUnmQt5W/te7bnxtaJGd+20rvQX0=
 
 %URL%
 https://github.com/ValveSoftware/Proton
@@ -38,16 +38,13 @@ custom
 x86_64
 
 %BUILDDATE%
-1670238943
+1672022838
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
 
-%CONFLICTS%
-proton-native
-
 %PROVIDES%
-proton-native
+proton
 
 %DEPENDS%
 attr

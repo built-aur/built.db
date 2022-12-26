@@ -1329,6 +1329,7 @@ usr/lib/wine/x86_64-windows/api-ms-win-core-memory-l1-1-1.dll
 usr/lib/wine/x86_64-windows/api-ms-win-core-memory-l1-1-2.dll
 usr/lib/wine/x86_64-windows/api-ms-win-core-memory-l1-1-3.dll
 usr/lib/wine/x86_64-windows/api-ms-win-core-memory-l1-1-4.dll
+usr/lib/wine/x86_64-windows/api-ms-win-core-memory-l1-1-6.dll
 usr/lib/wine/x86_64-windows/api-ms-win-core-misc-l1-1-0.dll
 usr/lib/wine/x86_64-windows/api-ms-win-core-namedpipe-ansi-l1-1-0.dll
 usr/lib/wine/x86_64-windows/api-ms-win-core-namedpipe-l1-1-0.dll
@@ -2363,6 +2364,7 @@ usr/lib32/wine/i386-windows/api-ms-win-core-memory-l1-1-1.dll
 usr/lib32/wine/i386-windows/api-ms-win-core-memory-l1-1-2.dll
 usr/lib32/wine/i386-windows/api-ms-win-core-memory-l1-1-3.dll
 usr/lib32/wine/i386-windows/api-ms-win-core-memory-l1-1-4.dll
+usr/lib32/wine/i386-windows/api-ms-win-core-memory-l1-1-6.dll
 usr/lib32/wine/i386-windows/api-ms-win-core-misc-l1-1-0.dll
 usr/lib32/wine/i386-windows/api-ms-win-core-namedpipe-ansi-l1-1-0.dll
 usr/lib32/wine/i386-windows/api-ms-win-core-namedpipe-l1-1-0.dll

@@ -5,13 +5,13 @@ usr/bin/gogdl
 usr/lib/
 usr/lib/python3.10/
 usr/lib/python3.10/site-packages/
-usr/lib/python3.10/site-packages/gogdl-0.4.dist-info/
-usr/lib/python3.10/site-packages/gogdl-0.4.dist-info/LICENSE
-usr/lib/python3.10/site-packages/gogdl-0.4.dist-info/METADATA
-usr/lib/python3.10/site-packages/gogdl-0.4.dist-info/RECORD
-usr/lib/python3.10/site-packages/gogdl-0.4.dist-info/WHEEL
-usr/lib/python3.10/site-packages/gogdl-0.4.dist-info/entry_points.txt
-usr/lib/python3.10/site-packages/gogdl-0.4.dist-info/top_level.txt
+usr/lib/python3.10/site-packages/gogdl-0.6.dist-info/
+usr/lib/python3.10/site-packages/gogdl-0.6.dist-info/LICENSE
+usr/lib/python3.10/site-packages/gogdl-0.6.dist-info/METADATA
+usr/lib/python3.10/site-packages/gogdl-0.6.dist-info/RECORD
+usr/lib/python3.10/site-packages/gogdl-0.6.dist-info/WHEEL
+usr/lib/python3.10/site-packages/gogdl-0.6.dist-info/entry_points.txt
+usr/lib/python3.10/site-packages/gogdl-0.6.dist-info/top_level.txt
 usr/lib/python3.10/site-packages/gogdl/
 usr/lib/python3.10/site-packages/gogdl/__init__.py
 usr/lib/python3.10/site-packages/gogdl/__pycache__/
@@ -29,6 +29,8 @@ usr/lib/python3.10/site-packages/gogdl/__pycache__/imports.cpython-310.opt-1.pyc
 usr/lib/python3.10/site-packages/gogdl/__pycache__/imports.cpython-310.pyc
 usr/lib/python3.10/site-packages/gogdl/__pycache__/launch.cpython-310.opt-1.pyc
 usr/lib/python3.10/site-packages/gogdl/__pycache__/launch.cpython-310.pyc
+usr/lib/python3.10/site-packages/gogdl/__pycache__/process.cpython-310.opt-1.pyc
+usr/lib/python3.10/site-packages/gogdl/__pycache__/process.cpython-310.pyc
 usr/lib/python3.10/site-packages/gogdl/__pycache__/saves.cpython-310.opt-1.pyc
 usr/lib/python3.10/site-packages/gogdl/__pycache__/saves.cpython-310.pyc
 usr/lib/python3.10/site-packages/gogdl/api.py
@@ -60,4 +62,5 @@ usr/lib/python3.10/site-packages/gogdl/dl/progressbar.py
 usr/lib/python3.10/site-packages/gogdl/dl/worker.py
 usr/lib/python3.10/site-packages/gogdl/imports.py
 usr/lib/python3.10/site-packages/gogdl/launch.py
+usr/lib/python3.10/site-packages/gogdl/process.py
 usr/lib/python3.10/site-packages/gogdl/saves.py

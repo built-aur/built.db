@@ -804,6 +804,11 @@ usr/lib/node_modules/pnpm/dist/node_modules/tar/lib/update.js
 usr/lib/node_modules/pnpm/dist/node_modules/tar/lib/warn-mixin.js
 usr/lib/node_modules/pnpm/dist/node_modules/tar/lib/winchars.js
 usr/lib/node_modules/pnpm/dist/node_modules/tar/lib/write-entry.js
+usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/
+usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/
+usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/LICENSE
+usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/index.js
+usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/tar/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/LICENSE

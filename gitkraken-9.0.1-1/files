@@ -76,6 +76,10 @@ opt/gitkraken/resources/app.asar
 opt/gitkraken/resources/app.asar.unpacked/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/keyboard-layout/
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/keyboard-layout/build/
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/keyboard-layout/build/Release/
+opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/keyboard-layout/build/Release/keyboard-layout-manager.node
 opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/@axosoft/nodegit/build/Release/
@@ -99,10 +103,6 @@ opt/gitkraken/resources/app.asar.unpacked/node_modules/font-scanner/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/font-scanner/build/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/font-scanner/build/Release/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/font-scanner/build/Release/fontmanager.node
-opt/gitkraken/resources/app.asar.unpacked/node_modules/keyboard-layout/
-opt/gitkraken/resources/app.asar.unpacked/node_modules/keyboard-layout/build/
-opt/gitkraken/resources/app.asar.unpacked/node_modules/keyboard-layout/build/Release/
-opt/gitkraken/resources/app.asar.unpacked/node_modules/keyboard-layout/build/Release/keyboard-layout-manager.node
 opt/gitkraken/resources/app.asar.unpacked/node_modules/node-pty/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/node-pty/build/
 opt/gitkraken/resources/app.asar.unpacked/node_modules/node-pty/build/Release/

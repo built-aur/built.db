@@ -1473,6 +1473,12 @@ usr/lib/node_modules/@angular/cli/node_modules/cacache/lib/util/move-file.js
 usr/lib/node_modules/@angular/cli/node_modules/cacache/lib/util/tmp.js
 usr/lib/node_modules/@angular/cli/node_modules/cacache/lib/verify.js
 usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/
+usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/fs-minipass/
+usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/fs-minipass/LICENSE
+usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/fs-minipass/README.md
+usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/fs-minipass/lib/
+usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/fs-minipass/lib/index.js
+usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/fs-minipass/package.json
 usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/minipass/
 usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/minipass/LICENSE
 usr/lib/node_modules/@angular/cli/node_modules/cacache/node_modules/minipass/README.md

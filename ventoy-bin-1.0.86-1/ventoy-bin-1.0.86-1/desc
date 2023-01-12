@@ -1,0 +1,62 @@
+%FILENAME%
+ventoy-bin-1.0.86-1-x86_64.pkg.tar.xz
+
+%NAME%
+ventoy-bin
+
+%BASE%
+ventoy-bin
+
+%VERSION%
+1.0.86-1
+
+%DESC%
+A new multiboot USB solution
+
+%CSIZE%
+16179544
+
+%ISIZE%
+18893251
+
+%MD5SUM%
+79ffbefcc6eb04a062b9accdb13cc1cd
+
+%SHA256SUM%
+1319c5f8c26422b4aa2aa99bddb835416e06efda9bb49902c2c967e8608b9315
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmOpD5UACgkQAiE6BJNFfpYeSA/7BphTae1EkpzRYbi0ZlNEnR9tdxdbEVAUf0+4ZCLu4MT5Qj6bEnZNKnpt5VwQkhGB+8oSpyvX2CkIr0mEghpWPrwiAwnp52H5mhAUqsTdusx9nltVjj6U4yncohuyHXWnnUEAQXrjdt1FBCes+sGZxwzyFfbrIqE9FJlHhT0maCfpZHmME+Lhhk2aAUBJ4PwzrQhHstjYRHomJhjCn40Z0HSb7DnPeclaJxr/D76LXj61a0a3J/dq7RVbgSqLWADkhaeh8lrgt3tkaye+i8EvibF2kJLuOVRVwQFUPuLBc8RP8bRFtZZBRKR719meSKryOv+MZrLOCk01gcnHJDwn67+XT22ACj9bcJnoqG82gnRYwZNohPgI/f/X+L63TG8111I4uXdVclHyascdoimnnjsqQLepMlo8k6ctIBKFME2ULo2ydG0+mIwLBiwup+tcAPWUgx0+pEJk/f88oqyhQJGmiqijQRuQ5r+Lh2jjw7nwGA+kEDAFG1vV/9Dx+Bx/+T97TbUFfTR/2bQvkNj8anq4GT6azx9sGo2WRhAFfbFeh6KSBErlV5ku3xyHobfdujJilQMQ5On+nz5LJ+QNui/n5zhiqQjl+XYs78o4J+qCmQXW/8G29sFbEp83y/tvwNuDi2TFYjny++D5H3UKW53uXHVi92U+I0HhAGOCSO4=
+
+%URL%
+http://www.ventoy.net
+
+%LICENSE%
+GPL3
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1672023277
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%CONFLICTS%
+ventoy
+
+%PROVIDES%
+ventoy
+
+%DEPENDS%
+bash
+util-linux
+xz
+dosfstools
+
+%OPTDEPENDS%
+gtk3: GTK3 GUI
+qt5-base: Qt5 GUI
+polkit: run GUI from application menu
+

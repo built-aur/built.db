@@ -1,0 +1,45 @@
+%FILENAME%
+flat-remix-gtk-20220627-1-any.pkg.tar.xz
+
+%NAME%
+flat-remix-gtk
+
+%BASE%
+flat-remix-gtk
+
+%VERSION%
+20220627-1
+
+%DESC%
+Flat Remix GTK theme is a pretty simple gtk window theme inspired on material design following a modern design using "flat" colors with high contrasts and sharp borders.
+
+%CSIZE%
+3818484
+
+%ISIZE%
+76291914
+
+%MD5SUM%
+8a97c9d27991fff680c8e3413db5857d
+
+%SHA256SUM%
+059c7e3c8c6d0b487dcb89756efc75a200d8078d2513acbf8e59a61e165dfb68
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmK56C0ACgkQAiE6BJNFfpZfOBAAn7IaSbox9hJtP3IdzHvxVMeQ8On7O9tupDgNTlK47eLPuve+YPLMJirmxfYS8xSHFqlvOin9ayn0165XTe/VCS2pp39ENJ7zgSbw9C+E0g2vOiRCmpHByq3/chCpr5TtPNaO8hc/bXZVn8Eq4eaDVmjcu4KrJv1KTwMlZxB4jrSv3rLg670W6PFSET7amgjyYG66fIB82ya5AAHA+c3e+dwVa340FTjnUDAxDGORXWY5bCI0C15LYUvxtgIpY+104o9RXojpxTMJ4W87u6sqZbbPaxVBaXH5Fsxo6+H0T+GriL0BY5dgGr2qBXnEA/GU0M4dB8Sg+eE7t+/vl/4WE3BvGjag9DBSYqpALsogkijPq+S7IjCM9FLRGMtYriUkQwA+UFW5mdXYvuD+jTnV+QOHtlPGYmbQ6HNLieFKPOHJckNAG7POaLt+oK0XZnXU/HzF2/f7SmNCIyN4N/aSj+R6rGYjv6KedNtV5g44hApIWz1liY94hSxLOUlLvmmsS8HBX6Cx2uooetgomiVCHKBL3ATIYMa8Zp2DEU9pxGPsNWUKvEpohjsT7w6cQP/xbWQVsO/s0DPqsFqNI4E/kTCOW5p8OiaHSIkbLHsdhGiaO2kYvD7zjac+wPkMsVaVwf3rLreFjb5RGvOsWW4/6zAxynbESnJQGti3KWFSIOc=
+
+%URL%
+https://drasite.com/flat-remix-gtk
+
+%LICENSE%
+GPL 3.0
+
+%ARCH%
+any
+
+%BUILDDATE%
+1656350704
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+

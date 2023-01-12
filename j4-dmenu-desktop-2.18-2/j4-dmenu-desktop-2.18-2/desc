@@ -1,0 +1,56 @@
+%FILENAME%
+j4-dmenu-desktop-2.18-2-any.pkg.tar.xz
+
+%NAME%
+j4-dmenu-desktop
+
+%BASE%
+j4-dmenu-desktop
+
+%VERSION%
+2.18-2
+
+%DESC%
+A much faster replacement for i3-dmenu-desktop. Its purpose is to find .desktop files and offer you a menu to start an application using dmenu.
+
+%CSIZE%
+43872
+
+%ISIZE%
+113008
+
+%MD5SUM%
+8b4cad330e07bff574f70f884d0aff95
+
+%SHA256SUM%
+9836676c2520e2b941371bcd92b4e7a51ef71d1ec0bed1e10e03d4fd735e8c88
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmKgsJwACgkQAiE6BJNFfpbq0A//ctpr3Bz/0wCM7Rk5YrRIA0y5nN8EEDbuXHamtCRnR2NtobOc6R0v1obVKk5qy9+NhtA3+i9L1TL+1Ngd0rdrNqZjSzquCw12ylVegdVT/qYAMvuqHqC8kr1kRoVBJGg7PaOdQoU3lB4v4p565r/4okyJ4sy8sFAEz/1fz3PQYr5OPLfJSN8aLsAnojy290hv1by3yE5Rhx1Hum7OiUOOXpjdwwXvavfqvL5fJN9zfgka9lDqHBIVqXFeHAkjg4nTAfjhbFQVHAPcOOdMYFfxZtXgxtsLKXEHagM4Gw7uiWscRIS1FNA6REcdExs8OCSSZ/HknZhfLlWJWcn5oEGa3byDO5XMdc6JXZ/7mm+59nX0O8/1cTwWvS8cgWrIG4SJMp6rut/0FjTjMdEn4Kx8yT7yDwzLC3N4crk7hrM+P5pjB6rriaGrd6tMSEfSoOhmazDTC4IzRmSEpU0Q8/IxDIdjB7+Xsk+fO8s3ViTImRWfcTik5XfrFAS0w5XPouoSQ1wGRkmsy2sj3cTYDIOO8RlVl26VWIfN+r49ixRkLv0rlB6o00Ur+u4WSSy70aQtxprebqNHHxStOluuqDZQN6D+2osar1RVT9AyI/Phar2ZeXndOEzdjfNn3i4q6MhMY38RsMvZUtTRFLVkLNjA5MDo17k/+sSK0yN91ubzspI=
+
+%URL%
+https://github.com/enkore/j4-dmenu-desktop
+
+%LICENSE%
+GPL3
+
+%ARCH%
+any
+
+%BUILDDATE%
+1654698094
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%CONFLICTS%
+j4-dmenu-desktop-git
+
+%OPTDEPENDS%
+dmenu: install for the default backend
+bemenu: an alternative backend
+
+%MAKEDEPENDS%
+git
+cmake
+

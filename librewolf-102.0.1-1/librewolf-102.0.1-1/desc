@@ -1,0 +1,94 @@
+%FILENAME%
+librewolf-102.0.1-1-x86_64.pkg.tar.xz
+
+%NAME%
+librewolf
+
+%BASE%
+librewolf
+
+%VERSION%
+102.0.1-1
+
+%DESC%
+Community-maintained fork of Firefox, focused on privacy, security and freedom.
+
+%CSIZE%
+61063684
+
+%ISIZE%
+240285597
+
+%MD5SUM%
+f16f74118cd885f9051a143ec217d58b
+
+%SHA256SUM%
+affa52f75c76f7bebf386bd3216a29616333c1678e3f80d9c4fbe637269748d1
+
+%PGPSIG%
+iQIyBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmLLOsEACgkQAiE6BJNFfpbcww/4kBqFOZnN+aUxqQVAznJeSBznqptTGaDyLJWZB6ggQYeZ/AvP4+idTs+0wdL6ykVYDZg+v9sZYH2av6MIJ0RxsCIPt7qBwj9hI9IVJlzcwxlfYiXrD/3HwFAFTjf5HEF1KNebJgxC95XlaIOS3VeWBkFZDJveQQ7g+8w9gH1og3EijTlWLdHMmQaVqD3z0kNbAWzosEJkqv7u/1lGcZwC88ObakkHfZelHMfZ+4J01vaV8TK1/rAd91t51g/F1hoVQmA5jzSbLaSfrhvZ1yJhTy2D1SUnpuntGI6I20hgo0Knk72728WysFoDxWoSHvAiCCSEq3y9EHq5Dl+8bsO9tWt3lr2E4+0kNSdX92c1cBTMh9UwdFJBmsJGnVYn1XEKtlefhiN4cIN/VkW7yYzT0eltBntJPb/X/p0/ph/OmkBvEUsA8NB1pgOfGBrSgSrkhOQpd9QNrGz6jeT2HK0rgTg78YalQ22OcWQn5IidV5LQ5TXLbXXNKn8v8hk2X9UZ3QUTLfGnmgE3Kbs0F6jJYvUr55P3Svj4uY+M73jbK3qZz3SXFdK6b3wP2Mopye1okBPJQuZCQprdImOWXzqxSySCeT1MDC8CV6yNL/KwE3cLmeb/rUjlF6/bVwlJK6aR6WkfWcmyf9TL2vyrABtRklAQ9g5pXddMEmwXBw1ohQ==
+
+%URL%
+https://librewolf.net/
+
+%LICENSE%
+MPL
+GPL
+LGPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1657466756
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%DEPENDS%
+gtk3
+libxt
+mime-types
+dbus-glib
+nss
+ttf-font
+libpulse
+ffmpeg
+
+%OPTDEPENDS%
+networkmanager: Location detection via available WiFi networks
+libnotify: Notification integration
+pulseaudio: Audio support
+speech-dispatcher: Text-to-Speech
+hunspell-en_US: Spell checking, American English
+xdg-desktop-portal: Screensharing with Wayland
+
+%MAKEDEPENDS%
+unzip
+zip
+diffutils
+yasm
+mesa
+imake
+inetutils
+xorg-server-xvfb
+autoconf2.13
+rust
+clang
+llvm
+jack
+nodejs
+cbindgen
+nasm
+python-setuptools
+python-zstandard
+git
+binutils
+lld
+dump_syms
+wasi-compiler-rt
+wasi-libc
+wasi-libc++
+wasi-libc++abi
+pciutils
+

@@ -1,0 +1,63 @@
+%FILENAME%
+cling-0.9-3-x86_64.pkg.tar.xz
+
+%NAME%
+cling
+
+%BASE%
+cling
+
+%VERSION%
+0.9-3
+
+%DESC%
+Interactive C++ interpreter, built on the top of LLVM and Clang libraries
+
+%CSIZE%
+221564732
+
+%ISIZE%
+957125890
+
+%MD5SUM%
+738a7fe199387ffedcd159e16ffa3c03
+
+%SHA256SUM%
+c1edc1e4a1d0aeb2054cd17ae76969794f9ad334c9f2df0418366ef7da1f6e86
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmKIG1sACgkQAiE6BJNFfpb1Lg//c9DpY6lcLBNnKvAM57aXQ+7rswA+szTHxk+BGsSeBNkplFHCugLWcHXPRVrM7NozmcyuFsf9ieU6Xo3n8PUlr22KmzwfBrVYuPiXNqtJRgq8zuTGEgImi74u0SNyTHnL0T033n3aZDOFO/Y1/J+W8SmpIdYOTvO1uID9Zbq+RlSrwFOpy1+8DRNGKCa4PyofLowEqU5nte4H/on9FJxTccYAExaX59emSan7JgNcY6YiUwpSKy0Y9D/6R22L64xBGbxehqylySW2rjpgAfN3VEU3D9KoHuEx75UVrpE+0UIygxpqeODrLMnxTY7FUkTQ09hlnukIzLevNdyZwWC4OiOTwFrid0uP/2Y08yD7ieSWuMemL0QO7RWlKlwwH3tghCnYrczfUXMBZqJWq1Runm9Uxle/mjcDr8IQC2SnDP+fu8JLdI4J3ZOTQCAAbwrlQFOzayxj3xc/GkxH5RfWXtgeVJ5QmY3Akua4SXW3T/QKG/YELqLK+My+S2C/hXaew7PCILM0AS1kBI4B09yymRZLNnAUIqPxjd3qzF69YtZw1sF/T3SXZTmZQnP2L+ZY2DgGJLq/sjCbTOdhU7786FZGhOVM2x1ARHPWkxCeNVbr3QBLkfu8IXk6ZKYJixPfszxYlQotOTg3DP2UsB1IXLJDrHrvVIxFGW24DFxHriw=
+
+%URL%
+https://root.cern.ch/cling
+
+%LICENSE%
+custom:Cling Release License
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1653080144
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%CONFLICTS%
+cling
+
+%PROVIDES%
+cling
+
+%DEPENDS%
+libxml2
+
+%OPTDEPENDS%
+python2: support for scan-view and Jupyter
+perl: support for scan-build, ccc-analyzer and c++-analyzer
+
+%MAKEDEPENDS%
+git
+cmake
+python2
+

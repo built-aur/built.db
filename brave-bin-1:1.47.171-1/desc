@@ -1,0 +1,66 @@
+%FILENAME%
+brave-bin-1_1.47.171-1-x86_64.pkg.tar.xz
+
+%NAME%
+brave-bin
+
+%BASE%
+brave-bin
+
+%VERSION%
+1:1.47.171-1
+
+%DESC%
+Web browser that blocks ads and trackers by default (binary release)
+
+%CSIZE%
+112011396
+
+%ISIZE%
+330125796
+
+%MD5SUM%
+e3cfd53dc212a847e1486937106f13f7
+
+%SHA256SUM%
+2266aba64bb891035617e36345a86ba54b7a80c42290fe0ffbe5f06c408810b8
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmPAh9EACgkQAiE6BJNFfpZ/3A/+Kf2qqjGqh5Kr9UfxUH1acAYHbJ8y6K9f/60PVHG9/2zmfbT70e78hCDx82PKeH6FuQmG3NWs8epGeOkWofOldy1Xp7PjnF259fS49QrnlAieK0X9mMKkpsqI40DhrDSjtms7GmFv7H3bKsuI2wbV6VqbtOTWRvwT24+qsw776dYtCD8A68mQ3sWUzj+sHpN60w0KbN1dpFEr/Xp7mWbZWs3VfVqpyWf0zd4qmZt80EiOEHrtHb9xs1a924ny8ZAhdiSobRvtYIT35fdLUG+FsK23yov0wuizDBLzd3nfnOF16IunEhuc0Xv3tjiQ7dsY8K/kuwTklrysq+wju+xfiX7NGXswISry1EpmtwdaP1gV8ealRW/+vifyxL7ibZ99ci0/i37788BqSlgsTQN4tjlCQ2A38FGICk9CWaqmB93B/NmeOzuXQ7Ws3lZWfoI9YuOfzTse1SEBVYfCNiLI8O2SYnhuuLDpCRpxHgieU1tRjr77icm7bl5iK0UFyW8vUC7no+eX7iJ6bDbm+c0FaM/7lEPezpum0ExJFRjtA9V+AIv144yellcfqpUGtt0gysGcdcIlO4Z3PDuyxp4QIRvi7jv5dX6Ux3WhizKFNJKvCUKwOVfaTc16SY2U39ManRDPiTipau0Xo3/vzrazPucshStXYo/DmLyW7JglRvM=
+
+%URL%
+https://brave.com
+
+%LICENSE%
+MPL2
+BSD
+custom:chromium
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1673561869
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%CONFLICTS%
+brave
+
+%PROVIDES%
+brave=1.47.171
+brave-browser
+
+%DEPENDS%
+alsa-lib
+gtk3
+libxss
+nss
+ttf-font
+
+%OPTDEPENDS%
+cups: Printer support
+libgnome-keyring: Enable GNOME keyring support
+libnotify: Native notification support
+

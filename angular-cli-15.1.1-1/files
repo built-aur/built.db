@@ -10919,6 +10919,7 @@ usr/lib/node_modules/@angular/cli/src/commands/make-this-awesome/cli.js
 usr/lib/node_modules/@angular/cli/src/commands/new/
 usr/lib/node_modules/@angular/cli/src/commands/new/cli.d.ts
 usr/lib/node_modules/@angular/cli/src/commands/new/cli.js
+usr/lib/node_modules/@angular/cli/src/commands/new/long-description.md
 usr/lib/node_modules/@angular/cli/src/commands/run/
 usr/lib/node_modules/@angular/cli/src/commands/run/cli.d.ts
 usr/lib/node_modules/@angular/cli/src/commands/run/cli.js

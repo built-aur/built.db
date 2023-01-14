@@ -21,12 +21,11 @@ usr/lib/node_modules/assemblyscript/dist/assemblyscript.d.ts
 usr/lib/node_modules/assemblyscript/dist/assemblyscript.generated.d.ts
 usr/lib/node_modules/assemblyscript/dist/assemblyscript.js
 usr/lib/node_modules/assemblyscript/dist/assemblyscript.js.map
-usr/lib/node_modules/assemblyscript/dist/importmap.js
 usr/lib/node_modules/assemblyscript/dist/importmap.json
 usr/lib/node_modules/assemblyscript/dist/transform.cjs
 usr/lib/node_modules/assemblyscript/dist/transform.d.ts
 usr/lib/node_modules/assemblyscript/dist/transform.js
-usr/lib/node_modules/assemblyscript/dist/web.html
+usr/lib/node_modules/assemblyscript/dist/web.js
 usr/lib/node_modules/assemblyscript/lib/
 usr/lib/node_modules/assemblyscript/lib/README.md
 usr/lib/node_modules/assemblyscript/lib/binaryen.d.ts

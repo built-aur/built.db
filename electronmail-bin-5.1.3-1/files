@@ -104,7 +104,6 @@ opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/binding.
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/build/
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/build/Release/
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/build/Release/.forge-meta
-opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/build/Release/sodium.node
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/example.js
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/index.js
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/macros.h
@@ -113,6 +112,19 @@ opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/modules/
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/modules/crypto_tweak/tweak.c
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/modules/crypto_tweak/tweak.h
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/package.json
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/darwin-arm64/
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/darwin-arm64/node.napi.node
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/darwin-x64/
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/darwin-x64/node.napi.node
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/linux-arm64/
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/linux-arm64/node.napi.node
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/linux-x64/
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/linux-x64/node.napi.node
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/win32-ia32/
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/win32-ia32/node.napi.node
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/win32-x64/
+opt/ElectronMail/resources/app.asar.unpacked/node_modules/sodium-native/prebuilds/win32-x64/node.napi.node
 opt/ElectronMail/snapshot_blob.bin
 opt/ElectronMail/v8_context_snapshot.bin
 opt/ElectronMail/vk_swiftshader_icd.json

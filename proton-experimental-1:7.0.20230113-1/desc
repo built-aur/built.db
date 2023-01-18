@@ -1,35 +1,35 @@
 %FILENAME%
-proton-ge-custom-2_GE.Proton7.43-4-x86_64.pkg.tar.xz
+proton-experimental-1_7.0.20230113-1-x86_64.pkg.tar.xz
 
 %NAME%
-proton-ge-custom
+proton-experimental
 
 %BASE%
-proton-ge-custom
+proton-experimental
 
 %VERSION%
-2:GE.Proton7.43-4
+1:7.0.20230113-1
 
 %DESC%
-Compatibility tool for Steam Play based on Wine and additional components, GloriousEggroll's custom build
+Compatibility tool for Steam Play based on Wine and additional components, experimental branch
 
 %CSIZE%
-259630652
+251563388
 
 %ISIZE%
-1084142636
+1049069807
 
 %MD5SUM%
-e92aa0d6fc2bbbe952714700eaa5fa88
+4f9211ca68fc87c25309d74ca7f2b7a8
 
 %SHA256SUM%
-99f3273f232593e865145961331797b7ac91b43b489e564ca73a9bf946e2aec3
+3878e44bbf5d925cf511c82757355c63b547a948748e65cca3c76ef4f1292889
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmOpKdcACgkQAiE6BJNFfpaPHxAAjb7sbXb8x02+fzOZE7H5yejcnh+/fbKehrVvHXb6GB52Z76eIyiMN/upXm+MzA4FJn/DehS4IOLAlfGfFBPiUkJtZdHXTbmCcNf8pDwvfa5rQsd/S6qa5OoyUXotcZQnHgS3TRN1uldjpdbnpMn7fzxVkB7mF2xlgnbhjEp6iFrkZSD3J7tuF/tcxJKMYh0X4693mM/+bodY8MsDFlWQpVaEsscCw8LsBUyADN0+80nIrqw+HSljo4z2uM/Mubu/N0gYfP02NeWncD6nwCuuT+qY9W1jaeJHuFqBpidiRosDoX5YEbHL1MCO0YfuUQi8BLNKojzEdqqktk5p9DLouE1B2EInguj3H5lGcGOJtfWaQRp0UTj0T5HPyBe86NbQ6z+MnzxxdRn2zuFtFqHlDRZNI77I2yIRKeqXU+nmOF3NggtNJV6xOba6mjBw0PzU1CJfm0XpKosut3tBSEH/FedTILoZgy8w64Kjju8CZNIL3D098ox//wIXS3/ss7I45dPdjepwsBHs8DDM7DNXqRaz0B+l4/E7HfS/4SCoNuKTUlcjXUjKN+WuN7DJfk51qForOVIwOJV5UrBM1TkEfMO0zFlF16X742AR6NyCocQ6CXYE/fBl6Fh1Q4HSn16muqlE8I8ZwpXz2HZUO+/6kKWfmX5cDtb3A52o9t/bV2Y=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmPHSHoACgkQAiE6BJNFfpaYMg//dShwJ6g1C8EAq6+HSwJMA6SlytTlRJuBSq2+AB+FURWYYqsoTOGXfTv+snVxu3vmQLmLg5jaHY9p6xz1Wxj9GXYWoNHHf4/dciBo6fRQNsOpaBty2iL4hqDB3UyGZfrfXqlRj3/p0fbZe28peMd6DOAufLCBRoJ2A64/46x4FyAEYe+wk+n0ODl166G/+yROSfoZGgjJsXPXBH6FlZgRO1oWpkKvq5qlHeN7mMbT7FtgjuPd18rtmxD9e5v1SEmGfhgMYlccMm1Pf4SetDFTWwxorvZp7CS1GLm3dVrekmyyK5QTh3FBJgYgUi3xiWLwB+Ebi0guhaVZvd7cCXe1BLlAe3M1eDatxFJUtyVmaRZnC6GUyZNAx3BlS+CV9blnalm8il2VpeY2ZSeHzYsMszqwSXZaWIHxkkCQc68LxIWbs0uZlvag+BI/rb3LwXiKcOgvQGa+vKqF6yHdL+NgQLxnUxe6FZXBmj17qFRFFImD8chTLJQYN9YqtetJK52E52h3Hp6szcvJyYUrmPVECA9TjXYcqUTKFXOyA8nAZdfCpL9VraQghCeTu9vYCRx9cmXPrv+HOGEJXSpUCknDm2Hf4eMExxincNDz+1lzlb7c0kWgS/2Qb2e5MEWGtplWZiNUaiw+CR2BhtPo3sjuQV1tSeIHIRxgjgfjvHm0phw=
 
 %URL%
-https://github.com/GloriousEggroll/proton-ge-custom
+https://github.com/ValveSoftware/Proton
 
 %LICENSE%
 custom
@@ -38,7 +38,7 @@ custom
 x86_64
 
 %BUILDDATE%
-1672022888
+1673997514
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
@@ -90,7 +90,6 @@ lib32-libgudev
 desktop-file-utils
 python
 steam-native-runtime
-cabextract
 
 %OPTDEPENDS%
 giflib
@@ -251,5 +250,4 @@ lib32-libgudev
 desktop-file-utils
 python
 steam-native-runtime
-cabextract
 

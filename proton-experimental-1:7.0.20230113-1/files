@@ -768,6 +768,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-win
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msado15.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msadp32.acm
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msasn1.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msauddecmft.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/mscat32.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/mscms.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/mscoree.dll
@@ -797,6 +798,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-win
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msisip.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msisys.ocx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msls31.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msmpeg2vdec.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msnet32.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/mspatcha.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/i386-windows/msports.dll
@@ -1935,6 +1937,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msado15.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msadp32.acm
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msasn1.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msauddecmft.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/mscat32.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/mscms.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/mscoree.dll
@@ -1964,6 +1967,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msisip.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msisys.ocx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msls31.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msmpeg2vdec.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msnet32.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/mspatcha.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-windows/msports.dll
@@ -2436,7 +2440,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/a582.msi
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/76e3.msi
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/
@@ -3217,6 +3221,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msacm32.drv
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msadp32.acm
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msasn1.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msauddecmft.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/mscat32.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/mscms.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/mscoree.dll
@@ -3243,6 +3248,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msisip.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msisys.ocx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msls31.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msmpeg2vdec.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msnet32.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/mspatcha.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/system32/msports.dll
@@ -4268,6 +4274,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msacm32.drv
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msadp32.acm
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msasn1.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msauddecmft.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/mscat32.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/mscms.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/mscoree.dll
@@ -4294,6 +4301,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msisip.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msisys.ocx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msls31.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msmpeg2vdec.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msnet32.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/mspatcha.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/syswow64/msports.dll

@@ -25011,6 +25011,7 @@ usr/lib/node_modules/netlify-cli/src/utils/redirects.mjs
 usr/lib/node_modules/netlify-cli/src/utils/rules-proxy.mjs
 usr/lib/node_modules/netlify-cli/src/utils/run-build.mjs
 usr/lib/node_modules/netlify-cli/src/utils/shell.mjs
+usr/lib/node_modules/netlify-cli/src/utils/sign-redirect.mjs
 usr/lib/node_modules/netlify-cli/src/utils/sites/
 usr/lib/node_modules/netlify-cli/src/utils/sites/utils.mjs
 usr/lib/node_modules/netlify-cli/src/utils/state-config.mjs

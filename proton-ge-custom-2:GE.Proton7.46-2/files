@@ -937,6 +937,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-window
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msado15.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msadp32.acm
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msasn1.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msauddecmft.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/mscat32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/mscms.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/mscoree.dll
@@ -966,6 +967,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-window
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msisip.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msisys.ocx
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msls31.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msmpeg2vdec.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msnet32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/mspatcha.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/msports.dll
@@ -2282,6 +2284,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-wi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msado15.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msadp32.acm
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msasn1.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msauddecmft.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/mscat32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/mscms.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/mscoree.dll
@@ -2311,6 +2314,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-wi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msisip.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msisys.ocx
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msls31.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msmpeg2vdec.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msnet32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/mspatcha.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/msports.dll
@@ -2788,7 +2792,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/41e.msi
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/462.msi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/
@@ -3574,6 +3578,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msacm32.drv
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msadp32.acm
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msasn1.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msauddecmft.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/mscat32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/mscms.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/mscoree.dll
@@ -3600,6 +3605,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msisip.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msisys.ocx
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msls31.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msmpeg2vdec.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msnet32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/mspatcha.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/msports.dll
@@ -4633,6 +4639,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msacm32.drv
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msadp32.acm
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msasn1.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msauddecmft.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/mscat32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/mscms.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/mscoree.dll
@@ -4659,6 +4666,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msisip.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msisys.ocx
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msls31.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msmpeg2vdec.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msnet32.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/mspatcha.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/msports.dll
@@ -8814,6 +8822,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1151
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1172380.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1174180.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1175730.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1205520.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/12210.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1222370.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/12360.py
@@ -8835,6 +8844,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1574
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1613450.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1659420.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1664350.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/16700.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/16810.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1695791.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/1695793.py
@@ -8899,6 +8909,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/3485
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/35130.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/35140.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/356500.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/356910.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/3590.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/359550.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/359870.py
@@ -8916,6 +8927,8 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/3951
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/39690.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/397540.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/40800.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/40950.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/40970.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/409720.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/410900.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/424840.py
@@ -8929,6 +8942,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/4470
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/45750.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/46500.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/465280.py
+usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/48190.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/489830.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/49520.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/495420.py

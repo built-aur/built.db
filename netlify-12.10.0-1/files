@@ -196,6 +196,7 @@ usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/lib/test/derecursify
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/lib/test/es-utils.test.ts
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/lib/test/extract-object.test.ts
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/lib/test/feature-flag-delegate.test.ts
+usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/lib/test/json-payload.test.ts
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/lib/test/validators.test.ts
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/lib/validators/
 usr/lib/node_modules/netlify-cli/node_modules/@bugsnag/core/lib/validators/int-range.js

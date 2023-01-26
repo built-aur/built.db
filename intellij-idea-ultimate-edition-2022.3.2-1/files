@@ -80,7 +80,7 @@ opt/intellij-idea-ultimate-edition/lib/ant/src.zip
 opt/intellij-idea-ultimate-edition/lib/app.jar
 opt/intellij-idea-ultimate-edition/lib/async-profiler-windows.jar
 opt/intellij-idea-ultimate-edition/lib/async-profiler.jar
-opt/intellij-idea-ultimate-edition/lib/build-marker-IU-223.8214.52
+opt/intellij-idea-ultimate-edition/lib/build-marker-IU-223.8617.56
 opt/intellij-idea-ultimate-edition/lib/byte-buddy-agent.jar
 opt/intellij-idea-ultimate-edition/lib/cds/
 opt/intellij-idea-ultimate-edition/lib/cds/classesLogAgent.jar
@@ -223,6 +223,7 @@ opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/allopen-compiler-p
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/android-extensions-compiler.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/android-extensions-runtime.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/annotations-13.0.jar
+opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/assignment-compiler-plugin.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/js.engines.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/jvm-abi-gen.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-annotation-processing-cli.jar
@@ -304,7 +305,6 @@ opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/license/third_party/lo
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/license/third_party/maven_LICENSE.txt
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/license/third_party/mocha-teamcity-reporter_LICENSE.txt
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/license/third_party/okhttp_license.txt
-opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/license/third_party/pcollections_LICENSE.txt
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/license/third_party/prototype_license.txt
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/license/third_party/qunit_license.txt
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/license/third_party/rhino_LICENSE.txt
@@ -1128,8 +1128,8 @@ opt/intellij-idea-ultimate-edition/plugins/javascript-impl/helpers/vitest-intell
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/helpers/vitest-intellij/vitest-intellij-reporter.js
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/helpers/vitest-intellij/vitest-intellij-util.js
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/
-opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/js-predefined-ffdd448c697d-4c0166cd7e21.ijx
-opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/js-predefined-ffdd448c697d-4c0166cd7e21.txt
+opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/js-predefined-ffdd448c697d-ba3f29a498ec.ijx
+opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/js-predefined-ffdd448c697d-ba3f29a498ec.txt
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/jsLanguageServicesImpl/
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/jsLanguageServicesImpl/external/
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/jsLanguageServicesImpl/external/browser.d.ts
@@ -1255,6 +1255,7 @@ opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslin
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/bin/eslint-plugin-provider.js
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/bin/eslint-plugin.js
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/bin/eslint8-plugin.js
+opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/bin/standard17-plugin.js
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/package-lock.json
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/package.json
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/src/
@@ -1263,6 +1264,7 @@ opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslin
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/src/eslint-plugin-provider.ts
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/src/eslint-plugin.ts
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/src/eslint8-plugin.ts
+opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/src/standard17-plugin.ts
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/src/typings/
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/src/typings/js-lanuage-api.d.ts
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/languageService/eslint/tsconfig.json

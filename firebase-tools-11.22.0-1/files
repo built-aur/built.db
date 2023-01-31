@@ -218,6 +218,8 @@ usr/lib/node_modules/firebase-tools/lib/deploy/functions/runtimes/node/parseTrig
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/runtimes/node/triggerParser.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/runtimes/node/validate.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/runtimes/node/versioning.js
+usr/lib/node_modules/firebase-tools/lib/deploy/functions/runtimes/python/
+usr/lib/node_modules/firebase-tools/lib/deploy/functions/runtimes/python/index.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/auth.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/database.js
@@ -398,6 +400,10 @@ usr/lib/node_modules/firebase-tools/lib/frameworks/next/interfaces.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/next/utils.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/nuxt/
 usr/lib/node_modules/firebase-tools/lib/frameworks/nuxt/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/nuxt/interfaces.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/nuxt/utils.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/nuxt2/
+usr/lib/node_modules/firebase-tools/lib/frameworks/nuxt2/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/preact/
 usr/lib/node_modules/firebase-tools/lib/frameworks/preact/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/react/
@@ -420,6 +426,7 @@ usr/lib/node_modules/firebase-tools/lib/functions/events/v1.js
 usr/lib/node_modules/firebase-tools/lib/functions/events/v2.js
 usr/lib/node_modules/firebase-tools/lib/functions/functionslog.js
 usr/lib/node_modules/firebase-tools/lib/functions/projectConfig.js
+usr/lib/node_modules/firebase-tools/lib/functions/python.js
 usr/lib/node_modules/firebase-tools/lib/functions/runtimeConfigExport.js
 usr/lib/node_modules/firebase-tools/lib/functions/secrets.js
 usr/lib/node_modules/firebase-tools/lib/functionsConfig.js
@@ -1549,6 +1556,14 @@ usr/lib/node_modules/firebase-tools/node_modules/@jsdevtools/ono/esm/types.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/@jsdevtools/ono/esm/types.js
 usr/lib/node_modules/firebase-tools/node_modules/@jsdevtools/ono/esm/types.js.map
 usr/lib/node_modules/firebase-tools/node_modules/@jsdevtools/ono/package.json
+usr/lib/node_modules/firebase-tools/node_modules/@jsdoc/
+usr/lib/node_modules/firebase-tools/node_modules/@jsdoc/salty/
+usr/lib/node_modules/firebase-tools/node_modules/@jsdoc/salty/LICENSE
+usr/lib/node_modules/firebase-tools/node_modules/@jsdoc/salty/README.md
+usr/lib/node_modules/firebase-tools/node_modules/@jsdoc/salty/index.js
+usr/lib/node_modules/firebase-tools/node_modules/@jsdoc/salty/lib/
+usr/lib/node_modules/firebase-tools/node_modules/@jsdoc/salty/lib/salty.js
+usr/lib/node_modules/firebase-tools/node_modules/@jsdoc/salty/package.json
 usr/lib/node_modules/firebase-tools/node_modules/@npmcli/
 usr/lib/node_modules/firebase-tools/node_modules/@npmcli/fs/
 usr/lib/node_modules/firebase-tools/node_modules/@npmcli/fs/LICENSE.md
@@ -14519,10 +14534,6 @@ usr/lib/node_modules/firebase-tools/node_modules/supports-hyperlinks/index.js
 usr/lib/node_modules/firebase-tools/node_modules/supports-hyperlinks/license
 usr/lib/node_modules/firebase-tools/node_modules/supports-hyperlinks/package.json
 usr/lib/node_modules/firebase-tools/node_modules/supports-hyperlinks/readme.md
-usr/lib/node_modules/firebase-tools/node_modules/taffydb/
-usr/lib/node_modules/firebase-tools/node_modules/taffydb/package.json
-usr/lib/node_modules/firebase-tools/node_modules/taffydb/taffy-test.html
-usr/lib/node_modules/firebase-tools/node_modules/taffydb/taffy.js
 usr/lib/node_modules/firebase-tools/node_modules/tar-stream/
 usr/lib/node_modules/firebase-tools/node_modules/tar-stream/LICENSE
 usr/lib/node_modules/firebase-tools/node_modules/tar-stream/README.md

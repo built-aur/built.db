@@ -135,6 +135,9 @@ usr/share/applications/
 usr/share/applications/heroic.desktop
 usr/share/icons/
 usr/share/icons/hicolor/
+usr/share/icons/hicolor/1024x1024/
+usr/share/icons/hicolor/1024x1024/apps/
+usr/share/icons/hicolor/1024x1024/apps/heroic.png
 usr/share/icons/hicolor/128x128/
 usr/share/icons/hicolor/128x128/apps/
 usr/share/icons/hicolor/128x128/apps/heroic.png
@@ -150,6 +153,9 @@ usr/share/icons/hicolor/32x32/apps/heroic.png
 usr/share/icons/hicolor/48x48/
 usr/share/icons/hicolor/48x48/apps/
 usr/share/icons/hicolor/48x48/apps/heroic.png
+usr/share/icons/hicolor/512x512/
+usr/share/icons/hicolor/512x512/apps/
+usr/share/icons/hicolor/512x512/apps/heroic.png
 usr/share/icons/hicolor/64x64/
 usr/share/icons/hicolor/64x64/apps/
 usr/share/icons/hicolor/64x64/apps/heroic.png

@@ -5,6 +5,8 @@ opt/onlyoffice/desktopeditors/
 opt/onlyoffice/desktopeditors/3DPARTYLICENSE
 opt/onlyoffice/desktopeditors/DesktopEditors
 opt/onlyoffice/desktopeditors/LICENSE.htm
+opt/onlyoffice/desktopeditors/app/
+opt/onlyoffice/desktopeditors/app/onlyoffice-desktopeditors.desktop
 opt/onlyoffice/desktopeditors/asc-de-128.png
 opt/onlyoffice/desktopeditors/asc-de-16.png
 opt/onlyoffice/desktopeditors/asc-de-24.png
@@ -21,6 +23,7 @@ opt/onlyoffice/desktopeditors/cef_100_percent.pak
 opt/onlyoffice/desktopeditors/cef_200_percent.pak
 opt/onlyoffice/desktopeditors/cef_extensions.pak
 opt/onlyoffice/desktopeditors/chrome-sandbox
+opt/onlyoffice/desktopeditors/cmap.bin
 opt/onlyoffice/desktopeditors/converter/
 opt/onlyoffice/desktopeditors/converter/.system/
 opt/onlyoffice/desktopeditors/converter/.system/check.sh
@@ -127,8 +130,7 @@ opt/onlyoffice/desktopeditors/converter/libEpubFile.so
 opt/onlyoffice/desktopeditors/converter/libFb2File.so
 opt/onlyoffice/desktopeditors/converter/libHtmlFile2.so
 opt/onlyoffice/desktopeditors/converter/libHtmlRenderer.so
-opt/onlyoffice/desktopeditors/converter/libPdfReader.so
-opt/onlyoffice/desktopeditors/converter/libPdfWriter.so
+opt/onlyoffice/desktopeditors/converter/libPdfFile.so
 opt/onlyoffice/desktopeditors/converter/libUnicodeConverter.so
 opt/onlyoffice/desktopeditors/converter/libXpsFile.so
 opt/onlyoffice/desktopeditors/converter/libdoctrenderer.so
@@ -1358,6 +1360,8 @@ opt/onlyoffice/desktopeditors/editors/sdkjs/common/Native/
 opt/onlyoffice/desktopeditors/editors/sdkjs/common/Native/jquery_native.js
 opt/onlyoffice/desktopeditors/editors/sdkjs/common/Native/native.js
 opt/onlyoffice/desktopeditors/editors/sdkjs/common/Native/native_graphics.js
+opt/onlyoffice/desktopeditors/editors/sdkjs/common/SmartArts/
+opt/onlyoffice/desktopeditors/editors/sdkjs/common/SmartArts/SmartArts.bin
 opt/onlyoffice/desktopeditors/editors/sdkjs/common/hash/
 opt/onlyoffice/desktopeditors/editors/sdkjs/common/hash/hash/
 opt/onlyoffice/desktopeditors/editors/sdkjs/common/hash/hash/engine.js
@@ -1383,8 +1387,8 @@ opt/onlyoffice/desktopeditors/editors/sdkjs/common/zlib/engine/zlib_ie.js
 opt/onlyoffice/desktopeditors/editors/sdkjs/pdf/
 opt/onlyoffice/desktopeditors/editors/sdkjs/pdf/src/
 opt/onlyoffice/desktopeditors/editors/sdkjs/pdf/src/engine/
+opt/onlyoffice/desktopeditors/editors/sdkjs/pdf/src/engine/cmap.bin
 opt/onlyoffice/desktopeditors/editors/sdkjs/pdf/src/engine/drawingfile.js
-opt/onlyoffice/desktopeditors/editors/sdkjs/pdf/src/engine/drawingfile.js.mem
 opt/onlyoffice/desktopeditors/editors/sdkjs/pdf/src/engine/drawingfile.wasm
 opt/onlyoffice/desktopeditors/editors/sdkjs/pdf/src/engine/drawingfile_ie.js
 opt/onlyoffice/desktopeditors/editors/sdkjs/slide/
@@ -1512,6 +1516,7 @@ opt/onlyoffice/desktopeditors/editors/web-apps/apps/api/documents/resources/temp
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/api/documents/resources/templates/list.png
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/api/documents/resources/templates/plan.png
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/api/wopi/
+opt/onlyoffice/desktopeditors/editors/web-apps/apps/api/wopi/convert-and-edit-wopi.ejs
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/api/wopi/editor-wopi.ejs
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/embed/
@@ -1757,6 +1762,7 @@ opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/main/resources/img/to
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/main/resources/img/toolbar/bullets-and-numbering@1.5x.png
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/main/resources/img/toolbar/bullets-and-numbering@2x.png
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/main/resources/img/toolbar/charttypes.svg
+opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/main/resources/img/toolbar/equationicons.svg
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/main/resources/img/toolbar/math.png
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/main/resources/img/toolbar/math@1.25x.png
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/common/main/resources/img/toolbar/math@1.5x.png
@@ -1860,6 +1866,7 @@ opt/onlyoffice/desktopeditors/editors/web-apps/apps/documenteditor/main/resource
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/documenteditor/main/resources/img/blank.svg
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/documenteditor/main/resources/img/favicon.ico
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/documenteditor/main/resources/img/file-template.svg
+opt/onlyoffice/desktopeditors/editors/web-apps/apps/documenteditor/main/resources/img/form-points.svg
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/documenteditor/main/resources/img/iconsbig.png
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/documenteditor/main/resources/img/iconsbig@1.25x.png
 opt/onlyoffice/desktopeditors/editors/web-apps/apps/documenteditor/main/resources/img/iconsbig@1.5x.png
@@ -2115,8 +2122,8 @@ opt/onlyoffice/desktopeditors/editors/web-apps/vendor/megapixel/
 opt/onlyoffice/desktopeditors/editors/web-apps/vendor/megapixel/megapix-image-min.js
 opt/onlyoffice/desktopeditors/editors/web-apps/vendor/requirejs/
 opt/onlyoffice/desktopeditors/editors/web-apps/vendor/requirejs/require.js
-opt/onlyoffice/desktopeditors/editors/web-apps/vendor/sockjs/
-opt/onlyoffice/desktopeditors/editors/web-apps/vendor/sockjs/sockjs.min.js
+opt/onlyoffice/desktopeditors/editors/web-apps/vendor/socketio/
+opt/onlyoffice/desktopeditors/editors/web-apps/vendor/socketio/socket.io.min.js
 opt/onlyoffice/desktopeditors/editors/web-apps/vendor/underscore/
 opt/onlyoffice/desktopeditors/editors/web-apps/vendor/underscore/underscore-min.js
 opt/onlyoffice/desktopeditors/editors/web-apps/vendor/xregexp/

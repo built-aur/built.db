@@ -10,8 +10,8 @@ usr/lib/heroic-games-launcher/resources/app.asar
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/
-usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/App.1a4bce42.css
-usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/App.2da5ea19.js
+usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/App.1b037222.css
+usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/App.52a661cb.js
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/NotoColorEmoji.subset.8d55ce90.ttf
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/PS5_Circle.2a328b65.png
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/PS5_Cross.fcc46fba.png
@@ -35,9 +35,9 @@ usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/gog-logo.
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/heroic-icon.71786513.svg
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/heroic_card.1b4786a1.jpg
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/index.1c7698cd.css
-usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/index.3328cd5e.js
-usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/index.62d27719.js
-usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/index.b877aa32.css
+usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/index.465cfdce.css
+usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/index.4f0c5301.js
+usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/index.ad004746.js
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/info_icon.0d3a4abd.svg
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/login-background-1536x864.777be35d.jpg
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/assets/play-icon.d36a81b4.svg
@@ -58,8 +58,8 @@ usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/bin/linux/gogdl
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/bin/linux/legendary
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/dmg.png
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/electron/
-usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/electron/index.235bcc43.js
-usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/electron/main.4f25a47e.js
+usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/electron/index.0d8478cf.js
+usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/electron/main.e522573a.js
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/electron/main.js
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/electron/preload.js
 usr/lib/heroic-games-launcher/resources/app.asar.unpacked/build/icon-dark.png

@@ -1,0 +1,56 @@
+%FILENAME%
+android-sdk-cmdline-tools-latest-9.0-1-x86_64.pkg.tar.xz
+
+%NAME%
+android-sdk-cmdline-tools-latest
+
+%BASE%
+android-sdk-cmdline-tools-latest
+
+%VERSION%
+9.0-1
+
+%DESC%
+Android SDK Command-line Tools (latest)
+
+%CSIZE%
+114032324
+
+%ISIZE%
+133486979
+
+%MD5SUM%
+d1b6b3fde80fbd92330502c66d001bdf
+
+%SHA256SUM%
+4cb94761d858176a65a37c2cf6336865cdae81b2f688580cc833372d1550f457
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmPkyIgACgkQAiE6BJNFfpbUGhAArWLBVKC+FOZtjvi0ALplTjE/xTiF831wO68ZIujGIy6INfPAvAL+nAu5fHQDXxZ1KHld5F0CoRhRIkt4a+szCIGCv1sUcoXhLc0hiNy5t0gI++W9/Q0RT/M0ZAVTSKKRiZDV7DnWb+PtAT3xzXrI3sgA4zsXtE+kwwNseV2Oy1g0tuf2DlKIuTTpxWnJ7urAO313Zcy5tVMwhxYLiT0o2mfns4h95fZAIEcY03rGQ9OlXoq5LgK/k3vNJqpCzNFBvrXUWAMLv+tOYMowG03+GL+4C3K6Oy+ehO3gla4LXXfr+T1jl6sJn+f067sD7Bm/gwyOJqsW9rpYP/eY0qVojDLOfUZ1l0rCTIbL9OBzFsGKgcqa6nkYgg8IgU5q5M+xSQHGLyw+WWX1yqoGtgnBxBPKiEQRe/Z3M8sio+TwUaNyU9/FPy8EVgZGsiooB46lwe+XwUSiFKE+zbx6NfB0+5QrsB6RSvjKlbCpSK8czBNxEbxF0JnAq2teb780Y6ZpOppCug1vkgMHJ/J19Ay42KKFDNoqfld97ji+kYa0x1mg2FLCGjb1XsDpWugZTtKi1fMixdyX9s0TdZfqslphG6W+On//yEihu5S+kV6kVDws+JC5MdRF5kCIwfv4+b/GbDtLT6UFzD4IRJOXUk/I7/9BkpaP3SEWQJCFJEZLZRg=
+
+%URL%
+https://developer.android.com/studio
+
+%LICENSE%
+custom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1675937789
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%PROVIDES%
+android-sdk
+
+%DEPENDS%
+glibc
+java-environment
+
+%OPTDEPENDS%
+android-sdk-platform-tools: adb, aapt, aidl, dexdump and dx
+android-udev: udev rules for Android devices
+

@@ -1955,9 +1955,6 @@ usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatc
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/README.md
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/
-usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/comparator.d.ts
-usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/comparator.js
-usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/comparator.js.map
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/index-cjs.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/index-cjs.js
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/index-cjs.js.map
@@ -1966,9 +1963,6 @@ usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatc
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/index.js.map
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/cjs/package.json
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/mjs/
-usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/mjs/comparator.d.ts
-usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/mjs/comparator.js
-usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/mjs/comparator.js.map
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/mjs/index.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/mjs/index.js
 usr/lib/node_modules/@angular/cli/node_modules/ignore-walk/node_modules/minimatch/dist/mjs/index.js.map

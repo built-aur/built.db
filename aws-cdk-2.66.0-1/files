@@ -544,6 +544,7 @@ usr/lib/node_modules/aws-cdk/test/integ/cli/test.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/
 usr/lib/node_modules/aws-cdk/test/integ/init/test-csharp-app.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/test-fsharp.sh
+usr/lib/node_modules/aws-cdk/test/integ/init/test-go-app.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/test-java.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/test-javascript.sh
 usr/lib/node_modules/aws-cdk/test/integ/init/test-python-app.sh

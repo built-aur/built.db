@@ -563,8 +563,11 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/LICE
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/README.md
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/lib/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/lib/find-suggestion.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/lib/find-suggestion.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/lib/index.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/lib/index.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/lib/validator.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/lib/validator.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helper-validator-option/package.json
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/LICENSE
@@ -585,6 +588,8 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/applyDec
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/applyDecs2203.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/applyDecs2203R.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/applyDecs2203R.js.map
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/applyDecs2301.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/applyDecs2301.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/asyncGeneratorDelegate.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/asyncGeneratorDelegate.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/helpers/lib/helpers/asyncIterator.js
@@ -715,6 +720,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/applyDecorat
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/applyDecs.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/applyDecs2203.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/applyDecs2203R.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/applyDecs2301.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/arrayLikeToArray.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/arrayWithHoles.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js
@@ -765,6 +771,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/esm/applyDec
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/esm/applyDecs.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/esm/applyDecs2203.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/esm/applyDecs2203R.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/esm/applyDecs2301.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js
@@ -1091,6 +1098,8 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/converters/valueTo
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/definitions/
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/definitions/core.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/definitions/core.js.map
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/definitions/deprecated-aliases.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/definitions/deprecated-aliases.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/definitions/experimental.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/definitions/experimental.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/definitions/flow.js

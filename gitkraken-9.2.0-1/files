@@ -17,6 +17,7 @@ opt/gitkraken/libffmpeg.so
 opt/gitkraken/libvk_swiftshader.so
 opt/gitkraken/libvulkan.so.1
 opt/gitkraken/locales/
+opt/gitkraken/locales/af.pak
 opt/gitkraken/locales/am.pak
 opt/gitkraken/locales/ar.pak
 opt/gitkraken/locales/bg.pak
@@ -67,6 +68,7 @@ opt/gitkraken/locales/te.pak
 opt/gitkraken/locales/th.pak
 opt/gitkraken/locales/tr.pak
 opt/gitkraken/locales/uk.pak
+opt/gitkraken/locales/ur.pak
 opt/gitkraken/locales/vi.pak
 opt/gitkraken/locales/zh-CN.pak
 opt/gitkraken/locales/zh-TW.pak
@@ -150,9 +152,6 @@ opt/gitkraken/resources/bin/
 opt/gitkraken/resources/bin/gitkraken.sh
 opt/gitkraken/resources/default_app.asar
 opt/gitkraken/snapshot_blob.bin
-opt/gitkraken/swiftshader/
-opt/gitkraken/swiftshader/libEGL.so
-opt/gitkraken/swiftshader/libGLESv2.so
 opt/gitkraken/v8_context_snapshot.bin
 opt/gitkraken/version
 opt/gitkraken/vk_swiftshader_icd.json

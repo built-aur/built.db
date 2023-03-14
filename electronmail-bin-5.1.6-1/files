@@ -72,6 +72,7 @@ opt/ElectronMail/locales/zh-CN.pak
 opt/ElectronMail/locales/zh-TW.pak
 opt/ElectronMail/resources.pak
 opt/ElectronMail/resources/
+opt/ElectronMail/resources/app-update.yml
 opt/ElectronMail/resources/app.asar
 opt/ElectronMail/resources/app.asar.unpacked/
 opt/ElectronMail/resources/app.asar.unpacked/node_modules/

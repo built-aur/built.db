@@ -9,7 +9,6 @@ opt/android-sdk/platform-tools/
 opt/android-sdk/platform-tools/NOTICE.txt
 opt/android-sdk/platform-tools/adb
 opt/android-sdk/platform-tools/dmtracedump
-opt/android-sdk/platform-tools/e2fsdroid
 opt/android-sdk/platform-tools/etc1tool
 opt/android-sdk/platform-tools/fastboot
 opt/android-sdk/platform-tools/hprof-conv
@@ -19,7 +18,6 @@ opt/android-sdk/platform-tools/make_f2fs
 opt/android-sdk/platform-tools/make_f2fs_casefold
 opt/android-sdk/platform-tools/mke2fs
 opt/android-sdk/platform-tools/mke2fs.conf
-opt/android-sdk/platform-tools/sload_f2fs
 opt/android-sdk/platform-tools/source.properties
 opt/android-sdk/platform-tools/sqlite3
 usr/

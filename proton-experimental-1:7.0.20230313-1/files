@@ -126,13 +126,13 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/liborc-0.4.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libsteam_api.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d-shader.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d-shader.so.1
-usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d-shader.so.1.2.0
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d-shader.so.1.4.0
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d-utils.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d-utils.so.1
-usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d-utils.so.1.3.0
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d-utils.so.1.3.2
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d.so.1
-usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d.so.1.4.0
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/libvkd3d.so.1.6.0
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/pkgconfig/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/vkd3d/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/vkd3d/libvkd3d-shader-1.dll
@@ -1286,13 +1286,13 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/liborc-0.4.
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libsteam_api.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d-shader.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d-shader.so.1
-usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d-shader.so.1.2.0
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d-shader.so.1.4.0
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d-utils.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d-utils.so.1
-usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d-utils.so.1.3.0
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d-utils.so.1.3.2
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d.so.1
-usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d.so.1.4.0
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libvkd3d.so.1.6.0
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/pkgconfig/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/vkd3d/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/vkd3d/libvkd3d-shader-1.dll
@@ -2440,7 +2440,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/113.msi
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/f5a1.msi
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/
@@ -4747,6 +4747,8 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/Liber
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/LiberationSans-Bold.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/LiberationSans-Regular.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/LiberationSerif-Regular.ttf
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/alt/
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/alt/arial.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/malgun.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/micross.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/msgothic.ttc

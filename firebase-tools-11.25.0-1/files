@@ -39,6 +39,7 @@ usr/lib/node_modules/firebase-tools/lib/commands/crashlytics-mappingfile-generat
 usr/lib/node_modules/firebase-tools/lib/commands/crashlytics-mappingfile-upload.js
 usr/lib/node_modules/firebase-tools/lib/commands/crashlytics-symbols-upload.js
 usr/lib/node_modules/firebase-tools/lib/commands/database-get.js
+usr/lib/node_modules/firebase-tools/lib/commands/database-import.js
 usr/lib/node_modules/firebase-tools/lib/commands/database-instances-create.js
 usr/lib/node_modules/firebase-tools/lib/commands/database-instances-list.js
 usr/lib/node_modules/firebase-tools/lib/commands/database-profile.js
@@ -144,6 +145,7 @@ usr/lib/node_modules/firebase-tools/lib/crashlytics/
 usr/lib/node_modules/firebase-tools/lib/crashlytics/buildToolsJarHelper.js
 usr/lib/node_modules/firebase-tools/lib/database/
 usr/lib/node_modules/firebase-tools/lib/database/api.js
+usr/lib/node_modules/firebase-tools/lib/database/import.js
 usr/lib/node_modules/firebase-tools/lib/database/listRemote.js
 usr/lib/node_modules/firebase-tools/lib/database/metadata.js
 usr/lib/node_modules/firebase-tools/lib/database/remove.js
@@ -224,6 +226,7 @@ usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/auth.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/database.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/firebaseAlerts.js
+usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/firestore.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/index.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/remoteConfig.js
 usr/lib/node_modules/firebase-tools/lib/deploy/functions/services/storage.js
@@ -379,10 +382,12 @@ usr/lib/node_modules/firebase-tools/lib/firestore/
 usr/lib/node_modules/firebase-tools/lib/firestore/checkDatabaseType.js
 usr/lib/node_modules/firebase-tools/lib/firestore/delete.js
 usr/lib/node_modules/firebase-tools/lib/firestore/encodeFirestoreValue.js
+usr/lib/node_modules/firebase-tools/lib/firestore/fsConfig.js
 usr/lib/node_modules/firebase-tools/lib/firestore/indexes-api.js
 usr/lib/node_modules/firebase-tools/lib/firestore/indexes-sort.js
 usr/lib/node_modules/firebase-tools/lib/firestore/indexes-spec.js
 usr/lib/node_modules/firebase-tools/lib/firestore/indexes.js
+usr/lib/node_modules/firebase-tools/lib/firestore/options.js
 usr/lib/node_modules/firebase-tools/lib/firestore/util.js
 usr/lib/node_modules/firebase-tools/lib/firestore/validator.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/
@@ -2252,6 +2257,15 @@ usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/dist/tsco
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/fixtures/
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/fixtures/ca-file1.txt
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/index.ts
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/graceful-fs/
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/graceful-fs/LICENSE
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/graceful-fs/README.md
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/graceful-fs/clone.js
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/graceful-fs/graceful-fs.js
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/graceful-fs/legacy-streams.js
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/graceful-fs/package.json
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/node_modules/graceful-fs/polyfills.js
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/package-tar/
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/package-tar/pnpm-network.ca-file-1.0.2.tgz
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/network.ca-file/package.json
@@ -14082,7 +14096,6 @@ usr/lib/node_modules/firebase-tools/node_modules/safe-buffer/index.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/safe-buffer/index.js
 usr/lib/node_modules/firebase-tools/node_modules/safe-buffer/package.json
 usr/lib/node_modules/firebase-tools/node_modules/safe-stable-stringify/
-usr/lib/node_modules/firebase-tools/node_modules/safe-stable-stringify/CHANGELOG.md
 usr/lib/node_modules/firebase-tools/node_modules/safe-stable-stringify/LICENSE
 usr/lib/node_modules/firebase-tools/node_modules/safe-stable-stringify/esm/
 usr/lib/node_modules/firebase-tools/node_modules/safe-stable-stringify/esm/package.json

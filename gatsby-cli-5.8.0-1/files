@@ -1149,6 +1149,8 @@ usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/traverse/traverse.
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/traverse/traverseFast.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/traverse/traverseFast.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/utils/
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/utils/deprecationWarning.js
+usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/utils/deprecationWarning.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/utils/inherit.js
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/utils/inherit.js.map
 usr/lib/node_modules/gatsby-cli/node_modules/@babel/types/lib/utils/react/
@@ -1844,6 +1846,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-clip
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-color-adjust.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-color-function.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-conic-gradients.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-container-queries-style.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-container-queries.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-container-query-units.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-containment.js
@@ -1936,6 +1939,7 @@ usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-subg
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-supports-api.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-table.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-text-align-last.js
+usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-text-box-trim.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-text-indent.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-text-justify.js
 usr/lib/node_modules/gatsby-cli/node_modules/caniuse-lite/data/features/css-text-orientation.js

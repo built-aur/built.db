@@ -10457,6 +10457,12 @@ usr/lib/node_modules/firebase-tools/node_modules/p-defer/index.js
 usr/lib/node_modules/firebase-tools/node_modules/p-defer/license
 usr/lib/node_modules/firebase-tools/node_modules/p-defer/package.json
 usr/lib/node_modules/firebase-tools/node_modules/p-defer/readme.md
+usr/lib/node_modules/firebase-tools/node_modules/p-limit/
+usr/lib/node_modules/firebase-tools/node_modules/p-limit/index.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/p-limit/index.js
+usr/lib/node_modules/firebase-tools/node_modules/p-limit/license
+usr/lib/node_modules/firebase-tools/node_modules/p-limit/package.json
+usr/lib/node_modules/firebase-tools/node_modules/p-limit/readme.md
 usr/lib/node_modules/firebase-tools/node_modules/p-map/
 usr/lib/node_modules/firebase-tools/node_modules/p-map/index.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/p-map/index.js
@@ -16533,6 +16539,12 @@ usr/lib/node_modules/firebase-tools/node_modules/yargs/locales/zh_CN.json
 usr/lib/node_modules/firebase-tools/node_modules/yargs/locales/zh_TW.json
 usr/lib/node_modules/firebase-tools/node_modules/yargs/package.json
 usr/lib/node_modules/firebase-tools/node_modules/yargs/yargs
+usr/lib/node_modules/firebase-tools/node_modules/yocto-queue/
+usr/lib/node_modules/firebase-tools/node_modules/yocto-queue/index.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/yocto-queue/index.js
+usr/lib/node_modules/firebase-tools/node_modules/yocto-queue/license
+usr/lib/node_modules/firebase-tools/node_modules/yocto-queue/package.json
+usr/lib/node_modules/firebase-tools/node_modules/yocto-queue/readme.md
 usr/lib/node_modules/firebase-tools/node_modules/zip-stream/
 usr/lib/node_modules/firebase-tools/node_modules/zip-stream/CHANGELOG.md
 usr/lib/node_modules/firebase-tools/node_modules/zip-stream/LICENSE

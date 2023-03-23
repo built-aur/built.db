@@ -1,5 +1,5 @@
 %FILENAME%
-proton-1_7.0.6.5-2-x86_64.pkg.tar.xz
+proton-1_7.0.6.5-3-x86_64.pkg.tar.xz
 
 %NAME%
 proton
@@ -8,25 +8,25 @@ proton
 proton
 
 %VERSION%
-1:7.0.6.5-2
+1:7.0.6.5-3
 
 %DESC%
 Compatibility tool for Steam Play based on Wine and additional components
 
 %CSIZE%
-250280212
+250259376
 
 %ISIZE%
-1056053676
+1056053675
 
 %MD5SUM%
-56de745cd9001f317e12c4e45c449d7c
+16b8aeacbed19c5bd3eb82fa7e80a8fe
 
 %SHA256SUM%
-711d85ac9430beb9c1e4a384e589482e49ebe6acdffa4c231a5679d78abd3c66
+81b53a1665cd8c5351e0be6a30a25662e43ca5f360f8b36ea25d014955b8ca1e
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmQXIKUACgkQAiE6BJNFfpZ/FQ//bU83cSTAzhZPj2th9N62HQlyeOGXgbsFiw349RliP4MZkZZxgXjBWUMS62lqg5zYsBnphb08poDRHMyL3J2648RePN2OOOr9M6CxitExMqy8WHE+QRux1KZOq3u0WOnNnfqs8Ug+TceWB/Jy+7J9cmMkCHLVZ8JXutsZo24NyDhxAHlZhN+rnpsZuvqXe6DjlnA/BSH6f6MVa0jHvvMPQDiLq6WUStYh8oJ26w8ijYGyqbLe2IXciOJIUJ5orCh9jtp8Lf5AMS6jvHosBFafNhsRQ+HNE6hwVUorhvE5CPJDzJuhZvTOktvHECL8JEa8JpdzkILxzrJPbL/6yRb4AtKnuNPf+Pn7UCAvonabfXpOQ2oRK5nQjklQw5VNncrvSZAJoBlrMBcaylTZt7WBYnLzGrZw3HVV6sSfMM9qzQCQx6PEbR1t0q7PAwauRBLhuBAHXd5pLbT6T3tkt4WbelE+92KqDv4gumevBFVVq0jqJf2xft6I8mx8GsxUvB4M26rWYHaxd9u5kkyBFEzFHeHMprypO+nEeEAqRhK6e7c1hi6vAs8frFZhIYyc71KvH4rDZWCYRWP9TY5gYSWST+rqvIvotAhmzIubAI73ynToAw8NQr4ne0hHDqbDcaNLhdSzI9luV1ZFzVs8TdQhYnz5r5P3OVdTdUsj5wKADOE=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmQcY9sACgkQAiE6BJNFfpZQeA/8CWl8tSDZ3y28utsRTjf1ctKR7nFVjUaIQFTm95HMeYnMvLqNpkqGvhFEq35DcXD+q1wsHPjN0CjYuPgREsE7BhV6rN0NZeGZ0luXISm2eAXSXyleu4wwDRoFe8LXCBpM7vJEIB/3fVLzeyiFdW8jzIRaeyLytItVkEes6CzObp7LnU3VGly84CgjZygpgS9YyOBsSLQkTbMbzlU+crxrJoagBL1JClAALfTTAT6zTUNPUNQ3gVyCwfz89NV8xKgUieaUCkb8KPax83gwAU/dYikxQSl4avFH1SgtCY9YrVAhCNlib1iu0m1Lso7luTwoMVnl4e6LgmmFoA0DSBNz8OLQxf0V+sp5fQ28utlYCiN8bdEOAws2CV9fmJABf68rETKWJCRQaGPzvWoUDr0lJMmloa9+kd5UYuS/IZjUrdV6UpX7c2MM4wQbSt1lJZ1coAcJnKoRY8DSPOVRDpIzCI6Gf27xnaq0ebyjcFG8eV6plW0oTexJ+9A7ydQbF48oJgsaYg+aTptYyU8cAXnd44DndnWTEl1CJZ30nMNjXFmp1uBfATzcH0ZGC3FnoNZZMgZxdkAuG2f3B63VH7vr6uxQ4ZgNEgh0aHe1eVYVAXXTyzv/IB6JVniEhJkCipSr2GhlKXFj1TjF947a4eckFzT4/c6o+SFD6qTxzohep/M=
 
 %URL%
 https://github.com/ValveSoftware/Proton
@@ -38,7 +38,7 @@ custom
 x86_64
 
 %BUILDDATE%
-1679228979
+1679574779
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
@@ -54,26 +54,16 @@ attr
 lib32-attr
 fontconfig
 lib32-fontconfig
-lcms2
-lib32-lcms2
-libxml2
-lib32-libxml2
 libxcursor
 lib32-libxcursor
 libxrandr
 lib32-libxrandr
-libxdamage
-lib32-libxdamage
 libxi
 lib32-libxi
 gettext
 lib32-gettext
 freetype2
 lib32-freetype2
-glu
-lib32-glu
-libsm
-lib32-libsm
 gcc-libs
 lib32-gcc-libs
 libpcap
@@ -97,14 +87,10 @@ steam-native-runtime
 %OPTDEPENDS%
 giflib
 lib32-giflib
-libpng
-lib32-libpng
 libldap
 lib32-libldap
 gnutls
 lib32-gnutls
-mpg123
-lib32-mpg123
 openal
 lib32-openal
 v4l-utils
@@ -115,16 +101,12 @@ alsa-plugins
 lib32-alsa-plugins
 alsa-lib
 lib32-alsa-lib
-libjpeg-turbo
-lib32-libjpeg-turbo
 libxcomposite
 lib32-libxcomposite
 libxinerama
 lib32-libxinerama
 opencl-icd-loader
 lib32-opencl-icd-loader
-libxslt
-lib32-libxslt
 libva
 lib32-libva
 gtk3
@@ -134,15 +116,12 @@ lib32-gst-plugins-base-libs
 vulkan-icd-loader
 lib32-vulkan-icd-loader
 libgphoto2
-gsm
-lib32-gsm
 dosbox
 
 %MAKEDEPENDS%
 autoconf
 bison
 perl
-fontforge
 flex
 mingw-w64-gcc
 git
@@ -153,6 +132,7 @@ lld
 nasm
 meson
 cmake
+fontforge
 afdko
 python-pefile
 glslang
@@ -160,22 +140,16 @@ vulkan-headers
 clang
 giflib
 lib32-giflib
-libpng
-lib32-libpng
 gnutls
 lib32-gnutls
 libxinerama
 lib32-libxinerama
 libxcomposite
 lib32-libxcomposite
-libxmu
-lib32-libxmu
 libxxf86vm
 lib32-libxxf86vm
 libldap
 lib32-libldap
-mpg123
-lib32-mpg123
 openal
 lib32-openal
 v4l-utils
@@ -190,8 +164,6 @@ mesa-libgl
 lib32-mesa-libgl
 opencl-icd-loader
 lib32-opencl-icd-loader
-libxslt
-lib32-libxslt
 libpulse
 lib32-libpulse
 libva
@@ -207,33 +179,21 @@ lib32-sdl2>=2.0.16
 rust
 lib32-rust-libs
 libgphoto2
-gsm
-lib32-gsm
 opencl-headers
 attr
 lib32-attr
 fontconfig
 lib32-fontconfig
-lcms2
-lib32-lcms2
-libxml2
-lib32-libxml2
 libxcursor
 lib32-libxcursor
 libxrandr
 lib32-libxrandr
-libxdamage
-lib32-libxdamage
 libxi
 lib32-libxi
 gettext
 lib32-gettext
 freetype2
 lib32-freetype2
-glu
-lib32-glu
-libsm
-lib32-libsm
 gcc-libs
 lib32-gcc-libs
 libpcap

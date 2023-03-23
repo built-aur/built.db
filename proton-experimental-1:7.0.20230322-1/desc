@@ -1,5 +1,5 @@
 %FILENAME%
-proton-experimental-1_7.0.20230313-1-x86_64.pkg.tar.xz
+proton-experimental-1_7.0.20230322-1-x86_64.pkg.tar.xz
 
 %NAME%
 proton-experimental
@@ -8,25 +8,25 @@ proton-experimental
 proton-experimental
 
 %VERSION%
-1:7.0.20230313-1
+1:7.0.20230322-1
 
 %DESC%
 Compatibility tool for Steam Play based on Wine and additional components, experimental branch
 
 %CSIZE%
-251862256
+251953784
 
 %ISIZE%
-1049874438
+1050148398
 
 %MD5SUM%
-ec02c4a3dc5a03bb494ec42af0337383
+13021d7038464771a8f957b714be7767
 
 %SHA256SUM%
-8f594ee2aa87d700d46a705ba31fc6cd5caaca6d3db15fe94f39215ad0dc5948
+3f4615c08ba97c2943efba07e3dcd777bda16aeef222ea1f02685214c2d4f570
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmQXIJ0ACgkQAiE6BJNFfpZ4gA//TkLZMJigeoVv4yMjyCnTRXx4j3E7pyK9JXPOqnXBAVldkrnZaBhWXHjrRBi2fjyqFpu+8ibq1AKA6KVs2wzf5Ms5oTdFbqzSlAAhsvZkvdYC9n2Yu4v4/hX1F21UQPvKKumAAlwrfXp5T683rh2x/l1Pa9w6LyR1XYIosSFzOlJ5p1sTgXuhRYQLx5UtEIplQwD8cs4itGbJoJOrkfgmIxlALOjpGwgvkOw/4Ap9MSH9R8rtneykvcLZX5W7IcyKeOp1B2+YBimA4p2BzwCKYvm88RRJu4ygBXewDJy2hhQ7p23J8Xpgov/SrJiKYJ7yqShsjIF3Xbojplo+I5Z/V7z93rw/QRQf38RRplUmgmjXpDrVIXM/4S6DM7oK2h6CRQw+mHqKIbb1OqtlI8bgs79J0zQ7kVAnaaumwBKKSg74k1P1sFKhaIutlKAsAea2YlSVxifYtQZWwVoCmvNTpuAyqw7zYtIbMdqK7LhIMmaBAtB9g5BxWB8ftddcrExDiYMwA+87fc85aDZ8ijdlXN2nDOTkys3Ku92xNaLG9syzdeMtqobqoq1zC5GgZ/PQE0FIHWU3bNbxFfi6jo2zGTFfw6+ngk6LVAq3QHpYlMj05lXa9SSwiNIHYwRfpxFfs/308A79j2oixBy59z4eF34hSCAjAbnmH08AEByIPq0=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmQcYuMACgkQAiE6BJNFfpYccxAAuiS85U1fKa5hiT9861KBb7zpX4Qcbf8JJjKcogMANMEGmxV13jjHOb8/GUe42CHL6+V7iMZ9EKAriR5Les/Pivds5JwE+44vL2J2H8WXZQklRoAb/izI7TX9UHvvbztSxFk4RMBT2KuFzVJ0qA19PMy7x/68/JIfAAWyVpLo+UThZKVH6vUyA5HMGhTB1ohmPdil7hcrp1lZ/BB1ZGPu0dUVgUoAiyWyxxmn9SomrWXMzGZ20iZXKZw5vO7v9rlRqrm4oS3XV418XchEItjc/8oNBbNz6CEVxZGpenRP3Mzswly1yuXKX8MbI5RvTlFD6agXUsQL0knuG19ZYhTpAiBJaksYzaQXUxlvR+2wTRDEmDzN+84L7lv/KJ1ZL1J4NXP9jZtrWFeSey56H7nPE+4H5q5ml3nv379pr5Vw01xBrtZyrhxUCOnFNk0d11tA4rBf5bvp7om/l4L86lGelOoLrcj6sYQvoQnS1l07PdVqmkG7FW6Jf/e/is3c5v5PWSDTRW26Fcvx360gQr6STe97Od0gfMWI9h1vBxHYgThqy+kW+6oFCEfeh2RJIDnucyAAUGWJoyy6xrnryk1f9HGMjq/0DOZxStkdmKs5CZXFmRWH2qpSQcjbV+IGeVcHwoUugQxM63tAAyugiHT8g3HHemTVaelhrVj2HpJy7lc=
 
 %URL%
 https://github.com/ValveSoftware/Proton
@@ -38,7 +38,7 @@ custom
 x86_64
 
 %BUILDDATE%
-1679228979
+1679574781
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
@@ -51,26 +51,16 @@ attr
 lib32-attr
 fontconfig
 lib32-fontconfig
-lcms2
-lib32-lcms2
-libxml2
-lib32-libxml2
 libxcursor
 lib32-libxcursor
 libxrandr
 lib32-libxrandr
-libxdamage
-lib32-libxdamage
 libxi
 lib32-libxi
 gettext
 lib32-gettext
 freetype2
 lib32-freetype2
-glu
-lib32-glu
-libsm
-lib32-libsm
 gcc-libs
 lib32-gcc-libs
 libpcap
@@ -94,14 +84,10 @@ steam-native-runtime
 %OPTDEPENDS%
 giflib
 lib32-giflib
-libpng
-lib32-libpng
 libldap
 lib32-libldap
 gnutls
 lib32-gnutls
-mpg123
-lib32-mpg123
 openal
 lib32-openal
 v4l-utils
@@ -112,16 +98,12 @@ alsa-plugins
 lib32-alsa-plugins
 alsa-lib
 lib32-alsa-lib
-libjpeg-turbo
-lib32-libjpeg-turbo
 libxcomposite
 lib32-libxcomposite
 libxinerama
 lib32-libxinerama
 opencl-icd-loader
 lib32-opencl-icd-loader
-libxslt
-lib32-libxslt
 libva
 lib32-libva
 gtk3
@@ -131,15 +113,12 @@ lib32-gst-plugins-base-libs
 vulkan-icd-loader
 lib32-vulkan-icd-loader
 libgphoto2
-gsm
-lib32-gsm
 dosbox
 
 %MAKEDEPENDS%
 autoconf
 bison
 perl
-fontforge
 flex
 mingw-w64-gcc
 git
@@ -150,6 +129,7 @@ lld
 nasm
 meson
 cmake
+fontforge
 afdko
 python-pefile
 glslang
@@ -157,22 +137,16 @@ vulkan-headers
 clang
 giflib
 lib32-giflib
-libpng
-lib32-libpng
 gnutls
 lib32-gnutls
 libxinerama
 lib32-libxinerama
 libxcomposite
 lib32-libxcomposite
-libxmu
-lib32-libxmu
 libxxf86vm
 lib32-libxxf86vm
 libldap
 lib32-libldap
-mpg123
-lib32-mpg123
 openal
 lib32-openal
 v4l-utils
@@ -187,8 +161,6 @@ mesa-libgl
 lib32-mesa-libgl
 opencl-icd-loader
 lib32-opencl-icd-loader
-libxslt
-lib32-libxslt
 libpulse
 lib32-libpulse
 libva
@@ -204,33 +176,21 @@ lib32-sdl2>=2.0.16
 rust
 lib32-rust-libs
 libgphoto2
-gsm
-lib32-gsm
 opencl-headers
 attr
 lib32-attr
 fontconfig
 lib32-fontconfig
-lcms2
-lib32-lcms2
-libxml2
-lib32-libxml2
 libxcursor
 lib32-libxcursor
 libxrandr
 lib32-libxrandr
-libxdamage
-lib32-libxdamage
 libxi
 lib32-libxi
 gettext
 lib32-gettext
 freetype2
 lib32-freetype2
-glu
-lib32-glu
-libsm
-lib32-libsm
 gcc-libs
 lib32-gcc-libs
 libpcap

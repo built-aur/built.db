@@ -1174,6 +1174,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/nvapi/nv
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/nvapi/version
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/vkd3d-proton/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/vkd3d-proton/d3d12.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/vkd3d-proton/d3d12core.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib/wine/vkd3d-proton/version
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/cmake/
@@ -1309,6 +1310,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/nvapi/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/nvapi/version
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/vkd3d-proton/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/vkd3d-proton/d3d12.dll
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/vkd3d-proton/d3d12core.dll
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/vkd3d-proton/version
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-unix/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/wine/x86_64-unix/avicap32.so
@@ -2440,7 +2442,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/f5a1.msi
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Installer/b9fd.msi
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/

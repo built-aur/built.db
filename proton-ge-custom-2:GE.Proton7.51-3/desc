@@ -1,5 +1,5 @@
 %FILENAME%
-proton-ge-custom-2_GE.Proton7.51-1-x86_64.pkg.tar.xz
+proton-ge-custom-2_GE.Proton7.51-3-x86_64.pkg.tar.xz
 
 %NAME%
 proton-ge-custom
@@ -8,25 +8,25 @@ proton-ge-custom
 proton-ge-custom
 
 %VERSION%
-2:GE.Proton7.51-1
+2:GE.Proton7.51-3
 
 %DESC%
 Compatibility tool for Steam Play based on Wine and additional components, GloriousEggroll's custom build
 
 %CSIZE%
-260081840
+260044292
 
 %ISIZE%
-1082662606
+1082617186
 
 %MD5SUM%
-c2fcd8dc142444a86190af3c869a1e86
+22afbb9fe58570321138a9aa003b501e
 
 %SHA256SUM%
-f0b5ea828f948a10e1e7b247d89652763a114533d1960e2f06a8504adb9de7c5
+5bd229d81fdd2b5d7439ed82931b36f256d175427425a0c71d0fad7d70bdf69e
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmQXHpEACgkQAiE6BJNFfpY4SRAA1jiUmT/w/SJsTICtnqZk0hRNXsUhVs2Lsy1z+EJtr57ablhJRa1uAUQZT2FRjted2x4r8GFmd7nB/u9RtFQiIT3trBSSZMLPCrvKKT3HsaxmT2pF8YuNrp5wTGlpwQ+d+SCqjtmR7vXsJE5WxzFteBdlyNpZiC/CLKA2Mpq3AG1Uy2mqxYY8VIjxQ0xBimcNSlp56GbMcA1A6O46K39SrgNsbuAX3arJUMhLDu0nEo9/n5AkIkS43/gpFgMk9+k3+8lS5g2xYAykqnOkz+ImEFNsYO3HCQfuyxnta6sUvg5o1lqynLy+Zc9gZ0zUdD+q61vxAlLMjiYefN3bGGoVGNbByIjbalJDU7UMXVE4PqIeLh2SdcapcFDDXQx5dLoyHbLlSaLBSkkVwM5EZIXaO99rQGZy/sI0Nw7VRoeUJjIAggaTOxPdlQFznfeCj3Zf0ZSBgTwoe4c81fD+J1P5aTbj0E5MSKZ3E+G6N4eG9ssGhQPACdiuGMYqw+sI892eFJpgTYw++JpTzkgPahMIW1OGL6pnTITRZMZtcoYvRsdoKm8SPa64OI1LbKNVlQI4BuPC39bHW66GAg0VpH+0t33/1zwLPXJ1dxePia3LgS/SqGLlpBcK4tltqQV2k326GfpuC3q5KyVrq34v2E1+RnI9LVkJ9oO0ElyE3Jc21Fs=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmQcbLcACgkQAiE6BJNFfpZaEhAAknnvJNQSNhWuksPQHrV1+YQ8uY+v8GBWa3H2YHwp1y/W4+L4phWTMBJnkGc/s50nAd/bADXF4biFdWfejnfkXHKNsQskmDYGOlDpjfKBCe3YGMYGNbcd4GcGyFNCox5y7QLz2t2yBbiS/+K5Vsmh+Dcl+xkcM76ZwJYZ3ZqWhzQLoHpCyI+bsL0e8JoOmDbLWSCvWQoje/EKXUlh3iu2yPWEG/+9vEkh73jtx7g32MbFzCnLrzPbdjLJz6ybEyupso33tDUKMNrKD0E5S3HhIDcrdbZTNZ5CmPr8sJtFa/1Z8Vw0Ynt15hB8be96O5FTAuTvkL/siqBhU8oipTGzYQVo6+iRAQNqwDyvD3bpSUVWkmno8Sxy6hVfLHTx3S2UTlPAYE81j79tk0Q0rEekHGrmnaROv+Aa6GORlVAkwVVGYJYzfM+dtgwAqe3XFJueTBG5tIZ6HYmnVfBQXg9Y/xtJ5URxHRfQszU39jnASSVJMoIgS+LocX7l8wzoTYzQswbVU6Mj8pm2bo4CJ7ky9P7MdcP46adhO5F4UB0AhkyStiaiiER7ifGd0/I446E4NDRAqgITc/i/i/MRpnGCr6fDy/lox7m9tQRml3ZkKsjaedP22Weccy3qCTR/dlsoQOLZWxHmDv15IiMAlZMqvy5twTsygmuPaLUTWpYHLOE=
 
 %URL%
 https://github.com/GloriousEggroll/proton-ge-custom
@@ -38,7 +38,7 @@ custom
 x86_64
 
 %BUILDDATE%
-1679228978
+1679574791
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
@@ -51,26 +51,16 @@ attr
 lib32-attr
 fontconfig
 lib32-fontconfig
-lcms2
-lib32-lcms2
-libxml2
-lib32-libxml2
 libxcursor
 lib32-libxcursor
 libxrandr
 lib32-libxrandr
-libxdamage
-lib32-libxdamage
 libxi
 lib32-libxi
 gettext
 lib32-gettext
 freetype2
 lib32-freetype2
-glu
-lib32-glu
-libsm
-lib32-libsm
 gcc-libs
 lib32-gcc-libs
 libpcap
@@ -95,14 +85,10 @@ cabextract
 %OPTDEPENDS%
 giflib
 lib32-giflib
-libpng
-lib32-libpng
 libldap
 lib32-libldap
 gnutls
 lib32-gnutls
-mpg123
-lib32-mpg123
 openal
 lib32-openal
 v4l-utils
@@ -113,16 +99,12 @@ alsa-plugins
 lib32-alsa-plugins
 alsa-lib
 lib32-alsa-lib
-libjpeg-turbo
-lib32-libjpeg-turbo
 libxcomposite
 lib32-libxcomposite
 libxinerama
 lib32-libxinerama
 opencl-icd-loader
 lib32-opencl-icd-loader
-libxslt
-lib32-libxslt
 libva
 lib32-libva
 gtk3
@@ -132,15 +114,12 @@ lib32-gst-plugins-base-libs
 vulkan-icd-loader
 lib32-vulkan-icd-loader
 libgphoto2
-gsm
-lib32-gsm
 dosbox
 
 %MAKEDEPENDS%
 autoconf
 bison
 perl
-fontforge
 flex
 mingw-w64-gcc
 git
@@ -151,6 +130,7 @@ lld
 nasm
 meson
 cmake
+fontforge
 afdko
 python-pefile
 glslang
@@ -158,22 +138,16 @@ vulkan-headers
 clang
 giflib
 lib32-giflib
-libpng
-lib32-libpng
 gnutls
 lib32-gnutls
 libxinerama
 lib32-libxinerama
 libxcomposite
 lib32-libxcomposite
-libxmu
-lib32-libxmu
 libxxf86vm
 lib32-libxxf86vm
 libldap
 lib32-libldap
-mpg123
-lib32-mpg123
 openal
 lib32-openal
 v4l-utils
@@ -188,8 +162,6 @@ mesa-libgl
 lib32-mesa-libgl
 opencl-icd-loader
 lib32-opencl-icd-loader
-libxslt
-lib32-libxslt
 libpulse
 lib32-libpulse
 libva
@@ -205,33 +177,21 @@ lib32-sdl2>=2.0.16
 rust
 lib32-rust-libs
 libgphoto2
-gsm
-lib32-gsm
 opencl-headers
 attr
 lib32-attr
 fontconfig
 lib32-fontconfig
-lcms2
-lib32-lcms2
-libxml2
-lib32-libxml2
 libxcursor
 lib32-libxcursor
 libxrandr
 lib32-libxrandr
-libxdamage
-lib32-libxdamage
 libxi
 lib32-libxi
 gettext
 lib32-gettext
 freetype2
 lib32-freetype2
-glu
-lib32-glu
-libsm
-lib32-libsm
 gcc-libs
 lib32-gcc-libs
 libpcap

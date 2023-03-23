@@ -77,7 +77,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/li
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstgaudieffects.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstgdp.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstgeometrictransform.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstgsm.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgsthls.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstid3demux.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstid3tag.so
@@ -1410,7 +1409,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstgaudieffects.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstgdp.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstgeometrictransform.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstgsm.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgsthls.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstid3demux.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstid3tag.so
@@ -2791,7 +2789,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/2d3f.msi
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/67a2.msi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/

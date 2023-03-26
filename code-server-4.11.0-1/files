@@ -489,8 +489,8 @@ usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/
 usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/README.md
 usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/dist/
 usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/dist/node/
-usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/dist/node/main.js
-usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/dist/node/main.js.map
+usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/dist/node/workerMain.js
+usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/dist/node/workerMain.js.map
 usr/lib/code-server/lib/vscode/extensions/markdown-language-features/server/package.json
 usr/lib/code-server/lib/vscode/extensions/markdown-math/
 usr/lib/code-server/lib/vscode/extensions/markdown-math/README.md
@@ -3646,6 +3646,7 @@ usr/lib/code-server/lib/vscode/node_modules/vscode-textmate/SECURITY.md
 usr/lib/code-server/lib/vscode/node_modules/vscode-textmate/package.json
 usr/lib/code-server/lib/vscode/node_modules/vscode-textmate/release/
 usr/lib/code-server/lib/vscode/node_modules/vscode-textmate/release/debug.d.ts
+usr/lib/code-server/lib/vscode/node_modules/vscode-textmate/release/diffStateStacks.d.ts
 usr/lib/code-server/lib/vscode/node_modules/vscode-textmate/release/encodedTokenAttributes.d.ts
 usr/lib/code-server/lib/vscode/node_modules/vscode-textmate/release/grammar/
 usr/lib/code-server/lib/vscode/node_modules/vscode-textmate/release/grammar/basicScopesAttributeProvider.d.ts
@@ -3808,6 +3809,7 @@ usr/lib/code-server/lib/vscode/node_modules/xterm/package.json
 usr/lib/code-server/lib/vscode/node_modules/xterm/src/
 usr/lib/code-server/lib/vscode/node_modules/xterm/src/browser/
 usr/lib/code-server/lib/vscode/node_modules/xterm/src/browser/AccessibilityManager.ts
+usr/lib/code-server/lib/vscode/node_modules/xterm/src/browser/AccessibleBuffer.ts
 usr/lib/code-server/lib/vscode/node_modules/xterm/src/browser/Clipboard.ts
 usr/lib/code-server/lib/vscode/node_modules/xterm/src/browser/ColorContrastCache.ts
 usr/lib/code-server/lib/vscode/node_modules/xterm/src/browser/Lifecycle.ts
@@ -4168,6 +4170,11 @@ usr/lib/code-server/lib/vscode/out/vs/workbench/services/search/
 usr/lib/code-server/lib/vscode/out/vs/workbench/services/search/worker/
 usr/lib/code-server/lib/vscode/out/vs/workbench/services/search/worker/localFileSearch.js
 usr/lib/code-server/lib/vscode/out/vs/workbench/services/search/worker/localFileSearch.js.map
+usr/lib/code-server/lib/vscode/out/vs/workbench/services/textMate/
+usr/lib/code-server/lib/vscode/out/vs/workbench/services/textMate/browser/
+usr/lib/code-server/lib/vscode/out/vs/workbench/services/textMate/browser/worker/
+usr/lib/code-server/lib/vscode/out/vs/workbench/services/textMate/browser/worker/textMate.worker.js
+usr/lib/code-server/lib/vscode/out/vs/workbench/services/textMate/browser/worker/textMate.worker.js.map
 usr/lib/code-server/lib/vscode/out/vs/workbench/services/textfile/
 usr/lib/code-server/lib/vscode/out/vs/workbench/services/textfile/test/
 usr/lib/code-server/lib/vscode/out/vs/workbench/services/textfile/test/node/

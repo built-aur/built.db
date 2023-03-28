@@ -9685,6 +9685,7 @@ usr/lib/node_modules/firebase-tools/node_modules/marked/man/marked.1.txt
 usr/lib/node_modules/firebase-tools/node_modules/marked/marked.min.js
 usr/lib/node_modules/firebase-tools/node_modules/marked/package.json
 usr/lib/node_modules/firebase-tools/node_modules/marked/src/
+usr/lib/node_modules/firebase-tools/node_modules/marked/src/Hooks.js
 usr/lib/node_modules/firebase-tools/node_modules/marked/src/Lexer.js
 usr/lib/node_modules/firebase-tools/node_modules/marked/src/Parser.js
 usr/lib/node_modules/firebase-tools/node_modules/marked/src/Renderer.js

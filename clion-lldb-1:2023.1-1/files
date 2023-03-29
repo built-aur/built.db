@@ -21,6 +21,8 @@ opt/clion/bin/lldb/helpers/renderers/jb_lldb_natvis_formatters.py
 opt/clion/bin/lldb/helpers/renderers/jb_lldb_natvis_loader.py
 opt/clion/bin/lldb/helpers/renderers/jb_lldb_string_utils.py
 opt/clion/bin/lldb/helpers/renderers/jb_lldb_utils.py
+opt/clion/bin/lldb/helpers/renderers/jb_lldb_utils_const.py
+opt/clion/bin/lldb/helpers/renderers/jb_lldb_utils_context_operator_parser.py
 opt/clion/bin/lldb/linux/
 opt/clion/bin/lldb/linux/x64/
 opt/clion/bin/lldb/linux/x64/bin/

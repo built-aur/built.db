@@ -12,6 +12,7 @@ usr/lib/chromium/chrome_crashpad_handler
 usr/lib/chromium/chromium
 usr/lib/chromium/libEGL.so
 usr/lib/chromium/libGLESv2.so
+usr/lib/chromium/libqt5_shim.so
 usr/lib/chromium/libvk_swiftshader.so
 usr/lib/chromium/locales/
 usr/lib/chromium/locales/af.pak
@@ -75,8 +76,6 @@ usr/lib/chromium/vk_swiftshader_icd.json
 usr/share/
 usr/share/applications/
 usr/share/applications/chromium.desktop
-usr/share/drirc.d/
-usr/share/drirc.d/10-ungoogled-chromium.conf
 usr/share/icons/
 usr/share/icons/hicolor/
 usr/share/icons/hicolor/128x128/

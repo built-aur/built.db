@@ -9,4 +9,4 @@ usr/lib/mangohud/libMangoApp.so
 usr/share/
 usr/share/vulkan/
 usr/share/vulkan/implicit_layer.d/
-usr/share/vulkan/implicit_layer.d/libMangoApp.json
+usr/share/vulkan/implicit_layer.d/libMangoApp.x86_64.json

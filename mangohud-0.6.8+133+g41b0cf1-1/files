@@ -3,10 +3,10 @@ usr/
 usr/bin/
 usr/bin/mangohud
 usr/lib/
+usr/lib/libMangoHud.so
 usr/lib/mangohud/
-usr/lib/mangohud/libMangoHud.so
 usr/lib/mangohud/libMangoHud_dlsym.so
 usr/share/
 usr/share/vulkan/
 usr/share/vulkan/implicit_layer.d/
-usr/share/vulkan/implicit_layer.d/MangoHud.json
+usr/share/vulkan/implicit_layer.d/MangoHud.x86_64.json

@@ -3,8 +3,8 @@ usr/
 usr/bin/
 usr/bin/mangohud
 usr/lib/
-usr/lib/libMangoHud.so
 usr/lib/mangohud/
+usr/lib/mangohud/libMangoHud.so
 usr/lib/mangohud/libMangoHud_dlsym.so
 usr/share/
 usr/share/vulkan/

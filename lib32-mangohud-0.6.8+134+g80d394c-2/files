@@ -4,3 +4,7 @@ usr/lib32/
 usr/lib32/mangohud/
 usr/lib32/mangohud/libMangoHud.so
 usr/lib32/mangohud/libMangoHud_dlsym.so
+usr/share/
+usr/share/vulkan/
+usr/share/vulkan/implicit_layer.d/
+usr/share/vulkan/implicit_layer.d/MangoHud.x86.json

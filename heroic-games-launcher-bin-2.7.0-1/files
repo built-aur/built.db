@@ -83,6 +83,7 @@ opt/Heroic/resources/app.asar.unpacked/build/icon-dark.png
 opt/Heroic/resources/app.asar.unpacked/build/icon-light.png
 opt/Heroic/resources/app.asar.unpacked/build/icon.icns
 opt/Heroic/resources/app.asar.unpacked/build/icon.png
+opt/Heroic/resources/app.asar.unpacked/build/webviewPreload.js
 opt/Heroic/resources/app.asar.unpacked/build/win_icon.ico
 opt/Heroic/resources/app.asar.unpacked/node_modules/
 opt/Heroic/resources/app.asar.unpacked/node_modules/font-list/
@@ -109,6 +110,7 @@ opt/Heroic/resources/app.asar.unpacked/node_modules/register-scheme/build/Releas
 opt/Heroic/resources/app.asar.unpacked/node_modules/register-scheme/build/Release/node-addon-api/
 opt/Heroic/resources/app.asar.unpacked/node_modules/register-scheme/build/Release/node-addon-api/src/
 opt/Heroic/resources/app.asar.unpacked/node_modules/register-scheme/build/Release/node-addon-api/src/nothing.a
+opt/Heroic/resources/app.asar.unpacked/node_modules/register-scheme/build/Release/node-addon-api/src/nothing.a.ar-file-list
 opt/Heroic/resources/app.asar.unpacked/node_modules/register-scheme/build/Release/nothing.a
 opt/Heroic/resources/app.asar.unpacked/node_modules/register-scheme/build/Release/register-protocol-handler.node
 opt/Heroic/resources/app.asar.unpacked/node_modules/register-scheme/build/node_gyp_bins/

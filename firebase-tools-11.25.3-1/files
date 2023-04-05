@@ -393,6 +393,8 @@ usr/lib/node_modules/firebase-tools/lib/firestore/validator.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/
 usr/lib/node_modules/firebase-tools/lib/frameworks/angular/
 usr/lib/node_modules/firebase-tools/lib/frameworks/angular/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/docs/
+usr/lib/node_modules/firebase-tools/lib/frameworks/docs/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/express/
 usr/lib/node_modules/firebase-tools/lib/frameworks/express/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/index.js
@@ -2223,15 +2225,15 @@ usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/dist/e
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/dist/index.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/dist/index.js
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/dist/index.js.map
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/dist/preview-1680634751300.js
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/dist/tsconfig.json
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/env-replace.docs.mdx
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/env-replace.spec.ts
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/env-replace.ts
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/index.ts
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/package-tar/
-usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/package-tar/pnpm-config.env-replace-1.0.0.tgz
+usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/package-tar/pnpm-config.env-replace-1.1.0.tgz
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/package.json
-usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/preview-1668198121918.js
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/tsconfig.json
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/types/
 usr/lib/node_modules/firebase-tools/node_modules/@pnpm/config.env-replace/types/asset.d.ts

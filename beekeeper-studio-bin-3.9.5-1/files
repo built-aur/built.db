@@ -8,6 +8,7 @@ opt/Beekeeper Studio/beekeeper-studio-bin
 opt/Beekeeper Studio/chrome-sandbox
 opt/Beekeeper Studio/chrome_100_percent.pak
 opt/Beekeeper Studio/chrome_200_percent.pak
+opt/Beekeeper Studio/chrome_crashpad_handler
 opt/Beekeeper Studio/icudtl.dat
 opt/Beekeeper Studio/libEGL.so
 opt/Beekeeper Studio/libGLESv2.so
@@ -89,6 +90,8 @@ opt/Beekeeper Studio/resources/public/icons/png/96x96.png
 opt/Beekeeper Studio/resources/public/icons/win/
 opt/Beekeeper Studio/resources/public/icons/win/favicon.ico
 opt/Beekeeper Studio/resources/public/index.html
+opt/Beekeeper Studio/resources/vendor/
+opt/Beekeeper Studio/resources/vendor/pagent.exe
 opt/Beekeeper Studio/snapshot_blob.bin
 opt/Beekeeper Studio/swiftshader/
 opt/Beekeeper Studio/swiftshader/libEGL.so

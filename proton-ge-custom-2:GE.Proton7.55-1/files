@@ -446,6 +446,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-window
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/api-ms-win-core-namespace-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/api-ms-win-core-normalization-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/api-ms-win-core-path-l1-1-0.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/api-ms-win-core-privateprofile-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/api-ms-win-core-privateprofile-l1-1-1.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/api-ms-win-core-processenvironment-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/wine/i386-windows/api-ms-win-core-processenvironment-l1-2-0.dll
@@ -1792,6 +1793,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-wi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/api-ms-win-core-namespace-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/api-ms-win-core-normalization-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/api-ms-win-core-path-l1-1-0.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/api-ms-win-core-privateprofile-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/api-ms-win-core-privateprofile-l1-1-1.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/api-ms-win-core-processenvironment-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/wine/x86_64-windows/api-ms-win-core-processenvironment-l1-2-0.dll
@@ -2791,7 +2793,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/d4ff.msi
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/1315.msi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/
@@ -3004,6 +3006,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/api-ms-win-core-namespace-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/api-ms-win-core-normalization-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/api-ms-win-core-path-l1-1-0.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/api-ms-win-core-privateprofile-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/api-ms-win-core-privateprofile-l1-1-1.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/api-ms-win-core-processenvironment-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/system32/api-ms-win-core-processenvironment-l1-2-0.dll
@@ -4089,6 +4092,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/api-ms-win-core-namespace-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/api-ms-win-core-normalization-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/api-ms-win-core-path-l1-1-0.dll
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/api-ms-win-core-privateprofile-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/api-ms-win-core-privateprofile-l1-1-1.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/api-ms-win-core-processenvironment-l1-1-0.dll
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/syswow64/api-ms-win-core-processenvironment-l1-2-0.dll
@@ -8882,7 +8886,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/2406
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/244210.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/244850.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/252430.py
-usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/254700.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/257420.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/261510.py
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/2620.py
@@ -9002,7 +9005,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/verb
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/verbs/klite.verb
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/verbs/vcrun2019_ge.verb
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/verbs/wmp9_ge.verb
-usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/gamefixes/verbs/xactengine3_7_ge.verb
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/libmspack.so.0
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/libmspack.so.0.1.0
 usr/share/steam/compatibilitytools.d/proton-ge-custom/protonfixes/libmspack_0.10.1-1.debian.tar.xz

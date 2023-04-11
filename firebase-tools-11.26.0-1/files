@@ -417,6 +417,9 @@ usr/lib/node_modules/firebase-tools/lib/frameworks/react/
 usr/lib/node_modules/firebase-tools/lib/frameworks/react/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/svelte/
 usr/lib/node_modules/firebase-tools/lib/frameworks/svelte/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/sveltekit/
+usr/lib/node_modules/firebase-tools/lib/frameworks/sveltekit/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/sveltekit/interfaces.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/utils.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/vite/
 usr/lib/node_modules/firebase-tools/lib/frameworks/vite/index.js

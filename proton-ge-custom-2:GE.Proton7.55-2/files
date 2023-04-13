@@ -142,7 +142,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/li
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgsttypefindfunctions.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstuvch264.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstv4l2codecs.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstva.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstvideobox.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstvideoconvert.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib/gstreamer-1.0/libgstvideofilter.so
@@ -1477,7 +1476,6 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgsttypefindfunctions.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstuvch264.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstv4l2codecs.so
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstva.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstvideobox.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstvideoconvert.so
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/lib64/gstreamer-1.0/libgstvideofilter.so
@@ -2793,7 +2791,7 @@ usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/dr
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Fonts/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/
-usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/1315.msi
+usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Installer/1879.msi
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/DirectX for Managed Code/
 usr/share/steam/compatibilitytools.d/proton-ge-custom/files/share/default_pfx/drive_c/windows/Microsoft.NET/Framework/

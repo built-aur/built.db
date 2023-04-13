@@ -393,6 +393,9 @@ usr/lib/node_modules/firebase-tools/lib/firestore/validator.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/
 usr/lib/node_modules/firebase-tools/lib/frameworks/angular/
 usr/lib/node_modules/firebase-tools/lib/frameworks/angular/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/astro/
+usr/lib/node_modules/firebase-tools/lib/frameworks/astro/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/astro/utils.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/docs/
 usr/lib/node_modules/firebase-tools/lib/frameworks/docs/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/express/

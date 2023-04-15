@@ -162,6 +162,7 @@ usr/lib/mysql/plugin/validate_password.so
 usr/lib/mysql/plugin/version_token.so
 usr/lib/mysqlrouter/
 usr/lib/mysqlrouter/connection_pool.so
+usr/lib/mysqlrouter/destination_status.so
 usr/lib/mysqlrouter/http_auth_backend.so
 usr/lib/mysqlrouter/http_auth_realm.so
 usr/lib/mysqlrouter/http_server.so
@@ -174,6 +175,7 @@ usr/lib/mysqlrouter/private/libmysqlharness_stdx.so.1
 usr/lib/mysqlrouter/private/libmysqlharness_tls.so.1
 usr/lib/mysqlrouter/private/libmysqlrouter.so.1
 usr/lib/mysqlrouter/private/libmysqlrouter_connection_pool.so.1
+usr/lib/mysqlrouter/private/libmysqlrouter_destination_status.so.1
 usr/lib/mysqlrouter/private/libmysqlrouter_http.so.1
 usr/lib/mysqlrouter/private/libmysqlrouter_http_auth_backend.so.1
 usr/lib/mysqlrouter/private/libmysqlrouter_http_auth_realm.so.1
@@ -270,11 +272,11 @@ usr/share/mysql/danish/
 usr/share/mysql/danish/errmsg.sys
 usr/share/mysql/dictionary.txt
 usr/share/mysql/docs/
-usr/share/mysql/docs/ChangeLog
 usr/share/mysql/docs/INFO_BIN
 usr/share/mysql/docs/INFO_SRC
 usr/share/mysql/docs/LICENSE.router
 usr/share/mysql/docs/README.router
+usr/share/mysql/docs/mysql.info
 usr/share/mysql/docs/sample_mysqlrouter.conf
 usr/share/mysql/dutch/
 usr/share/mysql/dutch/errmsg.sys

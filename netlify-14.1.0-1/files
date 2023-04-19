@@ -24008,7 +24008,9 @@ usr/lib/node_modules/netlify-cli/src/utils/state-config.mjs
 usr/lib/node_modules/netlify-cli/src/utils/static-server.mjs
 usr/lib/node_modules/netlify-cli/src/utils/telemetry/
 usr/lib/node_modules/netlify-cli/src/utils/telemetry/index.mjs
+usr/lib/node_modules/netlify-cli/src/utils/telemetry/report-error.mjs
 usr/lib/node_modules/netlify-cli/src/utils/telemetry/request.mjs
 usr/lib/node_modules/netlify-cli/src/utils/telemetry/telemetry.mjs
+usr/lib/node_modules/netlify-cli/src/utils/telemetry/utils.mjs
 usr/lib/node_modules/netlify-cli/src/utils/telemetry/validation.mjs
 usr/lib/node_modules/netlify-cli/src/utils/validation.mjs

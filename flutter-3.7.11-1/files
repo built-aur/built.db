@@ -43,8 +43,8 @@ opt/flutter/.git/objects/info/
 opt/flutter/.git/objects/info/commit-graph
 opt/flutter/.git/objects/info/packs
 opt/flutter/.git/objects/pack/
-opt/flutter/.git/objects/pack/pack-b77632cef79dc06630d874a958ab192f852406d9.idx
-opt/flutter/.git/objects/pack/pack-b77632cef79dc06630d874a958ab192f852406d9.pack
+opt/flutter/.git/objects/pack/pack-4235811aa50cb48448f1f255a9f2225050f3a39e.idx
+opt/flutter/.git/objects/pack/pack-4235811aa50cb48448f1f255a9f2225050f3a39e.pack
 opt/flutter/.git/packed-refs
 opt/flutter/.git/refs/
 opt/flutter/.git/refs/remotes/
@@ -3478,7 +3478,6 @@ opt/flutter/dev/devicelab/bin/tasks/flutter_gallery__transition_perf_with_semant
 opt/flutter/dev/devicelab/bin/tasks/flutter_gallery_android__compile.dart
 opt/flutter/dev/devicelab/bin/tasks/flutter_gallery_ios__compile.dart
 opt/flutter/dev/devicelab/bin/tasks/flutter_gallery_ios__start_up.dart
-opt/flutter/dev/devicelab/bin/tasks/flutter_gallery_ios_sksl_warmup__transition_perf.dart
 opt/flutter/dev/devicelab/bin/tasks/flutter_gallery_macos__compile.dart
 opt/flutter/dev/devicelab/bin/tasks/flutter_gallery_macos__start_up.dart
 opt/flutter/dev/devicelab/bin/tasks/flutter_gallery_v2_chrome_run_test.dart
@@ -10301,6 +10300,7 @@ opt/flutter/packages/flutter_tools/lib/src/macos/xcode_validator.dart
 opt/flutter/packages/flutter_tools/lib/src/mdns_discovery.dart
 opt/flutter/packages/flutter_tools/lib/src/migrations/
 opt/flutter/packages/flutter_tools/lib/src/migrations/cmake_custom_command_migration.dart
+opt/flutter/packages/flutter_tools/lib/src/migrations/cocoapods_script_symlink.dart
 opt/flutter/packages/flutter_tools/lib/src/migrations/xcode_project_object_version_migration.dart
 opt/flutter/packages/flutter_tools/lib/src/migrations/xcode_script_build_phase_migration.dart
 opt/flutter/packages/flutter_tools/lib/src/persistent_tool_state.dart

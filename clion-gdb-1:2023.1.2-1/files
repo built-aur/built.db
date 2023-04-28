@@ -107,6 +107,7 @@ opt/clion/bin/gdb/linux/x64/share/gdb/python/gdb/command/prompt.py
 opt/clion/bin/gdb/linux/x64/share/gdb/python/gdb/command/type_printers.py
 opt/clion/bin/gdb/linux/x64/share/gdb/python/gdb/command/unwinders.py
 opt/clion/bin/gdb/linux/x64/share/gdb/python/gdb/command/xmethods.py
+opt/clion/bin/gdb/linux/x64/share/gdb/python/gdb/disassembler.py
 opt/clion/bin/gdb/linux/x64/share/gdb/python/gdb/frames.py
 opt/clion/bin/gdb/linux/x64/share/gdb/python/gdb/function/
 opt/clion/bin/gdb/linux/x64/share/gdb/python/gdb/function/__init__.py

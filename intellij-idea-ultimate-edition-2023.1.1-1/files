@@ -80,7 +80,7 @@ opt/intellij-idea-ultimate-edition/lib/ant/src.zip
 opt/intellij-idea-ultimate-edition/lib/app.jar
 opt/intellij-idea-ultimate-edition/lib/async-profiler-windows.jar
 opt/intellij-idea-ultimate-edition/lib/async-profiler.jar
-opt/intellij-idea-ultimate-edition/lib/build-marker-IU-231.8109.175
+opt/intellij-idea-ultimate-edition/lib/build-marker-IU-231.8770.65
 opt/intellij-idea-ultimate-edition/lib/byte-buddy-agent.jar
 opt/intellij-idea-ultimate-edition/lib/cds/
 opt/intellij-idea-ultimate-edition/lib/cds/classesLogAgent.jar
@@ -246,7 +246,6 @@ opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-script-runt
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-scripting-common.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-scripting-compiler-impl.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-scripting-compiler.jar
-opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-scripting-js.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-scripting-jvm.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk7-sources.jar
 opt/intellij-idea-ultimate-edition/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk7.jar
@@ -1132,8 +1131,8 @@ opt/intellij-idea-ultimate-edition/plugins/javascript-impl/helpers/vitest-intell
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/helpers/vitest-intellij/vitest-intellij-reporter.js
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/helpers/vitest-intellij/vitest-intellij-util.js
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/
-opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/js-predefined-1d06a55b98c1-0005a08c68c2.ijx
-opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/js-predefined-1d06a55b98c1-0005a08c68c2.txt
+opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/js-predefined-1d06a55b98c1-e95fd0b84d23.ijx
+opt/intellij-idea-ultimate-edition/plugins/javascript-impl/js/js-predefined-1d06a55b98c1-e95fd0b84d23.txt
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/jsLanguageServicesImpl/
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/jsLanguageServicesImpl/external/
 opt/intellij-idea-ultimate-edition/plugins/javascript-impl/jsLanguageServicesImpl/external/browser.d.ts

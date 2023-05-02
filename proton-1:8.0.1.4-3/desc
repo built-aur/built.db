@@ -1,5 +1,5 @@
 %FILENAME%
-proton-1_8.0.1.4-2-x86_64.pkg.tar.xz
+proton-1_8.0.1.4-3-x86_64.pkg.tar.xz
 
 %NAME%
 proton
@@ -8,25 +8,25 @@ proton
 proton
 
 %VERSION%
-1:8.0.1.4-2
+1:8.0.1.4-3
 
 %DESC%
 Compatibility tool for Steam Play based on Wine and additional components
 
 %CSIZE%
-258131848
+258103480
 
 %ISIZE%
-1181131132
+1181096316
 
 %MD5SUM%
-7efb5c5b1926071e8fb1dc8c2bf09d8c
+f27ce7ae6b39feaea3b3a59de5f24a76
 
 %SHA256SUM%
-438a7ce1d3655b41f014cd39d8b107a81656a6b2355631f83f6f900e9747cd12
+679825e935dcc70cc177691e25459726645deeadd83ff1c76f7cbd3627ad6c3b
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmQ//N0ACgkQAiE6BJNFfpa0kA/8DgEIMAdIliMbyFeAXhf821WbVkuJQF26N2kipxWSZHWxtEGO91TTesUYcaJ+9+BUnRSOf6ug9cjDjDUUIeT4orwqSYQVd37lOJgtmY/sOx1zMk/gBrSD2K2vMH0XyjcHhkpJoeP3tOyLnjDsMaNlhwqF6bxO1wAK+UZ0ibGk/7sGlPlBCZlW62Pl2bOHbu1Megz4lrCK2xliqtTeMYMj3Af2MwgzkRmebhu7bYtV5OhZ3AJA7Cdcl/l+5uf9h61C9gDfzCoXSrlegxlsXfvYbQC6LnHy6jq5WXLrbccbtr/T2n2gZRfk5t/rF2kDwuvmjdF4nwLVPnHkOx/nDwX9eCkXKiXxIoXtXoaNu7A9QZfyIgAKVB4BA2xvAtpD8nS7CpPyIQ6jfqC22wa5pNzX+Q5oYsTfJuv+0uqiEFFISLyJuNIAAbDkLlqp+qaGWvd+NBouyoh/41MSJ39omnRHPrWIa6oYNqQORITJZOr0uKXLiiRwoLp/bnx2j9fZSnG2U5NMdZtS1H1BAtesFmv9Mxtv+Ih4JFepafFJWxfVszB151iv9CXlzS9YK/ScYXnWtU81w7HGS92vvJblU2jKqQwNu7yde0ctDZ6WZMePM8UCGQ8HJsgZ8PxokPJ8dCJUqzpaePc0NBt8iwGCwfbDv6moLK1d21jmFAdnOKMh/HM=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmRROAUACgkQAiE6BJNFfpZYahAAyCtupcFWzHQuWvkeUbuC5CGz+io/MH5bP/eAY1RI0aa7g2r2qyCqFFNNDsiYc/jxqK/7xWNTuXv32iWuB7IbFwB2GFFQ2+SXWQ+b+rszVbYPiXTsBZhVj93WftIqCJUf5bZ+pS79schP3agjYHDUYrAEgLG7FE9xsVWiXk7Cu9xos0qitNbkP2OKytNhmtcyreTrzkjj6b4Lk61j4G6WGNd3LGwALMB7i7fh0Z2QiKDwYxVmRHNu3mOLp2ai32VNy9T7W8MqdhDgelCsVOPWHgzwFpnLV9sja5+9ziUEgTEqSMjDo+w05t97Xp/28wbpb2ikcUNcfhLFi10pHMrtktUmZvNeQb/kH/s8J/LSJsAxG4ittklJ4jnzWDZVI38yraoZ0dlQgOuBOS4+P4JhdmZmu971iwOND3uiITlH0lnXh+dfB9gT0pMCjQsxdwemud9sIf6YpTFDnPUWleOcd/2lYG5N1D7ti2KALDZ298s2kx1q7nyNrBjqaOcdOkdYsly2W67zFnqJTYqtCQLgD8a/ipqFKSQOPjrwJVyZEzeg+hJDgZQU9WYOCjADpEvtUhNclXB4FPc94neNSul5OQieSCrmLZ8oL51nNXu1PDDqzV5EsSs5X6iYSUuYGgO384GEUR8CNIDSJkTIFUrE5cNlqNeYfPwuuhNFu2j+N6k=
 
 %URL%
 https://github.com/ValveSoftware/Proton
@@ -38,16 +38,10 @@ custom
 x86_64
 
 %BUILDDATE%
-1681907368
+1683036944
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
-
-%CONFLICTS%
-proton-native
-
-%PROVIDES%
-proton-native
 
 %DEPENDS%
 attr
@@ -103,8 +97,6 @@ libxinerama
 lib32-libxinerama
 opencl-icd-loader
 lib32-opencl-icd-loader
-libva
-lib32-libva
 gtk3
 lib32-gtk3
 gst-plugins-base-libs
@@ -158,8 +150,6 @@ opencl-icd-loader
 lib32-opencl-icd-loader
 libpulse
 lib32-libpulse
-libva
-lib32-libva
 gtk3
 lib32-gtk3
 gst-plugins-base-libs

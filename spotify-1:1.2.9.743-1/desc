@@ -1,0 +1,61 @@
+%FILENAME%
+spotify-1_1.2.9.743-1-x86_64.pkg.tar.xz
+
+%NAME%
+spotify
+
+%BASE%
+spotify
+
+%VERSION%
+1:1.2.9.743-1
+
+%DESC%
+A proprietary music streaming service
+
+%CSIZE%
+91079940
+
+%ISIZE%
+270700645
+
+%MD5SUM%
+02c52e4b95d58d48f47def4d017890ea
+
+%SHA256SUM%
+9b94fe5a577bb7b51495a87736354f5b741957579a7900e508f6a44375abfa8d
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmRSpxcACgkQAiE6BJNFfpYBrw/9GR9OwqH1kxCEQ8zg+Af7UChofc/qf6qRjPutM71JTckVWdTQqSHqpkxNVB4DxUPBxwUISo/2ZWgxGjEK+ACxPMS+zjO6AdBvCxDiZ0T6v8xmPocBPkiD/A3dwIKwL3ZyXxCA50LcF2YFqSqEyKc9ybbdJpK6nlxXt3XBQh3Yl89YyOV3k6Qo1Ccd/7le2dWZjJH3JG+m5ZnWrPBgl4F3mjtU+JwEKw4CiXTCA9rc4GDes56rQR8optKjHOBQJg0jazPJuMRcV6Fg96wPRKe6AX9vNjwRgeJMymLtKPtItNpcJNIAGpmCpwCUBm3+VwRk5fzcOR0wtsDqPNqBejNMt8XVKDgLGSCkmUrJQR4xhVWDoPgA26PvzFLnLihc1VsbgTsxpkWwTF3QWHy0WgRuXJ7dkBxoKdRz7GuspUsFjYE6Q5qaR2JrmDgVCnno4E83YZ7KsoIAApvymYHtjXajlUuOQNGn+yncoQKpybHt7/ga7oynnitSp0ZOyLOfg068iNL0DZpglqsx6Ucx4wSgJ9yk/BuOrgM2JSK8/vHUYvxnaFQTMWTg5yTH74j0jNu+8pROs2CJycy9EIVsAns+I6T8GLV8VVX0bq4w9TwRvFWmYP/n4zUtI8NQwonh/hkYamYIhinbW5pv4nmFGH3Lz1uHhoUI5UPID8Bg11nbu2A=
+
+%URL%
+https://www.spotify.com
+
+%LICENSE%
+custom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1683137981
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%DEPENDS%
+alsa-lib>=1.0.14
+gtk3
+libxss
+desktop-file-utils
+openssl
+nss
+at-spi2-atk
+libcurl-gnutls
+libsm
+
+%OPTDEPENDS%
+ffmpeg4.4: Adds support for playback of local files
+zenity: Adds support for importing local files
+libnotify: Desktop notifications
+

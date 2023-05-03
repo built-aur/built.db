@@ -1,0 +1,73 @@
+%FILENAME%
+visual-studio-code-bin-1.77.3-1-x86_64.pkg.tar.xz
+
+%NAME%
+visual-studio-code-bin
+
+%BASE%
+visual-studio-code-bin
+
+%VERSION%
+1.77.3-1
+
+%DESC%
+Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
+
+%CSIZE%
+84236456
+
+%ISIZE%
+325465815
+
+%MD5SUM%
+1aa1be2d6192da340bf1f705e641b2a6
+
+%SHA256SUM%
+6efb1594417ec604fbcd84a7940010b0f8648c2f1283f094b2e07bee69937af6
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmRSpvcACgkQAiE6BJNFfpYWiA/8CSdXsXb1TtQWWOhucXjWeOS+b+ZEdRrmPzPAad6BVB80s3EDhfI2fYNQQAxj8TeQRqyQ2mcDi5HzT2zhni0/2bW9O0PgnO7TEOqmoA6rHFsTLh0k5ECsMmv4INHyk1fBUVPxNCOzrBwGhMPdPYlw3WGJQKBnKyf88sBbJaiyGCbpPqmvALHrgjc37rxv76a0ljUHcFXLDUpB9ltbTKFvcGJtDO5x56rEcG8kIKW2/9ZwwZkIpG21E89mqzQsHOdoI7G9s57deO7lFLemMAnQ4oMHbCnKisbCkK3nr6ZcrN4hnU8Dg97HBkPw8H7IJ1sn/WGGBiXrqF2KlPt431etMu01mw3zVNOo7l71sq5X68777sjr/8trJEJ/4jmGhJ/4c6CishWtNCpUGpv8sqQdKRriMCjy5x9wXImtzugS9v+ZYJN0wX0ZbkhI7ggsbO3Oer8ScQlFXBcKQzvA74v4CLvaa3HD1l3+hgoYD0mY5zzuB5cP+kUjnB8gJ51bGx21MXZ4mNOquusTRnYZzCdaun+wQFry60xDC7kbxILult4IIJGUYASOkt9y2YhGC002e80HEZo80LncoAGYOPHS5eh/B+i11Gle6sbphqXgS8/Orv+Vbhwqavx0kKhVqWdfj7FV0eyQTwN1nK/TRwvmJUx/L5ANwismA72/rA5prbk=
+
+%URL%
+https://code.visualstudio.com/
+
+%LICENSE%
+custom: commercial
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1683138019
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%CONFLICTS%
+code
+
+%PROVIDES%
+code
+vscode
+
+%DEPENDS%
+libxkbfile
+gnupg
+gtk3
+libsecret
+nss
+gcc-libs
+libnotify
+libxss
+glibc
+lsof
+shared-mime-info
+xdg-utils
+alsa-lib
+
+%OPTDEPENDS%
+glib2: Needed for move to trash functionality
+libdbusmenu-glib: Needed for KDE global menu
+org.freedesktop.secrets: Needed for settings sync
+icu69: Needed for live share
+

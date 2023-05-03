@@ -53,6 +53,7 @@ usr/include/v8-fast-api-calls.h
 usr/include/v8-forward.h
 usr/include/v8-function-callback.h
 usr/include/v8-function.h
+usr/include/v8-handle-base.h
 usr/include/v8-initialization.h
 usr/include/v8-inspector-protocol.h
 usr/include/v8-inspector.h
@@ -78,6 +79,7 @@ usr/include/v8-proxy.h
 usr/include/v8-regexp.h
 usr/include/v8-script.h
 usr/include/v8-snapshot.h
+usr/include/v8-source-location.h
 usr/include/v8-statistics.h
 usr/include/v8-template.h
 usr/include/v8-traced-handle.h

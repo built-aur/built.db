@@ -1,5 +1,5 @@
 %FILENAME%
-wine-ge-custom-1_GE.Proton7.35-1-x86_64.pkg.tar.xz
+wine-ge-custom-1_GE.Proton8.1-3-x86_64.pkg.tar.xz
 
 %NAME%
 wine-ge-custom
@@ -8,25 +8,25 @@ wine-ge-custom
 wine-ge-custom
 
 %VERSION%
-1:GE.Proton7.35-1
+1:GE.Proton8.1-3
 
 %DESC%
 A compatibility layer for running Windows programs - GloriousEggroll branch
 
 %CSIZE%
-55122696
+54845724
 
 %ISIZE%
-368684498
+379410486
 
 %MD5SUM%
-c89ad4ed5f1d136a21dbaa49fc848ad1
+268ccbe0bdc0a98db0a2ccefbae5232a
 
 %SHA256SUM%
-b90fba6b8eba51886a89d99d8bac69680c266c8851d719ff61fecb756f44b144
+373adcbba52e31547924c7e4d95f849bf860249cd101fb36ad5288c3cf9c7329
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmOpG20ACgkQAiE6BJNFfpbljg//UVZ6gVGZXg8zNugHzS4f2/+BQS8wm2P2JojVTLuR2yUOGYTMwJKKU4+MneN1C0klog5jI1edcVE3bj6QX3wBiyLwOyWPeupigT+BQZun0NgbjJrHXdTfVfK6gEXjoPcO46fZadQ2HzRfO3usxlbVoXRD53qHKUu+k3G4Wc82s61o+L7qzcyMN805/bWH4wYtYFPxQB7+PlxhFTLnpPDQnkrSSmi1bJdrUm2cJFtyHKfOh+Bawl+zMRpHsVv4tJ1KIAcANM32kiY59i0FlrF3rkw0DN/oRQSCr5T3dstHfoU51Qtl+njzvlUpmMkj8uDbS9/uDuxy4jtg8FxfJPGty2taYYzXuU642y2bO7AG8DJgU5RQngVNaLYAXKO8vzAQl0+Fs810cVFemATGCa8qeAud0RpY0GevsNXeNBeKUDZWZ9Q0kX2/KxBoSPYR+HLpjItRxXfnJTZv6pH8aZ1bjFDOissG2NRtCPpthccsep385aeANtxQCR4I4k2CNoiO7prlSqTeUi03jTHjtasTj4Egm5DRp9EbccJgSt+b6xhTiPZhzXFUYiiFmgs2JdzkOk0VvblabHHF/99I11aCWfj2lzQB69Aa0CWqcgj4waTJwvm4ze2ZQDXULP8vtthKvxUJ4ausBVdR7Ytj/3xFFOlqc3fXDJ5XYHKeKDz2ohA=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmRStyAACgkQAiE6BJNFfpY7CQ//bZDgcLjeA9tfvhKXp6tRYEBzw4tAr15GeGLS/eSCab4BvrqEj62A3Jk+Ip9RvZARi8hPKOIk4cY8Ip7ORwdxIWOkoixjg1fTcRW9TMv0L5rDSqwxabdoXXcBNTUZEfEeBngSP/D6pgp/iN8iNkVRqv4TmU7kMH+1exo9+nPldqqNXxaDsGR/vlCN6TcW6KJqvSwCp+hq4Cp188BDw7RPcejK3gKyx8r9wQrzsg58fCcYapEgfRmKssEClpZqcARBzPFGX9PRf3bMlULmwFX7xoyK+VzzPFV06wq/sLxmYLtIv0aWXT9cCwR+So+v+OSBPTr5IwlU1QKED9n2Ps99+Hur+Jpk/DbnQSealyzYQPOovjFJw5lU3zgZEPCwi2bOV5hfn7C4wKc6KNLOfUjn3q3d2pfeyial6LORuxxctNN/tqozEva8UZm8Ff8ammHviIfYLE1kGr+chyx+LWpnp28JhZBnw3gEfL7sfFUTGhqJ4QoJZRPQduOXIGs+KYQHDC7boyqfV8Kk3fRjIjZ4R3CgkIL7cadW51StvQYgqJ+shF+Tv0Fs1B+IyAou1agBQQtf4Wf1Ak+H0P6L0C1ei4hSuVtp8DCcLpYTPfzCpNkZ+AfH6aVxUrwxivTAxm6PG6iZ4LTgYR4euqKbDTZx/1DUjrunrzaz9Jgmi8tDwGE=
 
 %URL%
 https://github.com/GloriousEggroll/wine-ge-custom
@@ -38,7 +38,7 @@ LGPL
 x86_64
 
 %BUILDDATE%
-1672023397
+1683138194
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>
@@ -48,34 +48,24 @@ wine
 wine-wow64
 
 %PROVIDES%
-wine=7.0
-wine-wow64=7.0
+wine=8.0
+wine-wow64=8.0
 
 %DEPENDS%
 attr
 lib32-attr
 fontconfig
 lib32-fontconfig
-lcms2
-lib32-lcms2
-libxml2
-lib32-libxml2
 libxcursor
 lib32-libxcursor
 libxrandr
 lib32-libxrandr
-libxdamage
-lib32-libxdamage
 libxi
 lib32-libxi
 gettext
 lib32-gettext
 freetype2
 lib32-freetype2
-glu
-lib32-glu
-libsm
-lib32-libsm
 gcc-libs
 lib32-gcc-libs
 libpcap
@@ -85,16 +75,8 @@ desktop-file-utils
 %OPTDEPENDS%
 giflib
 lib32-giflib
-libpng
-lib32-libpng
-libldap
-lib32-libldap
 gnutls
 lib32-gnutls
-mpg123
-lib32-mpg123
-openal
-lib32-openal
 v4l-utils
 lib32-v4l-utils
 libpulse
@@ -103,30 +85,25 @@ alsa-plugins
 lib32-alsa-plugins
 alsa-lib
 lib32-alsa-lib
-libjpeg-turbo
-lib32-libjpeg-turbo
 libxcomposite
 lib32-libxcomposite
 libxinerama
 lib32-libxinerama
 opencl-icd-loader
 lib32-opencl-icd-loader
-libxslt
-lib32-libxslt
 libva
 lib32-libva
 gtk3
 lib32-gtk3
 gst-plugins-base-libs
 lib32-gst-plugins-base-libs
+gst-plugins-good
+lib32-gst-plugins-good
 vulkan-icd-loader
 lib32-vulkan-icd-loader
 sdl2
 lib32-sdl2
-vkd3d
-lib32-vkd3d
 libgphoto2
-gsm
 ffmpeg
 dosbox
 
@@ -134,30 +111,20 @@ dosbox
 autoconf
 bison
 perl
-fontforge
 flex
 mingw-w64-gcc
 git
+python
 giflib
 lib32-giflib
-libpng
-lib32-libpng
 gnutls
 lib32-gnutls
 libxinerama
 lib32-libxinerama
 libxcomposite
 lib32-libxcomposite
-libxmu
-lib32-libxmu
 libxxf86vm
 lib32-libxxf86vm
-libldap
-lib32-libldap
-mpg123
-lib32-mpg123
-openal
-lib32-openal
 v4l-utils
 lib32-v4l-utils
 alsa-lib
@@ -170,8 +137,6 @@ mesa-libgl
 lib32-mesa-libgl
 opencl-icd-loader
 lib32-opencl-icd-loader
-libxslt
-lib32-libxslt
 libpulse
 lib32-libpulse
 libva
@@ -180,14 +145,13 @@ gtk3
 lib32-gtk3
 gst-plugins-base-libs
 lib32-gst-plugins-base-libs
+gst-plugins-good
+lib32-gst-plugins-good
 vulkan-icd-loader
 lib32-vulkan-icd-loader
 sdl2
 lib32-sdl2
-vkd3d
-lib32-vkd3d
 libgphoto2
-gsm
 ffmpeg
 opencl-headers
 

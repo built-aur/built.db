@@ -31,7 +31,7 @@ opt/jetbrains-gateway/lib/
 opt/jetbrains-gateway/lib/3rd-party-rt.jar
 opt/jetbrains-gateway/lib/annotations-java5.jar
 opt/jetbrains-gateway/lib/app.jar
-opt/jetbrains-gateway/lib/build-marker-GW-231.8109.187
+opt/jetbrains-gateway/lib/build-marker-GW-231.8770.69
 opt/jetbrains-gateway/lib/byte-buddy-agent.jar
 opt/jetbrains-gateway/lib/cds/
 opt/jetbrains-gateway/lib/cds/classesLogAgent.jar

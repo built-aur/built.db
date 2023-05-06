@@ -1,5 +1,5 @@
 %FILENAME%
-proton-ge-custom-2_GE.Proton8.1-1-x86_64.pkg.tar.xz
+proton-ge-custom-2_GE.Proton8.2-2-x86_64.pkg.tar.xz
 
 %NAME%
 proton-ge-custom
@@ -8,25 +8,25 @@ proton-ge-custom
 proton-ge-custom
 
 %VERSION%
-2:GE.Proton8.1-1
+2:GE.Proton8.2-2
 
 %DESC%
 Compatibility tool for Steam Play based on Wine and additional components, GloriousEggroll's custom build
 
 %CSIZE%
-266983184
+267226060
 
 %ISIZE%
-1212817847
+1213858788
 
 %MD5SUM%
-6734cea2b887832c8510747cfe479014
+b2b9e4196178504eb98328cb6863ddd9
 
 %SHA256SUM%
-5107e7846c17911758b0424db749ed0fa4a7b9103ed649ebc962e9d87e3e95fb
+b9e27c5ceb0c933b9448e9002f69cd74aaa4ce05c88f18063e00b4396abf2896
 
 %PGPSIG%
-iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmRRO5YACgkQAiE6BJNFfpY9YRAAszHPk6wGjoab8tAzcTdZnDF4SOwDTtU26JzV+Why1aJCfO4ZsMut5nT2y47ojrirlte/q2F3KFMb29iwvW2mwQZWfS4hYBUs9fB4vyf2lq74ik6rx5+lEVQ3Swj5zTGP/ShTidR/m1CRU+WmaLjP1IraV+WhsGhapXv5GjMfL+m3e1aRLeMZpbBmSU0OxCqaq7K+vCtJixXw/80MKAB6ruInPJAQVj1oN3PyuZ3doe+zVdwD4LPJW2BrWoRI53V/b1RNjR/Ve485Bxhrdfl2JNvCgPh+RWztazvGXkG/cbQfmidpCHE80KKM+4tR0nEzXUBnA8fpIvCeg/fBJ+aUnJn/91HpbbfWW8EieqnwSDcmgigQaQDoyTdzkDpPL/SuXva8NEupyZMgyRVUgsWTBtxd0UUDuD6jSuqRZvk0iM9ku2K4iGQ4EH4xvr3YQNWRr5ep/EI5FfBMNAzdg/xDJv4I1XXMu5qVooiWlwMOvJMHPnfJ4cbKYMmHBLXgmohnwuErit46Xc5nc6B4v95PBK1nZy2fazZzeaCvYIz3dpyvzkLvqxZscPevsrFCLIiTIsEuIha34nDGTGUfGsvHQ6G9Q2KR8cVZOhh88NBsQl9neJcx5sPsyI9T6Cygd7renTgdy5pXl8v7aC/aFohrCpjNYEuAc/i2FKDlCxj9gRA=
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmRWowQACgkQAiE6BJNFfpanKhAAmTMPyxxMDHDif9b1VvTiOFJMuy+GREua9n5zH/eyxwpP/DZhbkHT6V/SdJmA8hH9bely/q1qg7/trmiPkG5j3J3cVojw7OYiJxLciEHkiwlu7JULi3Sp33v63HIcmMvDpPqOMY+AYFPoOpM5IZuR84DK7GUj3iCCc2cuDxwgFAIEyz/syIVdAk0tCxhx1zKo+LZVdYIlRtx9tYFATIL5i0OWrjG0QQNNgU0H6RvyZO1ZN84vaf4y68/m9cX0J+4l6/Zo0xavCeGc37us4Z7HoBX20IEyKJ8zO8Yi0k0CTPZ8AXYMUUoPIiiHXdnGj/8XKKfgf9Li9CK5kzbRepRx1fLWGnAvnkuzX4duqhy6iTWkwqZHZKD1i+65NCy8K6ZYRQ9hfE3kXK9j8NoiECwhCNe4Xqwsacuiesg2J4aB5aRftnmro8lJjybj22zPRT2RKC6isxsGZ5D0RcMbTUHqxd0QmVUQJ9r38fc48Ux2e6a16zaJpUlhsrYJsuuDkkqY0yCX1jL7R7jmXolJweQpmdGf1PI9wVEAGubGdf/llWxS3rXsmJsNmB2jljxPYX2Y35ww6d4Awh4p2dlvW7O+W75yuPfTS6kEJfBc0lAS8OYPYSmW47l1gsdJbtHTCXr1ejnrgylK5vI3Ahi4bjieDQSqx9vv5PMyBZEXvXJVHJg=
 
 %URL%
 https://github.com/GloriousEggroll/proton-ge-custom
@@ -38,7 +38,7 @@ custom
 x86_64
 
 %BUILDDATE%
-1683036949
+1683389931
 
 %PACKAGER%
 MedzikUser <nivua1fn@duck.com>

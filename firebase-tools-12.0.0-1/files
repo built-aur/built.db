@@ -65,21 +65,17 @@ usr/lib/node_modules/firebase-tools/lib/commands/experiments-enable.js
 usr/lib/node_modules/firebase-tools/lib/commands/experiments-list.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-configure.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-deprecate.js
-usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-emulators-exec.js
-usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-emulators-start.js
-usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-extension-delete.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-init.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-list.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-publish.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-register.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-undeprecate.js
-usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-unpublish.js
+usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-upload.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-dev-usage.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-export.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-info.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-install.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-list.js
-usr/lib/node_modules/firebase-tools/lib/commands/ext-sources-create.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-uninstall.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext-update.js
 usr/lib/node_modules/firebase-tools/lib/commands/ext.js
@@ -347,7 +343,6 @@ usr/lib/node_modules/firebase-tools/lib/error.js
 usr/lib/node_modules/firebase-tools/lib/errorOut.js
 usr/lib/node_modules/firebase-tools/lib/experiments.js
 usr/lib/node_modules/firebase-tools/lib/extensions/
-usr/lib/node_modules/firebase-tools/lib/extensions/askUserForConsent.js
 usr/lib/node_modules/firebase-tools/lib/extensions/askUserForEventsConfig.js
 usr/lib/node_modules/firebase-tools/lib/extensions/askUserForParam.js
 usr/lib/node_modules/firebase-tools/lib/extensions/billingMigrationHelper.js
@@ -371,9 +366,11 @@ usr/lib/node_modules/firebase-tools/lib/extensions/metricsUtils.js
 usr/lib/node_modules/firebase-tools/lib/extensions/paramHelper.js
 usr/lib/node_modules/firebase-tools/lib/extensions/provisioningHelper.js
 usr/lib/node_modules/firebase-tools/lib/extensions/publishHelpers.js
+usr/lib/node_modules/firebase-tools/lib/extensions/publisherApi.js
 usr/lib/node_modules/firebase-tools/lib/extensions/refs.js
 usr/lib/node_modules/firebase-tools/lib/extensions/resolveSource.js
 usr/lib/node_modules/firebase-tools/lib/extensions/secretsUtils.js
+usr/lib/node_modules/firebase-tools/lib/extensions/tos.js
 usr/lib/node_modules/firebase-tools/lib/extensions/types.js
 usr/lib/node_modules/firebase-tools/lib/extensions/updateHelper.js
 usr/lib/node_modules/firebase-tools/lib/extensions/utils.js
@@ -399,6 +396,8 @@ usr/lib/node_modules/firebase-tools/lib/firestore/validator.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/
 usr/lib/node_modules/firebase-tools/lib/frameworks/angular/
 usr/lib/node_modules/firebase-tools/lib/frameworks/angular/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/angular/interfaces.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/angular/utils.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/astro/
 usr/lib/node_modules/firebase-tools/lib/frameworks/astro/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/astro/utils.js
@@ -5059,6 +5058,7 @@ usr/lib/node_modules/firebase-tools/node_modules/eslint-visitor-keys/LICENSE
 usr/lib/node_modules/firebase-tools/node_modules/eslint-visitor-keys/README.md
 usr/lib/node_modules/firebase-tools/node_modules/eslint-visitor-keys/dist/
 usr/lib/node_modules/firebase-tools/node_modules/eslint-visitor-keys/dist/eslint-visitor-keys.cjs
+usr/lib/node_modules/firebase-tools/node_modules/eslint-visitor-keys/dist/eslint-visitor-keys.d.cts
 usr/lib/node_modules/firebase-tools/node_modules/eslint-visitor-keys/dist/index.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/eslint-visitor-keys/dist/visitor-keys.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/eslint-visitor-keys/lib/
@@ -16265,7 +16265,6 @@ usr/lib/node_modules/firebase-tools/node_modules/zip-stream/LICENSE
 usr/lib/node_modules/firebase-tools/node_modules/zip-stream/README.md
 usr/lib/node_modules/firebase-tools/node_modules/zip-stream/index.js
 usr/lib/node_modules/firebase-tools/node_modules/zip-stream/package.json
-usr/lib/node_modules/firebase-tools/npm-shrinkwrap.json
 usr/lib/node_modules/firebase-tools/package.json
 usr/lib/node_modules/firebase-tools/schema/
 usr/lib/node_modules/firebase-tools/schema/firebase-config.json

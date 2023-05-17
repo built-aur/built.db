@@ -7097,6 +7097,8 @@ usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/external/index.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/external/index.js
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/external/rekor.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/external/rekor.js
+usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/external/tsa.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/external/tsa.js
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/identity/
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/identity/ci.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/identity/ci.js
@@ -7143,12 +7145,17 @@ usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tlog/verify/index.d
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tlog/verify/index.js
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tlog/verify/set.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tlog/verify/set.js
+usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tsa/
+usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tsa/index.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tsa/index.js
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tuf/
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tuf/index.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tuf/index.js
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tuf/target.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/tuf/target.js
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/types/
+usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/types/fetch.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/types/fetch.js
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/types/signature.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/types/signature.js
 usr/lib/node_modules/@angular/cli/node_modules/sigstore/dist/types/sigstore/

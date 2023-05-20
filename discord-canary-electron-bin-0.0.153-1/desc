@@ -1,0 +1,73 @@
+%FILENAME%
+discord-canary-electron-bin-0.0.153-1-x86_64.pkg.tar.xz
+
+%NAME%
+discord-canary-electron-bin
+
+%BASE%
+discord-canary-electron-bin
+
+%VERSION%
+0.0.153-1
+
+%DESC%
+Discord Canary (popular voice + video app) using the system provided electron for increased security and performance
+
+%CSIZE%
+1385368
+
+%ISIZE%
+8178435
+
+%MD5SUM%
+c254e225d2a4dc9e3e7da8c5236c8630
+
+%SHA256SUM%
+e8c1f0b2788ad8bd731fa64dfb9e95fd7caa331714f9d16cfc00a7efe3bfeffc
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmRo8usACgkQAiE6BJNFfpZD9w//eaExSzJ2HKjw/Hd+I3KsghAIMApdLVc22eTedfMk+8C/AHa8FEteSro6z3bNekJ8QkMJmh81TPdegbov9lPJdZKN+LFalt6F/4HRLBcSbCMdAVtBBYqH/nk1PKg6ulrYvuFsxTtL//dtjRtcrtoHA77jogp/q0KAEl4IRfHfIZsKUtYnE7BRf/Y7OGxRPQtht3f8VGI8PW2ePebpqALNyef0LwW1t+OeFxQRp9F1SxlmWcfABn6ygWuiLzuE+mQVndCXKPXeGKoERZnBff/iCPIIB9Tn7mu0lygjeP0CHodfgdl7F6clKYgPsNUBvTSMBxTr3i3Zy6YjHI+41t6N424/p9yKePHoFZ4JfXnEC5AjuKL/fiIU5DzkVRjIpZzItY5NcWK1SVc1VRnoQpCN7rYkxniaCvEkAnPlts/kiNtwNvctEMzGl/65nkenK0SrGWzwj3cHIkxaSMY9nOIzMxFA4O1hPtrQOtMVLjF16pYyqWuq4Bw1tWP1b9dXkF2fULta8Kd6PQM745WVGYjASseywQ4kBfKsTqAwFUH4uaOFztBLvs+ET0CMFhMpGUR6zl6kVJtDS1jVrxC6quTxeaCsDVR4+iexFB+8ysCOWu052kyuVFPZmIN0ONIynEdN6GNr42Iwiwi6j3ZZasDRIg0n3ku/CAzmUp2kOdB1XUw=
+
+%URL%
+https://canary.discordapp.com
+
+%LICENSE%
+custom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1684599448
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%CONFLICTS%
+discord-canary
+
+%PROVIDES%
+discord-canary
+
+%DEPENDS%
+electron22
+gtk3
+libnotify
+libxss
+glibc
+alsa-lib
+nspr
+nss
+xdg-utils
+libcups
+
+%OPTDEPENDS%
+libpulse: Pulseaudio support
+xdg-utils: Open files
+noto-fonts-emoji: Google font for emoji support.
+ttf-symbola: Font for emoji support.
+noto-fonts-cjk: Font for special characters such as /shrug face.
+
+%MAKEDEPENDS%
+asar
+

@@ -53,8 +53,6 @@ usr/lib/node_modules/aws-cdk/lib/api/bootstrap/index.d.ts
 usr/lib/node_modules/aws-cdk/lib/api/bootstrap/index.js
 usr/lib/node_modules/aws-cdk/lib/api/bootstrap/legacy-template.d.ts
 usr/lib/node_modules/aws-cdk/lib/api/bootstrap/legacy-template.js
-usr/lib/node_modules/aws-cdk/lib/api/cloudformation-deployments.d.ts
-usr/lib/node_modules/aws-cdk/lib/api/cloudformation-deployments.js
 usr/lib/node_modules/aws-cdk/lib/api/cxapp/
 usr/lib/node_modules/aws-cdk/lib/api/cxapp/cloud-assembly.d.ts
 usr/lib/node_modules/aws-cdk/lib/api/cxapp/cloud-assembly.js
@@ -66,6 +64,8 @@ usr/lib/node_modules/aws-cdk/lib/api/cxapp/exec.d.ts
 usr/lib/node_modules/aws-cdk/lib/api/cxapp/exec.js
 usr/lib/node_modules/aws-cdk/lib/api/deploy-stack.d.ts
 usr/lib/node_modules/aws-cdk/lib/api/deploy-stack.js
+usr/lib/node_modules/aws-cdk/lib/api/deployments.d.ts
+usr/lib/node_modules/aws-cdk/lib/api/deployments.js
 usr/lib/node_modules/aws-cdk/lib/api/evaluate-cloudformation-template.d.ts
 usr/lib/node_modules/aws-cdk/lib/api/evaluate-cloudformation-template.js
 usr/lib/node_modules/aws-cdk/lib/api/hotswap-deployments.d.ts
@@ -162,8 +162,6 @@ usr/lib/node_modules/aws-cdk/lib/context-providers/ssm-parameters.d.ts
 usr/lib/node_modules/aws-cdk/lib/context-providers/ssm-parameters.js
 usr/lib/node_modules/aws-cdk/lib/context-providers/vpcs.d.ts
 usr/lib/node_modules/aws-cdk/lib/context-providers/vpcs.js
-usr/lib/node_modules/aws-cdk/lib/deploy.d.ts
-usr/lib/node_modules/aws-cdk/lib/deploy.js
 usr/lib/node_modules/aws-cdk/lib/diff.d.ts
 usr/lib/node_modules/aws-cdk/lib/diff.js
 usr/lib/node_modules/aws-cdk/lib/import.d.ts
@@ -418,6 +416,12 @@ usr/lib/node_modules/aws-cdk/lib/util/validate-notification-arn.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/validate-notification-arn.js
 usr/lib/node_modules/aws-cdk/lib/util/version-range.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/version-range.js
+usr/lib/node_modules/aws-cdk/lib/util/work-graph-builder.d.ts
+usr/lib/node_modules/aws-cdk/lib/util/work-graph-builder.js
+usr/lib/node_modules/aws-cdk/lib/util/work-graph-types.d.ts
+usr/lib/node_modules/aws-cdk/lib/util/work-graph-types.js
+usr/lib/node_modules/aws-cdk/lib/util/work-graph.d.ts
+usr/lib/node_modules/aws-cdk/lib/util/work-graph.js
 usr/lib/node_modules/aws-cdk/lib/util/yaml-cfn.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/yaml-cfn.js
 usr/lib/node_modules/aws-cdk/lib/version.d.ts
@@ -530,8 +534,6 @@ usr/lib/node_modules/aws-cdk/test/context-providers/vpcs.test.d.ts
 usr/lib/node_modules/aws-cdk/test/context-providers/vpcs.test.js
 usr/lib/node_modules/aws-cdk/test/context.test.d.ts
 usr/lib/node_modules/aws-cdk/test/context.test.js
-usr/lib/node_modules/aws-cdk/test/deploy.test.d.ts
-usr/lib/node_modules/aws-cdk/test/deploy.test.js
 usr/lib/node_modules/aws-cdk/test/diff.test.d.ts
 usr/lib/node_modules/aws-cdk/test/diff.test.js
 usr/lib/node_modules/aws-cdk/test/import.test.d.ts
@@ -579,6 +581,8 @@ usr/lib/node_modules/aws-cdk/test/serialize.test.d.ts
 usr/lib/node_modules/aws-cdk/test/serialize.test.js
 usr/lib/node_modules/aws-cdk/test/settings.test.d.ts
 usr/lib/node_modules/aws-cdk/test/settings.test.js
+usr/lib/node_modules/aws-cdk/test/stage-manifest/
+usr/lib/node_modules/aws-cdk/test/stage-manifest/manifest.json
 usr/lib/node_modules/aws-cdk/test/tree.test.d.ts
 usr/lib/node_modules/aws-cdk/test/tree.test.js
 usr/lib/node_modules/aws-cdk/test/usersettings.test.d.ts
@@ -612,5 +616,9 @@ usr/lib/node_modules/aws-cdk/test/util/version-range.test.d.ts
 usr/lib/node_modules/aws-cdk/test/util/version-range.test.js
 usr/lib/node_modules/aws-cdk/test/version.test.d.ts
 usr/lib/node_modules/aws-cdk/test/version.test.js
+usr/lib/node_modules/aws-cdk/test/work-graph-builder.test.d.ts
+usr/lib/node_modules/aws-cdk/test/work-graph-builder.test.js
+usr/lib/node_modules/aws-cdk/test/work-graph.test.d.ts
+usr/lib/node_modules/aws-cdk/test/work-graph.test.js
 usr/lib/node_modules/aws-cdk/test/yaml.test.d.ts
 usr/lib/node_modules/aws-cdk/test/yaml.test.js

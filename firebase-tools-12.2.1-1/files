@@ -7195,6 +7195,7 @@ usr/lib/node_modules/firebase-tools/node_modules/heap-js/dist/heap-js.es5.js
 usr/lib/node_modules/firebase-tools/node_modules/heap-js/dist/heap-js.umd.js
 usr/lib/node_modules/firebase-tools/node_modules/heap-js/dist/types/
 usr/lib/node_modules/firebase-tools/node_modules/heap-js/dist/types/Heap.d.ts
+usr/lib/node_modules/firebase-tools/node_modules/heap-js/dist/types/HeapAsync.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/heap-js/package.json
 usr/lib/node_modules/firebase-tools/node_modules/http-cache-semantics/
 usr/lib/node_modules/firebase-tools/node_modules/http-cache-semantics/LICENSE

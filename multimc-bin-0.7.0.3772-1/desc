@@ -1,0 +1,67 @@
+%FILENAME%
+multimc-bin-0.7.0.3772-1-x86_64.pkg.tar.xz
+
+%NAME%
+multimc-bin
+
+%BASE%
+multimc-bin
+
+%VERSION%
+0.7.0.3772-1
+
+%DESC%
+A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+
+%CSIZE%
+2671628
+
+%ISIZE%
+7529632
+
+%MD5SUM%
+2a9adf0e230386fe0892f51bd330b231
+
+%SHA256SUM%
+45567051bdd9dd1b11622e77d9a161f4de0a1896dd52e968cb3222317af0de09
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmRv3lAACgkQAiE6BJNFfpbpDQ//V0NTXodRX0o1jqO3OjFbNhTco+q3/gFDH9Uoc9nSvcVSVyCyzJoIWbRTuCYpdTGdOVjzYo9qfVDFUrVLWlNB4EqVxSlqKha8JSUDw3ykrzzkHgIsFKsCe20BTMgVmX1vG7BYd3CaRWP0jQIm2DfJb4LFTf9vHApDYOLA/d2+uP0Ueq/NdeehZWsHFJLBGiS4k2A7PplLe5dKfCs1v9DT7y7g5SBIiH7aBauXhM+3r9Xl9OTovwijQk0btrtBh3RPCIrmduLWCEdGKUtqhTdFM8ocMcgHcC/a2xPVGvBP4gw+tyw3unHn4OA9TpQDf0ItHQTDpmCkMbw0g+SMIFVYAM5xSv1StgZJ5UME9cTHtn6oAXzQAKaL+neRLvEZayGdwQ52YmlTlPIA0TKxPdN46vvEWHqRS84jdqb4aYgx4zNPjLtpKDx422DCwEUtnd0/s3JTfFhRCybh08ISNCJUTxLu7T1yC3v33SPT4ctqqFMpVwDDetsA6XCwMHvLy2+io/vm9E+z9/UaWmnTMAnh7i8sOtxwwrsflt19ZZN6J+9sCpmFdmxZ9lezWygUrXkYKvhPdOi9t6zs45DRw4CoelEZsPDnH2HSe0F2ubeYTD48ga8txab/6iW9ipRMoDcBBcu18y4TzC5S8GCVbK7/cZZ9MiuEZ9IqE0Egh/+mSEk=
+
+%URL%
+https://multimc.org/
+
+%LICENSE%
+Apache
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1685052959
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%REPLACES%
+multimc-native
+
+%CONFLICTS%
+multimc
+
+%PROVIDES%
+multimc
+
+%DEPENDS%
+zlib
+libgl
+qt5-base
+java-runtime
+
+%OPTDEPENDS%
+mcedit: Allows editing of minecraft worlds
+visualvm: Profiling support
+xorg-xrandr: for older minecraft versions
+openal: to use system OpenAL libraries
+glfw: to use system GLFW libraries
+

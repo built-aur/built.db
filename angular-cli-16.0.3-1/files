@@ -7499,6 +7499,7 @@ usr/lib/node_modules/@angular/cli/node_modules/tslib/LICENSE.txt
 usr/lib/node_modules/@angular/cli/node_modules/tslib/README.md
 usr/lib/node_modules/@angular/cli/node_modules/tslib/SECURITY.md
 usr/lib/node_modules/@angular/cli/node_modules/tslib/modules/
+usr/lib/node_modules/@angular/cli/node_modules/tslib/modules/index.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/tslib/modules/index.js
 usr/lib/node_modules/@angular/cli/node_modules/tslib/modules/package.json
 usr/lib/node_modules/@angular/cli/node_modules/tslib/package.json

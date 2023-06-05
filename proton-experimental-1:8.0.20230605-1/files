@@ -986,7 +986,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libgstvideo
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libgstvideo-1.0.so.0.1805.0
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libopenxr_loader.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libopenxr_loader.so.1
-usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libopenxr_loader.so.1.0.20
+usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/libopenxr_loader.so.1.0.27
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/liborc-0.4.so
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/liborc-0.4.so.0
 usr/share/steam/compatibilitytools.d/proton-experimental/files/lib64/liborc-0.4.so.0.32.0
@@ -3529,6 +3529,7 @@ usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/arial
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/arialbd.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/cour.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/courbd.ttf
+usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/georgia.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/malgun.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/micross.ttf
 usr/share/steam/compatibilitytools.d/proton-experimental/files/share/fonts/msgothic.ttc

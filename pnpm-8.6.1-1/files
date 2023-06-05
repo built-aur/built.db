@@ -195,10 +195,6 @@ usr/lib/node_modules/pnpm/dist/node_modules/depd/index.js
 usr/lib/node_modules/pnpm/dist/node_modules/depd/lib/
 usr/lib/node_modules/pnpm/dist/node_modules/depd/lib/browser/
 usr/lib/node_modules/pnpm/dist/node_modules/depd/lib/browser/index.js
-usr/lib/node_modules/pnpm/dist/node_modules/depd/lib/compat/
-usr/lib/node_modules/pnpm/dist/node_modules/depd/lib/compat/callsite-tostring.js
-usr/lib/node_modules/pnpm/dist/node_modules/depd/lib/compat/event-listener-count.js
-usr/lib/node_modules/pnpm/dist/node_modules/depd/lib/compat/index.js
 usr/lib/node_modules/pnpm/dist/node_modules/depd/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/emoji-regex/
 usr/lib/node_modules/pnpm/dist/node_modules/emoji-regex/LICENSE-MIT.txt
@@ -377,6 +373,7 @@ usr/lib/node_modules/pnpm/dist/node_modules/isexe/windows.js
 usr/lib/node_modules/pnpm/dist/node_modules/lru-cache/
 usr/lib/node_modules/pnpm/dist/node_modules/lru-cache/LICENSE
 usr/lib/node_modules/pnpm/dist/node_modules/lru-cache/index.js
+usr/lib/node_modules/pnpm/dist/node_modules/lru-cache/index.mjs
 usr/lib/node_modules/pnpm/dist/node_modules/lru-cache/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/make-fetch-happen/
 usr/lib/node_modules/pnpm/dist/node_modules/make-fetch-happen/LICENSE
@@ -808,6 +805,7 @@ usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/
 usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/
 usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/LICENSE
 usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/index.js
+usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/index.mjs
 usr/lib/node_modules/pnpm/dist/node_modules/tar/node_modules/minipass/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/tar/package.json
 usr/lib/node_modules/pnpm/dist/node_modules/unique-filename/

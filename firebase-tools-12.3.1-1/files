@@ -116,6 +116,7 @@ usr/lib/node_modules/firebase-tools/lib/commands/hosting-sites-get.js
 usr/lib/node_modules/firebase-tools/lib/commands/hosting-sites-list.js
 usr/lib/node_modules/firebase-tools/lib/commands/index.js
 usr/lib/node_modules/firebase-tools/lib/commands/init.js
+usr/lib/node_modules/firebase-tools/lib/commands/internaltesting-frameworks-compose.js
 usr/lib/node_modules/firebase-tools/lib/commands/internaltesting-functions-discover.js
 usr/lib/node_modules/firebase-tools/lib/commands/login-add.js
 usr/lib/node_modules/firebase-tools/lib/commands/login-ci.js
@@ -401,6 +402,16 @@ usr/lib/node_modules/firebase-tools/lib/frameworks/angular/utils.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/astro/
 usr/lib/node_modules/firebase-tools/lib/frameworks/astro/index.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/astro/utils.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/discover/
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/discover/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/driver/
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/driver/docker.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/driver/hooks.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/driver/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/driver/local.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/index.js
+usr/lib/node_modules/firebase-tools/lib/frameworks/compose/interfaces.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/constants.js
 usr/lib/node_modules/firebase-tools/lib/frameworks/docs/
 usr/lib/node_modules/firebase-tools/lib/frameworks/docs/index.js
@@ -14813,6 +14824,7 @@ usr/lib/node_modules/firebase-tools/node_modules/tslib/package.json
 usr/lib/node_modules/firebase-tools/node_modules/tslib/tslib.d.ts
 usr/lib/node_modules/firebase-tools/node_modules/tslib/tslib.es6.html
 usr/lib/node_modules/firebase-tools/node_modules/tslib/tslib.es6.js
+usr/lib/node_modules/firebase-tools/node_modules/tslib/tslib.es6.mjs
 usr/lib/node_modules/firebase-tools/node_modules/tslib/tslib.html
 usr/lib/node_modules/firebase-tools/node_modules/tslib/tslib.js
 usr/lib/node_modules/firebase-tools/node_modules/tunnel-agent/

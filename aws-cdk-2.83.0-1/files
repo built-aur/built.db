@@ -406,6 +406,8 @@ usr/lib/node_modules/aws-cdk/lib/util/npm.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/npm.js
 usr/lib/node_modules/aws-cdk/lib/util/objects.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/objects.js
+usr/lib/node_modules/aws-cdk/lib/util/parallel.d.ts
+usr/lib/node_modules/aws-cdk/lib/util/parallel.js
 usr/lib/node_modules/aws-cdk/lib/util/tables.d.ts
 usr/lib/node_modules/aws-cdk/lib/util/tables.js
 usr/lib/node_modules/aws-cdk/lib/util/tracing.d.ts
@@ -608,6 +610,8 @@ usr/lib/node_modules/aws-cdk/test/util/mock-toolkitinfo.d.ts
 usr/lib/node_modules/aws-cdk/test/util/mock-toolkitinfo.js
 usr/lib/node_modules/aws-cdk/test/util/objects.test.d.ts
 usr/lib/node_modules/aws-cdk/test/util/objects.test.js
+usr/lib/node_modules/aws-cdk/test/util/parallel.test.d.ts
+usr/lib/node_modules/aws-cdk/test/util/parallel.test.js
 usr/lib/node_modules/aws-cdk/test/util/stack-monitor.test.d.ts
 usr/lib/node_modules/aws-cdk/test/util/stack-monitor.test.js
 usr/lib/node_modules/aws-cdk/test/util/validate-notification-arn.test.d.ts

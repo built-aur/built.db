@@ -1,0 +1,71 @@
+%FILENAME%
+android-ndk-r25.c-2-x86_64.pkg.tar.xz
+
+%NAME%
+android-ndk
+
+%BASE%
+android-ndk
+
+%VERSION%
+r25.c-2
+
+%DESC%
+Android C/C++ developer kit
+
+%CSIZE%
+338929132
+
+%ISIZE%
+1703416562
+
+%MD5SUM%
+9e0cf3a50fd382f70896d8435a6095dc
+
+%SHA256SUM%
+3a3768ab9797240e2f586df00652d7f5afc1ccf845a782e937c2093752ff1523
+
+%PGPSIG%
+iQIzBAABCgAdFiEE14wTV4fcD1bQ5KXxAiE6BJNFfpYFAmSElVMACgkQAiE6BJNFfpb4Og//f9Tk7uZrASZX0woU9DM/2CGAK+3PrrTWoF1QVpTi/nozPFk+SvPzavSjpqNLhlGiMcgjRZNl0l3VDFah1/ZXLkqymhV93WU+l1/RfWKHpJTmNA5mI170KU7V9U0Vp8AkJ0Re/KBIACQRnzzGB71wUoIwfV4cDv/Z+vUYTBmRIbyH1AZx+FO9/8tAu5yXSgkA33d6vbV4dX8GH2KFWRT86julNVptU5D5/kf+osvleUXtoGN5nF9f1HkwLKiBGymoQZmHmWw4E4BEiHDYKSHQbGXnF7uOmA3ppXC9/Crv6nUe+Hzq+jBz/6SgX1Swbzm1HY+M0/IImXezl/y3lIvNfUCyBn3qtGNU80NhGhZWK6JlxFfyED8iSB7JCV4iqctYgstv6qXq33VrAFBsASOJGv9OD8QKCvsHFXV67Y2g7s8E1z5lAgtC6es7FTImlvSQO6xWliD1D3KN74tvy3r4NsJSeJFIVn8SSj95oNhvN1xvGl/CTgJXNXz307hyx12rZ83Hay8U47S6/f0NsxTuOVVixvwO6OKbOf+k6cXL1ODw8l3pW6EHjEeGldfLx4PaVjAVIaavQaue5/tRr4o340tPLk+wDoLcn2LI8fSEkxZdP0NvuhZNPUw7O0c7zsoEI+Tn+MA6jeSmwN6BWzRe6GQUpE3ohpX60PiTOKUBK1s=
+
+%URL%
+https://developer.android.com/ndk/
+
+%LICENSE%
+GPL
+LGPL
+custom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1686410002
+
+%PACKAGER%
+MedzikUser <nivua1fn@duck.com>
+
+%REPLACES%
+android-ndk64
+
+%DEPENDS%
+bash
+glibc
+gcc-libs
+zlib
+
+%OPTDEPENDS%
+ncurses5-compat-libs: for curses module in bundled Python
+bzip2: for bz2 module in bundled Python
+libxcrypt-compat: for crypt module in bundled Python
+python: various helper scripts
+perl: various helper scripts
+libc++: for some LLVM components
+
+%MAKEDEPENDS%
+bzip2
+libxcrypt-compat
+python
+perl
+libc++
+

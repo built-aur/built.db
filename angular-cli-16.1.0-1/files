@@ -128,7 +128,6 @@ usr/lib/node_modules/@angular/cli/node_modules/@angular-devkit/core/node/host.d.
 usr/lib/node_modules/@angular/cli/node_modules/@angular-devkit/core/node/host.js
 usr/lib/node_modules/@angular/cli/node_modules/@angular-devkit/core/node/index.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/@angular-devkit/core/node/index.js
-usr/lib/node_modules/@angular/cli/node_modules/@angular-devkit/core/node/package.json
 usr/lib/node_modules/@angular/cli/node_modules/@angular-devkit/core/node/testing/
 usr/lib/node_modules/@angular/cli/node_modules/@angular-devkit/core/node/testing/index.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/@angular-devkit/core/node/testing/index.js
@@ -834,6 +833,17 @@ usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/paths
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/paths.js
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/project-targets.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/project-targets.js
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/app_config.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/app_config.js
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/code_block.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/code_block.js
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/index.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/index.js
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/rules.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/rules.js
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/util.d.ts
+usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/standalone/util.js
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/validation.d.ts
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/validation.js
 usr/lib/node_modules/@angular/cli/node_modules/@schematics/angular/utility/workspace-models.d.ts
